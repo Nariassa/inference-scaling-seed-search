@@ -1,0 +1,32 @@
+sd15 MT Scheduled Baseline
+==========================
+
+Args
+----
+{
+  "cutoff_times": [
+    16,
+    32
+  ],
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "guidance_metric": "ir",
+  "k_init": 32,
+  "logical_seeds": [
+    0
+  ],
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "model_label": "sd15",
+  "remaining_particles": [
+    16,
+    8
+  ],
+  "total_steps": 64
+}
+
+Per-seed results
+----------------
+seed=0  particles=0..31      prompts=120  IR=1.246646 HPS=nan GenEvalOverall@IR=0.616667 GenEvalOverall@HPS=nan
+
+Mean across seeds
+-----------------
+IR=1.246646 HPS=nan GenEvalOverall@IR=0.616667 GenEvalOverall@HPS=nan

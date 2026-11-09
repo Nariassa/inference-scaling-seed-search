@@ -1,0 +1,115 @@
+{
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "metrics_sha256": "245e3a7da5e77ac2db832947a33b650c2618544379a197e20b3a18dbd7213be5",
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "geneval_sha256": "7544ac23f8b2adabc7ff48ea142de59baa4b0f9b6ed9221a3890b9e69d5cdc8d",
+  "official_script": "/home/msai/rui035/PSP/results_scripts/baselines/compute_mt_scheduled_from_rewards.py",
+  "official_script_sha256": "cdfee28133f60d36f0573b6000f7843bb24c0d873e968f88b57c292545821786",
+  "guidance_metric": "ir",
+  "total_steps": 64,
+  "std_definition": "sample standard deviation across seed-group means; blank for one group",
+  "configurations": [
+    {
+      "name": "prune8",
+      "k_init": 8,
+      "cutoff_times": [
+        8
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 288
+    },
+    {
+      "name": "prune16",
+      "k_init": 8,
+      "cutoff_times": [
+        16
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 320
+    },
+    {
+      "name": "prune24",
+      "k_init": 8,
+      "cutoff_times": [
+        24
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 352
+    },
+    {
+      "name": "prune32",
+      "k_init": 8,
+      "cutoff_times": [
+        32
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 384
+    },
+    {
+      "name": "prune40",
+      "k_init": 8,
+      "cutoff_times": [
+        40
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 416
+    },
+    {
+      "name": "prune48",
+      "k_init": 8,
+      "cutoff_times": [
+        48
+      ],
+      "remaining_particles": [
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 448
+    }
+  ]
+}

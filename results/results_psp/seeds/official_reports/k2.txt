@@ -1,0 +1,60 @@
+sd15 MT Scheduled Baseline
+==========================
+
+Args
+----
+{
+  "cutoff_times": [
+    16
+  ],
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "guidance_metric": "ir",
+  "k_init": 2,
+  "logical_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "model_label": "sd15",
+  "remaining_particles": [
+    1
+  ],
+  "total_steps": 64
+}
+
+Per-seed results
+----------------
+seed=0  particles=0..1       prompts=120  IR=0.089998 HPS=nan GenEvalOverall@IR=0.475000 GenEvalOverall@HPS=nan
+seed=1  particles=2..3       prompts=120  IR=0.186194 HPS=nan GenEvalOverall@IR=0.458333 GenEvalOverall@HPS=nan
+seed=2  particles=4..5       prompts=120  IR=0.165115 HPS=nan GenEvalOverall@IR=0.483333 GenEvalOverall@HPS=nan
+seed=3  particles=6..7       prompts=120  IR=0.192682 HPS=nan GenEvalOverall@IR=0.466667 GenEvalOverall@HPS=nan
+seed=4  particles=8..9       prompts=120  IR=0.219663 HPS=nan GenEvalOverall@IR=0.508333 GenEvalOverall@HPS=nan
+seed=5  particles=10..11     prompts=120  IR=0.091690 HPS=nan GenEvalOverall@IR=0.425000 GenEvalOverall@HPS=nan
+seed=6  particles=12..13     prompts=120  IR=0.196265 HPS=nan GenEvalOverall@IR=0.416667 GenEvalOverall@HPS=nan
+seed=7  particles=14..15     prompts=120  IR=0.204636 HPS=nan GenEvalOverall@IR=0.458333 GenEvalOverall@HPS=nan
+seed=8  particles=16..17     prompts=120  IR=0.282045 HPS=nan GenEvalOverall@IR=0.483333 GenEvalOverall@HPS=nan
+seed=9  particles=18..19     prompts=120  IR=0.188880 HPS=nan GenEvalOverall@IR=0.491667 GenEvalOverall@HPS=nan
+seed=10 particles=20..21     prompts=120  IR=0.153485 HPS=nan GenEvalOverall@IR=0.458333 GenEvalOverall@HPS=nan
+seed=11 particles=22..23     prompts=120  IR=0.184916 HPS=nan GenEvalOverall@IR=0.500000 GenEvalOverall@HPS=nan
+seed=12 particles=24..25     prompts=120  IR=0.266351 HPS=nan GenEvalOverall@IR=0.483333 GenEvalOverall@HPS=nan
+seed=13 particles=26..27     prompts=120  IR=0.240082 HPS=nan GenEvalOverall@IR=0.525000 GenEvalOverall@HPS=nan
+seed=14 particles=28..29     prompts=120  IR=0.121663 HPS=nan GenEvalOverall@IR=0.500000 GenEvalOverall@HPS=nan
+seed=15 particles=30..31     prompts=120  IR=0.213465 HPS=nan GenEvalOverall@IR=0.483333 GenEvalOverall@HPS=nan
+
+Mean across seeds
+-----------------
+IR=0.187320 HPS=nan GenEvalOverall@IR=0.476042 GenEvalOverall@HPS=nan
