@@ -1,6 +1,6 @@
 # Inference-Time Scaling for Diffusion: Best-of-N vs Progressive Seed Pruning
 
-**AI6132 Generative AI for Visual Synthesis (NTU), Project 1 technical review**
+**AI6132 Generative AI for Visual Synthesis (NTU), Technical Review Project**
 
 Instead of spending more compute on training or on more denoising steps, we spend it at sampling time. We draw many noise seeds and keep the best one under a reward model.
 This repo compares two ways of doing that at **matched compute**:
@@ -106,10 +106,10 @@ On an L4 (24 GB), one prompt × 32 seeds takes about 203 s, so all 120 prompts t
 
 | Member | Role |
 |---|---|
-| A | Coordinator; generation harness, compute counter, Best-of-N sweeps |
-| B | PSP replay, schedule sweeps, adaptive schedule |
-| C | Prompt subset, GenEval and held-out evaluation |
-| D | Qualitative figures, diversity, introduction and conclusion |
+| Ka Lam LI | Coordinator; generation harness, compute counter, Best-of-N sweeps |
+| Rui YANG | PSP replay, schedule sweeps, adaptive schedule |
+| Canying CHEN | Prompt subset, GenEval and held-out evaluation |
+| Kaixin ZHU | Qualitative figures, diversity, introduction and conclusion |
 
 Timeline: Nov 9 setup → Nov 10 cache handed over → Nov 11–13 sweeps and analysis → Nov 14 writing → **Nov 16 deadline**.
 
