@@ -1,0 +1,129 @@
+{
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "metrics_sha256": "245e3a7da5e77ac2db832947a33b650c2618544379a197e20b3a18dbd7213be5",
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "geneval_sha256": "7544ac23f8b2adabc7ff48ea142de59baa4b0f9b6ed9221a3890b9e69d5cdc8d",
+  "official_script": "/home/msai/rui035/PSP/results_scripts/baselines/compute_mt_scheduled_from_rewards.py",
+  "official_script_sha256": "cdfee28133f60d36f0573b6000f7843bb24c0d873e968f88b57c292545821786",
+  "guidance_metric": "ir",
+  "total_steps": 64,
+  "std_definition": "sample standard deviation across seed-group means; blank for one group",
+  "configurations": [
+    {
+      "name": "timing_8_48",
+      "k_init": 8,
+      "cutoff_times": [
+        8,
+        48
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "timing_12_40",
+      "k_init": 8,
+      "cutoff_times": [
+        12,
+        40
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "baseline_16_32",
+      "k_init": 8,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "timing_20_24",
+      "k_init": 8,
+      "cutoff_times": [
+        20,
+        24
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "survivors_6_1",
+      "k_init": 8,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        6,
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "three_stages",
+      "k_init": 8,
+      "cutoff_times": [
+        8,
+        16,
+        32
+      ],
+      "remaining_particles": [
+        6,
+        5,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    }
+  ]
+}

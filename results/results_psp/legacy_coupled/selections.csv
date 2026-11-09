@@ -1,0 +1,1801 @@
+prompt_id,prompt,seed,step,timestep,image_reward,human_preference,local_seed_idx,correct,tag,configuration,logical_seed
+0,a photo of a blue cell phone and a green apple,2,64,1,0.4213999211788177,,2,1.0,color_attr,nbar2,0
+1,a photo of a brown carrot and a white potted plant,32,64,1,-1.0800479650497437,,0,0.0,color_attr,nbar2,0
+2,a photo of a blue vase and a black banana,65,64,1,-1.5360982418060305,,1,0.0,color_attr,nbar2,0
+3,a photo of a yellow sports ball and a green boat,98,64,1,0.6002069115638733,,2,0.0,color_attr,nbar2,0
+4,a photo of a purple computer keyboard and a blue scissors,130,64,1,-0.1467705070972442,,2,0.0,color_attr,nbar2,0
+5,a photo of a brown computer mouse and a purple bottle,162,64,1,0.9784176349639891,,2,0.0,color_attr,nbar2,0
+6,a photo of a yellow suitcase and a brown bus,195,64,1,-1.622019648551941,,3,0.0,color_attr,nbar2,0
+7,a photo of an orange giraffe and a white baseball glove,226,64,1,-0.033543162047863,,2,0.0,color_attr,nbar2,0
+8,a photo of an orange handbag and a green carrot,257,64,1,0.9120418429374696,,1,0.0,color_attr,nbar2,0
+9,a photo of a yellow car and an orange toothbrush,291,64,1,-0.6919775605201721,,3,0.0,color_attr,nbar2,0
+10,a photo of a black potted plant and a yellow toilet,322,64,1,-0.6363726854324341,,2,0.0,color_attr,nbar2,0
+11,a photo of an orange donut and a yellow stop sign,352,64,1,-0.8312434554100037,,0,0.0,color_attr,nbar2,0
+12,a photo of an orange tennis racket and a yellow sports ball,387,64,1,1.5237096548080444,,3,0.0,color_attr,nbar2,0
+13,a photo of a purple computer keyboard and a red chair,416,64,1,-0.2750341594219208,,0,0.0,color_attr,nbar2,0
+14,a photo of a purple backpack and a white umbrella,451,64,1,0.9212841987609864,,3,0.0,color_attr,nbar2,0
+15,a photo of a yellow handbag and a blue refrigerator,480,64,1,1.9661015272140503,,0,1.0,color_attr,nbar2,0
+16,a photo of a brown knife and a blue donut,512,64,1,1.6829179525375366,,0,0.0,color_attr,nbar2,0
+17,a photo of a red orange and a purple broccoli,545,64,1,-1.1562637090682983,,1,0.0,color_attr,nbar2,0
+18,a photo of a green cup and a red pizza,579,64,1,0.6118014454841614,,3,0.0,color_attr,nbar2,0
+19,a photo of a blue pizza and a yellow baseball glove,611,64,1,-0.7483563423156738,,3,0.0,color_attr,nbar2,0
+20,a photo of a blue fire hydrant,640,64,1,1.0842053890228271,,0,1.0,colors,nbar2,0
+21,a photo of a pink car,674,64,1,1.7871838808059692,,2,1.0,colors,nbar2,0
+22,a photo of a purple hair drier,705,64,1,1.3209335803985596,,1,0.0,colors,nbar2,0
+23,a photo of a purple elephant,739,64,1,1.8588783740997317,,3,1.0,colors,nbar2,0
+24,a photo of a red zebra,769,64,1,0.8885287642478943,,1,1.0,colors,nbar2,0
+25,a photo of a brown computer keyboard,800,64,1,1.4376487731933594,,0,1.0,colors,nbar2,0
+26,a photo of a red dog,833,64,1,0.1960371136665344,,1,1.0,colors,nbar2,0
+27,a photo of a yellow airplane,866,64,1,0.9227866530418396,,2,1.0,colors,nbar2,0
+28,a photo of a green surfboard,898,64,1,0.0256073735654354,,2,1.0,colors,nbar2,0
+29,a photo of a black dining table,930,64,1,0.8796111941337585,,2,0.0,colors,nbar2,0
+30,a photo of a pink potted plant,962,64,1,1.701849341392517,,2,1.0,colors,nbar2,0
+31,a photo of a red giraffe,992,64,1,-0.5434544086456299,,0,1.0,colors,nbar2,0
+32,a photo of an orange laptop,1027,64,1,1.7144944667816162,,3,1.0,colors,nbar2,0
+33,a photo of a yellow parking meter,1059,64,1,0.9984714388847352,,3,1.0,colors,nbar2,0
+34,a photo of a yellow orange,1089,64,1,-0.5531536936759949,,1,0.0,colors,nbar2,0
+35,a photo of a white sheep,1120,64,1,0.9603116512298584,,0,1.0,colors,nbar2,0
+36,a photo of a black teddy bear,1152,64,1,1.6060298681259155,,0,1.0,colors,nbar2,0
+37,a photo of a blue carrot,1184,64,1,-0.2762435674667358,,0,0.0,colors,nbar2,0
+38,a photo of a green bus,1219,64,1,1.4320534467697144,,3,1.0,colors,nbar2,0
+39,a photo of an orange toaster,1248,64,1,1.6266313791275024,,0,1.0,colors,nbar2,0
+40,a photo of two frisbees,1281,64,1,0.2418932318687439,,1,0.0,counting,nbar2,0
+41,a photo of three persons,1314,64,1,0.5714107155799866,,2,1.0,counting,nbar2,0
+42,a photo of four bowls,1345,64,1,0.5882306694984436,,1,1.0,counting,nbar2,0
+43,a photo of two bicycles,1378,64,1,0.207280084490776,,2,0.0,counting,nbar2,0
+44,a photo of two beds,1408,64,1,0.3933682441711426,,0,1.0,counting,nbar2,0
+45,a photo of two tv remotes,1441,64,1,0.95862478017807,,1,1.0,counting,nbar2,0
+46,a photo of three fire hydrants,1474,64,1,1.0946123600006104,,2,1.0,counting,nbar2,0
+47,a photo of four giraffes,1507,64,1,0.3882509768009186,,3,0.0,counting,nbar2,0
+48,a photo of three baseball bats,1539,64,1,1.0590633153915403,,3,0.0,counting,nbar2,0
+49,a photo of three refrigerators,1571,64,1,1.2707990407943726,,3,0.0,counting,nbar2,0
+50,a photo of two fire hydrants,1603,64,1,1.0789703130722046,,3,1.0,counting,nbar2,0
+51,a photo of four broccolis,1635,64,1,0.7244477868080139,,3,0.0,counting,nbar2,0
+52,a photo of two carrots,1664,64,1,0.4746305048465729,,0,0.0,counting,nbar2,0
+53,a photo of four clocks,1698,64,1,0.9326096177101136,,2,1.0,counting,nbar2,0
+54,a photo of two cars,1729,64,1,0.8096028566360474,,1,1.0,counting,nbar2,0
+55,a photo of two bananas,1762,64,1,0.7712262868881226,,2,1.0,counting,nbar2,0
+56,a photo of three birds,1793,64,1,0.906118869781494,,1,1.0,counting,nbar2,0
+57,a photo of two hair driers,1827,64,1,0.0423812754452228,,3,0.0,counting,nbar2,0
+58,a photo of two parking meters,1858,64,1,1.0696872472763062,,2,0.0,counting,nbar2,0
+59,a photo of four frisbees,1889,64,1,-0.0156114883720874,,1,0.0,counting,nbar2,0
+60,a photo of a laptop left of a cow,1923,64,1,1.7944504022598269,,3,0.0,position,nbar2,0
+61,a photo of a skateboard above a person,1952,64,1,0.4524901211261749,,0,0.0,position,nbar2,0
+62,a photo of a dining table right of an oven,1987,64,1,1.089077711105347,,3,1.0,position,nbar2,0
+63,a photo of a tennis racket right of a spoon,2016,64,1,-0.06417828053236,,0,0.0,position,nbar2,0
+64,a photo of a toaster below a traffic light,2049,64,1,-0.9333170652389526,,1,0.0,position,nbar2,0
+65,a photo of a frisbee right of a motorcycle,2081,64,1,-0.4719408750534057,,1,0.0,position,nbar2,0
+66,a photo of a bench left of a bear,2112,64,1,-0.980384111404419,,0,0.0,position,nbar2,0
+67,a photo of a donut right of a bench,2144,64,1,-1.5532711744308472,,0,0.0,position,nbar2,0
+68,a photo of a cat below a backpack,2178,64,1,1.769572138786316,,2,0.0,position,nbar2,0
+69,a photo of a backpack below a cake,2208,64,1,-1.883489966392517,,0,0.0,position,nbar2,0
+70,a photo of a sandwich below a knife,2240,64,1,1.1297751665115356,,0,0.0,position,nbar2,0
+71,a photo of a bicycle above a parking meter,2272,64,1,0.0029943513218313,,0,0.0,position,nbar2,0
+72,a photo of a knife right of a suitcase,2306,64,1,-0.5174773931503296,,2,0.0,position,nbar2,0
+73,a photo of a hot dog above a knife,2339,64,1,1.051280498504639,,3,0.0,position,nbar2,0
+74,a photo of a zebra right of a parking meter,2370,64,1,1.1208281517028809,,2,0.0,position,nbar2,0
+75,a photo of a zebra below a broccoli,2403,64,1,-1.8195234537124636,,3,0.0,position,nbar2,0
+76,a photo of a laptop below a sports ball,2432,64,1,1.93021297454834,,0,0.0,position,nbar2,0
+77,a photo of a tv above a baseball bat,2465,64,1,0.7288996577262878,,1,0.0,position,nbar2,0
+78,a photo of a clock below a tv,2497,64,1,0.7407776713371277,,1,0.0,position,nbar2,0
+79,a photo of a donut below a cat,2530,64,1,1.83946692943573,,2,1.0,position,nbar2,0
+80,a photo of a fork,2562,64,1,1.0086079835891724,,2,1.0,single_object,nbar2,0
+81,a photo of a snowboard,2594,64,1,-0.3071314096450805,,2,1.0,single_object,nbar2,0
+82,a photo of a zebra,2627,64,1,1.070504665374756,,3,1.0,single_object,nbar2,0
+83,a photo of a spoon,2657,64,1,0.453852504491806,,1,1.0,single_object,nbar2,0
+84,a photo of a motorcycle,2688,64,1,-0.0277939084917306,,0,1.0,single_object,nbar2,0
+85,a photo of a dog,2720,64,1,0.0117891617119312,,0,1.0,single_object,nbar2,0
+86,a photo of a laptop,2753,64,1,0.5869112014770508,,1,1.0,single_object,nbar2,0
+87,a photo of a baseball bat,2784,64,1,-0.1315518319606781,,0,1.0,single_object,nbar2,0
+88,a photo of a skis,2816,64,1,0.1474812775850296,,0,1.0,single_object,nbar2,0
+89,a photo of a vase,2850,64,1,1.1990396976470947,,2,1.0,single_object,nbar2,0
+90,a photo of a tv remote,2882,64,1,0.7347501516342163,,2,1.0,single_object,nbar2,0
+91,a photo of a fire hydrant,2915,64,1,0.8078716993331909,,3,1.0,single_object,nbar2,0
+92,a photo of a giraffe,2944,64,1,0.2921434640884399,,0,1.0,single_object,nbar2,0
+93,a photo of a horse,2977,64,1,0.4917506277561188,,1,1.0,single_object,nbar2,0
+94,a photo of a boat,3009,64,1,0.4213623106479645,,1,1.0,single_object,nbar2,0
+95,a photo of a hair drier,3043,64,1,0.7380163073539734,,3,1.0,single_object,nbar2,0
+96,a photo of a sink,3073,64,1,-0.0013124864781275,,1,1.0,single_object,nbar2,0
+97,a photo of a knife,3106,64,1,0.5961818695068359,,2,1.0,single_object,nbar2,0
+98,a photo of a hot dog,3136,64,1,-0.3737151324748993,,0,1.0,single_object,nbar2,0
+99,a photo of a truck,3171,64,1,0.781764566898346,,3,1.0,single_object,nbar2,0
+100,a photo of a toothbrush and a snowboard,3201,64,1,-1.341011881828308,,1,0.0,two_object,nbar2,0
+101,a photo of a tennis racket and a wine glass,3235,64,1,1.71481454372406,,3,1.0,two_object,nbar2,0
+102,a photo of a toilet and a computer mouse,3267,64,1,0.7397581338882446,,3,0.0,two_object,nbar2,0
+103,a photo of an oven and a bed,3296,64,1,1.4270892143249512,,0,1.0,two_object,nbar2,0
+104,a photo of a fork and a book,3331,64,1,1.271285057067871,,3,1.0,two_object,nbar2,0
+105,a photo of a scissors and a bowl,3362,64,1,1.677795648574829,,2,1.0,two_object,nbar2,0
+106,a photo of a giraffe and a computer mouse,3395,64,1,1.4669820070266724,,3,1.0,two_object,nbar2,0
+107,a photo of a person and a snowboard,3425,64,1,-0.2454766184091568,,1,1.0,two_object,nbar2,0
+108,a photo of a chair and a laptop,3458,64,1,0.6865701675415039,,2,1.0,two_object,nbar2,0
+109,a photo of a toothbrush and a bench,3489,64,1,1.500610589981079,,1,0.0,two_object,nbar2,0
+110,a photo of a bench and a vase,3522,64,1,0.680772066116333,,2,1.0,two_object,nbar2,0
+111,a photo of a traffic light and a backpack,3552,64,1,-1.5382567644119265,,0,0.0,two_object,nbar2,0
+112,a photo of a computer mouse and a spoon,3585,64,1,1.4158066511154177,,1,1.0,two_object,nbar2,0
+113,a photo of a tv and a bicycle,3619,64,1,1.7911698818206787,,3,1.0,two_object,nbar2,0
+114,a photo of a stop sign and a dog,3651,64,1,1.7378854751586914,,3,0.0,two_object,nbar2,0
+115,a photo of a computer keyboard and a cell phone,3683,64,1,0.1736371964216232,,3,0.0,two_object,nbar2,0
+116,a photo of a couch and a snowboard,3714,64,1,1.7592260837554932,,2,1.0,two_object,nbar2,0
+117,a photo of a fork and a baseball glove,3745,64,1,-1.9079210758209229,,1,0.0,two_object,nbar2,0
+118,a photo of a carrot and a couch,3776,64,1,0.5182509422302246,,0,1.0,two_object,nbar2,0
+119,a photo of a baseball bat and a giraffe,3810,64,1,-1.6360011100769043,,2,0.0,two_object,nbar2,0
+0,a photo of a blue cell phone and a green apple,5,64,1,-0.1396113783121109,,5,0.0,color_attr,nbar2,1
+1,a photo of a brown carrot and a white potted plant,38,64,1,-0.0696996003389358,,6,0.0,color_attr,nbar2,1
+2,a photo of a blue vase and a black banana,68,64,1,0.5355455875396729,,4,0.0,color_attr,nbar2,1
+3,a photo of a yellow sports ball and a green boat,100,64,1,1.6974756717681885,,4,1.0,color_attr,nbar2,1
+4,a photo of a purple computer keyboard and a blue scissors,133,64,1,0.976872742176056,,5,0.0,color_attr,nbar2,1
+5,a photo of a brown computer mouse and a purple bottle,165,64,1,0.9397897124290466,,5,0.0,color_attr,nbar2,1
+6,a photo of a yellow suitcase and a brown bus,199,64,1,-1.4135117530822754,,7,0.0,color_attr,nbar2,1
+7,a photo of an orange giraffe and a white baseball glove,230,64,1,-0.7733666300773621,,6,0.0,color_attr,nbar2,1
+8,a photo of an orange handbag and a green carrot,261,64,1,1.5153138637542725,,5,0.0,color_attr,nbar2,1
+9,a photo of a yellow car and an orange toothbrush,294,64,1,1.471244215965271,,6,0.0,color_attr,nbar2,1
+10,a photo of a black potted plant and a yellow toilet,324,64,1,0.27032470703125,,4,0.0,color_attr,nbar2,1
+11,a photo of an orange donut and a yellow stop sign,358,64,1,-1.8160680532455444,,6,0.0,color_attr,nbar2,1
+12,a photo of an orange tennis racket and a yellow sports ball,389,64,1,0.3036049902439117,,5,0.0,color_attr,nbar2,1
+13,a photo of a purple computer keyboard and a red chair,423,64,1,-0.0314543657004833,,7,0.0,color_attr,nbar2,1
+14,a photo of a purple backpack and a white umbrella,453,64,1,1.8599534034729004,,5,0.0,color_attr,nbar2,1
+15,a photo of a yellow handbag and a blue refrigerator,487,64,1,1.9512830972671509,,7,1.0,color_attr,nbar2,1
+16,a photo of a brown knife and a blue donut,519,64,1,1.538050651550293,,7,0.0,color_attr,nbar2,1
+17,a photo of a red orange and a purple broccoli,551,64,1,1.2283895015716553,,7,0.0,color_attr,nbar2,1
+18,a photo of a green cup and a red pizza,580,64,1,1.6671632528305054,,4,1.0,color_attr,nbar2,1
+19,a photo of a blue pizza and a yellow baseball glove,614,64,1,-1.5812925100326538,,6,0.0,color_attr,nbar2,1
+20,a photo of a blue fire hydrant,645,64,1,1.6670502424240112,,5,1.0,colors,nbar2,1
+21,a photo of a pink car,676,64,1,1.8233649730682373,,4,1.0,colors,nbar2,1
+22,a photo of a purple hair drier,710,64,1,1.607438564300537,,6,1.0,colors,nbar2,1
+23,a photo of a purple elephant,742,64,1,1.6349570751190186,,6,1.0,colors,nbar2,1
+24,a photo of a red zebra,773,64,1,-0.2095810025930404,,5,1.0,colors,nbar2,1
+25,a photo of a brown computer keyboard,806,64,1,0.965356469154358,,6,1.0,colors,nbar2,1
+26,a photo of a red dog,838,64,1,1.3710750341415403,,6,1.0,colors,nbar2,1
+27,a photo of a yellow airplane,868,64,1,1.2371892929077148,,4,1.0,colors,nbar2,1
+28,a photo of a green surfboard,901,64,1,0.1313953250646591,,5,1.0,colors,nbar2,1
+29,a photo of a black dining table,932,64,1,0.7886301875114441,,4,1.0,colors,nbar2,1
+30,a photo of a pink potted plant,964,64,1,1.6366578340530396,,4,1.0,colors,nbar2,1
+31,a photo of a red giraffe,997,64,1,0.0892817601561546,,5,1.0,colors,nbar2,1
+32,a photo of an orange laptop,1028,64,1,1.3815550804138184,,4,1.0,colors,nbar2,1
+33,a photo of a yellow parking meter,1062,64,1,1.2207645177841189,,6,1.0,colors,nbar2,1
+34,a photo of a yellow orange,1094,64,1,-0.5062514543533325,,6,0.0,colors,nbar2,1
+35,a photo of a white sheep,1124,64,1,0.5918980836868286,,4,1.0,colors,nbar2,1
+36,a photo of a black teddy bear,1159,64,1,1.438888430595398,,7,1.0,colors,nbar2,1
+37,a photo of a blue carrot,1190,64,1,-0.6918832063674927,,6,0.0,colors,nbar2,1
+38,a photo of a green bus,1220,64,1,1.244306564331055,,4,1.0,colors,nbar2,1
+39,a photo of an orange toaster,1252,64,1,1.590036392211914,,4,1.0,colors,nbar2,1
+40,a photo of two frisbees,1287,64,1,0.0107772108167409,,7,0.0,counting,nbar2,1
+41,a photo of three persons,1319,64,1,0.3027097284793854,,7,1.0,counting,nbar2,1
+42,a photo of four bowls,1348,64,1,0.7088615894317627,,4,0.0,counting,nbar2,1
+43,a photo of two bicycles,1381,64,1,0.7897875308990479,,5,0.0,counting,nbar2,1
+44,a photo of two beds,1415,64,1,0.7213312387466431,,7,1.0,counting,nbar2,1
+45,a photo of two tv remotes,1444,64,1,0.794793426990509,,4,0.0,counting,nbar2,1
+46,a photo of three fire hydrants,1477,64,1,1.1321029663085938,,5,1.0,counting,nbar2,1
+47,a photo of four giraffes,1511,64,1,0.8564425706863403,,7,0.0,counting,nbar2,1
+48,a photo of three baseball bats,1540,64,1,1.1373881101608276,,4,0.0,counting,nbar2,1
+49,a photo of three refrigerators,1573,64,1,0.7635475993156433,,5,1.0,counting,nbar2,1
+50,a photo of two fire hydrants,1605,64,1,0.9522973895072936,,5,1.0,counting,nbar2,1
+51,a photo of four broccolis,1637,64,1,0.7554506063461304,,5,0.0,counting,nbar2,1
+52,a photo of two carrots,1671,64,1,-0.3845493197441101,,7,0.0,counting,nbar2,1
+53,a photo of four clocks,1702,64,1,0.969146728515625,,6,1.0,counting,nbar2,1
+54,a photo of two cars,1733,64,1,0.6982427835464478,,5,1.0,counting,nbar2,1
+55,a photo of two bananas,1765,64,1,-1.207985520362854,,5,0.0,counting,nbar2,1
+56,a photo of three birds,1796,64,1,0.9620509743690492,,4,1.0,counting,nbar2,1
+57,a photo of two hair driers,1829,64,1,-0.0692600980401039,,5,0.0,counting,nbar2,1
+58,a photo of two parking meters,1860,64,1,1.2812023162841797,,4,0.0,counting,nbar2,1
+59,a photo of four frisbees,1894,64,1,0.0198344998061656,,6,1.0,counting,nbar2,1
+60,a photo of a laptop left of a cow,1926,64,1,1.76663339138031,,6,0.0,position,nbar2,1
+61,a photo of a skateboard above a person,1959,64,1,0.6180589199066162,,7,0.0,position,nbar2,1
+62,a photo of a dining table right of an oven,1988,64,1,0.4095542728900909,,4,0.0,position,nbar2,1
+63,a photo of a tennis racket right of a spoon,2020,64,1,-0.0541161373257637,,4,0.0,position,nbar2,1
+64,a photo of a toaster below a traffic light,2055,64,1,-1.826688528060913,,7,0.0,position,nbar2,1
+65,a photo of a frisbee right of a motorcycle,2086,64,1,0.0749920159578323,,6,0.0,position,nbar2,1
+66,a photo of a bench left of a bear,2119,64,1,-1.3554234504699707,,7,0.0,position,nbar2,1
+67,a photo of a donut right of a bench,2151,64,1,1.7457870244979858,,7,0.0,position,nbar2,1
+68,a photo of a cat below a backpack,2182,64,1,1.7424896955490112,,6,0.0,position,nbar2,1
+69,a photo of a backpack below a cake,2215,64,1,-1.7478646039962769,,7,0.0,position,nbar2,1
+70,a photo of a sandwich below a knife,2247,64,1,1.284893035888672,,7,0.0,position,nbar2,1
+71,a photo of a bicycle above a parking meter,2278,64,1,-0.0569478198885917,,6,0.0,position,nbar2,1
+72,a photo of a knife right of a suitcase,2308,64,1,1.148108959197998,,4,0.0,position,nbar2,1
+73,a photo of a hot dog above a knife,2340,64,1,0.9930726885795592,,4,0.0,position,nbar2,1
+74,a photo of a zebra right of a parking meter,2374,64,1,0.574112594127655,,6,0.0,position,nbar2,1
+75,a photo of a zebra below a broccoli,2406,64,1,-1.860828757286072,,6,0.0,position,nbar2,1
+76,a photo of a laptop below a sports ball,2439,64,1,1.8616530895233157,,7,0.0,position,nbar2,1
+77,a photo of a tv above a baseball bat,2468,64,1,1.4208821058273315,,4,0.0,position,nbar2,1
+78,a photo of a clock below a tv,2502,64,1,1.2107431888580322,,6,0.0,position,nbar2,1
+79,a photo of a donut below a cat,2533,64,1,1.8780310153961184,,5,1.0,position,nbar2,1
+80,a photo of a fork,2567,64,1,0.3533974587917328,,7,1.0,single_object,nbar2,1
+81,a photo of a snowboard,2598,64,1,-0.193926066160202,,6,1.0,single_object,nbar2,1
+82,a photo of a zebra,2628,64,1,1.004669189453125,,4,1.0,single_object,nbar2,1
+83,a photo of a spoon,2661,64,1,0.6557520627975464,,5,1.0,single_object,nbar2,1
+84,a photo of a motorcycle,2695,64,1,0.5220137238502502,,7,1.0,single_object,nbar2,1
+85,a photo of a dog,2724,64,1,0.9194236993789672,,4,1.0,single_object,nbar2,1
+86,a photo of a laptop,2757,64,1,0.6920208930969238,,5,1.0,single_object,nbar2,1
+87,a photo of a baseball bat,2791,64,1,0.5978403687477112,,7,1.0,single_object,nbar2,1
+88,a photo of a skis,2821,64,1,-0.2783217132091522,,5,1.0,single_object,nbar2,1
+89,a photo of a vase,2853,64,1,0.9618425369262696,,5,1.0,single_object,nbar2,1
+90,a photo of a tv remote,2886,64,1,0.7475556135177612,,6,1.0,single_object,nbar2,1
+91,a photo of a fire hydrant,2918,64,1,0.4344950914382934,,6,1.0,single_object,nbar2,1
+92,a photo of a giraffe,2950,64,1,1.1993098258972168,,6,1.0,single_object,nbar2,1
+93,a photo of a horse,2980,64,1,1.3016555309295654,,4,1.0,single_object,nbar2,1
+94,a photo of a boat,3015,64,1,0.4887637495994568,,7,1.0,single_object,nbar2,1
+95,a photo of a hair drier,3044,64,1,1.5297099351882937,,4,1.0,single_object,nbar2,1
+96,a photo of a sink,3077,64,1,0.5000901222229004,,5,1.0,single_object,nbar2,1
+97,a photo of a knife,3111,64,1,0.7064329981803894,,7,1.0,single_object,nbar2,1
+98,a photo of a hot dog,3140,64,1,-0.8289985060691833,,4,1.0,single_object,nbar2,1
+99,a photo of a truck,3175,64,1,0.5707642436027527,,7,1.0,single_object,nbar2,1
+100,a photo of a toothbrush and a snowboard,3205,64,1,1.3363639116287231,,5,1.0,two_object,nbar2,1
+101,a photo of a tennis racket and a wine glass,3238,64,1,-1.938121318817139,,6,0.0,two_object,nbar2,1
+102,a photo of a toilet and a computer mouse,3270,64,1,-0.587573766708374,,6,1.0,two_object,nbar2,1
+103,a photo of an oven and a bed,3301,64,1,0.3080823123455047,,5,0.0,two_object,nbar2,1
+104,a photo of a fork and a book,3334,64,1,1.3733651638031006,,6,1.0,two_object,nbar2,1
+105,a photo of a scissors and a bowl,3367,64,1,1.440235614776611,,7,1.0,two_object,nbar2,1
+106,a photo of a giraffe and a computer mouse,3398,64,1,-0.7124441266059875,,6,0.0,two_object,nbar2,1
+107,a photo of a person and a snowboard,3431,64,1,-0.2846325635910034,,7,1.0,two_object,nbar2,1
+108,a photo of a chair and a laptop,3460,64,1,-1.634065866470337,,4,0.0,two_object,nbar2,1
+109,a photo of a toothbrush and a bench,3493,64,1,1.1541380882263184,,5,1.0,two_object,nbar2,1
+110,a photo of a bench and a vase,3527,64,1,1.3196327686309814,,7,0.0,two_object,nbar2,1
+111,a photo of a traffic light and a backpack,3556,64,1,-1.2805371284484863,,4,0.0,two_object,nbar2,1
+112,a photo of a computer mouse and a spoon,3588,64,1,1.3882606029510498,,4,0.0,two_object,nbar2,1
+113,a photo of a tv and a bicycle,3622,64,1,1.8397996425628664,,6,1.0,two_object,nbar2,1
+114,a photo of a stop sign and a dog,3653,64,1,1.2111560106277466,,5,1.0,two_object,nbar2,1
+115,a photo of a computer keyboard and a cell phone,3687,64,1,0.3256310522556305,,7,0.0,two_object,nbar2,1
+116,a photo of a couch and a snowboard,3717,64,1,0.6766294240951538,,5,0.0,two_object,nbar2,1
+117,a photo of a fork and a baseball glove,3749,64,1,-1.8232542276382449,,5,0.0,two_object,nbar2,1
+118,a photo of a carrot and a couch,3783,64,1,0.8490408658981323,,7,1.0,two_object,nbar2,1
+119,a photo of a baseball bat and a giraffe,3814,64,1,-1.7641555070877075,,6,0.0,two_object,nbar2,1
+0,a photo of a blue cell phone and a green apple,9,64,1,0.7525856494903564,,9,0.0,color_attr,nbar2,2
+1,a photo of a brown carrot and a white potted plant,40,64,1,0.0206345431506633,,8,0.0,color_attr,nbar2,2
+2,a photo of a blue vase and a black banana,74,64,1,0.3565660119056701,,10,0.0,color_attr,nbar2,2
+3,a photo of a yellow sports ball and a green boat,104,64,1,-1.8644554615020752,,8,0.0,color_attr,nbar2,2
+4,a photo of a purple computer keyboard and a blue scissors,137,64,1,0.4278875589370727,,9,0.0,color_attr,nbar2,2
+5,a photo of a brown computer mouse and a purple bottle,169,64,1,-0.439302384853363,,9,0.0,color_attr,nbar2,2
+6,a photo of a yellow suitcase and a brown bus,200,64,1,0.0456288903951644,,8,0.0,color_attr,nbar2,2
+7,a photo of an orange giraffe and a white baseball glove,233,64,1,-1.0909305810928345,,9,0.0,color_attr,nbar2,2
+8,a photo of an orange handbag and a green carrot,265,64,1,1.889765977859497,,9,0.0,color_attr,nbar2,2
+9,a photo of a yellow car and an orange toothbrush,297,64,1,-1.0406289100646973,,9,0.0,color_attr,nbar2,2
+10,a photo of a black potted plant and a yellow toilet,330,64,1,1.490508794784546,,10,0.0,color_attr,nbar2,2
+11,a photo of an orange donut and a yellow stop sign,361,64,1,-0.4224882125854492,,9,0.0,color_attr,nbar2,2
+12,a photo of an orange tennis racket and a yellow sports ball,394,64,1,0.8472645282745361,,10,0.0,color_attr,nbar2,2
+13,a photo of a purple computer keyboard and a red chair,424,64,1,-0.4015395045280456,,8,0.0,color_attr,nbar2,2
+14,a photo of a purple backpack and a white umbrella,457,64,1,1.8869531154632568,,9,0.0,color_attr,nbar2,2
+15,a photo of a yellow handbag and a blue refrigerator,490,64,1,1.2372153997421265,,10,0.0,color_attr,nbar2,2
+16,a photo of a brown knife and a blue donut,521,64,1,1.573386788368225,,9,1.0,color_attr,nbar2,2
+17,a photo of a red orange and a purple broccoli,555,64,1,-0.2705057561397552,,11,0.0,color_attr,nbar2,2
+18,a photo of a green cup and a red pizza,586,64,1,1.2249269485473633,,10,0.0,color_attr,nbar2,2
+19,a photo of a blue pizza and a yellow baseball glove,617,64,1,1.3375978469848633,,9,0.0,color_attr,nbar2,2
+20,a photo of a blue fire hydrant,648,64,1,1.4453508853912354,,8,1.0,colors,nbar2,2
+21,a photo of a pink car,682,64,1,1.8044939041137693,,10,1.0,colors,nbar2,2
+22,a photo of a purple hair drier,713,64,1,1.6831531524658203,,9,1.0,colors,nbar2,2
+23,a photo of a purple elephant,745,64,1,0.757695198059082,,9,1.0,colors,nbar2,2
+24,a photo of a red zebra,779,64,1,0.2491075247526168,,11,1.0,colors,nbar2,2
+25,a photo of a brown computer keyboard,809,64,1,1.4471051692962646,,9,1.0,colors,nbar2,2
+26,a photo of a red dog,842,64,1,1.3469892740249634,,10,1.0,colors,nbar2,2
+27,a photo of a yellow airplane,872,64,1,1.3018834590911863,,8,1.0,colors,nbar2,2
+28,a photo of a green surfboard,907,64,1,0.0783795937895774,,11,1.0,colors,nbar2,2
+29,a photo of a black dining table,937,64,1,1.1082613468170166,,9,1.0,colors,nbar2,2
+30,a photo of a pink potted plant,970,64,1,1.6764729022979736,,10,1.0,colors,nbar2,2
+31,a photo of a red giraffe,1003,64,1,0.0935772731900215,,11,0.0,colors,nbar2,2
+32,a photo of an orange laptop,1034,64,1,1.6593351364135742,,10,1.0,colors,nbar2,2
+33,a photo of a yellow parking meter,1067,64,1,1.116849660873413,,11,1.0,colors,nbar2,2
+34,a photo of a yellow orange,1097,64,1,-0.3360671699047088,,9,0.0,colors,nbar2,2
+35,a photo of a white sheep,1129,64,1,1.224867582321167,,9,1.0,colors,nbar2,2
+36,a photo of a black teddy bear,1163,64,1,0.9465490579605104,,11,1.0,colors,nbar2,2
+37,a photo of a blue carrot,1195,64,1,-0.2717204689979553,,11,0.0,colors,nbar2,2
+38,a photo of a green bus,1227,64,1,1.2698417901992798,,11,1.0,colors,nbar2,2
+39,a photo of an orange toaster,1259,64,1,-1.148737907409668,,11,0.0,colors,nbar2,2
+40,a photo of two frisbees,1288,64,1,-0.253421425819397,,8,0.0,counting,nbar2,2
+41,a photo of three persons,1321,64,1,0.2775403261184692,,9,1.0,counting,nbar2,2
+42,a photo of four bowls,1354,64,1,0.9221425652503968,,10,0.0,counting,nbar2,2
+43,a photo of two bicycles,1385,64,1,1.1058909893035889,,9,0.0,counting,nbar2,2
+44,a photo of two beds,1419,64,1,0.3738268911838531,,11,1.0,counting,nbar2,2
+45,a photo of two tv remotes,1450,64,1,0.4000258445739746,,10,1.0,counting,nbar2,2
+46,a photo of three fire hydrants,1481,64,1,1.2809332609176636,,9,1.0,counting,nbar2,2
+47,a photo of four giraffes,1513,64,1,0.791376531124115,,9,0.0,counting,nbar2,2
+48,a photo of three baseball bats,1546,64,1,0.5179424285888672,,10,1.0,counting,nbar2,2
+49,a photo of three refrigerators,1577,64,1,1.2853789329528809,,9,1.0,counting,nbar2,2
+50,a photo of two fire hydrants,1611,64,1,0.6456453800201416,,11,1.0,counting,nbar2,2
+51,a photo of four broccolis,1643,64,1,0.5644516944885254,,11,0.0,counting,nbar2,2
+52,a photo of two carrots,1672,64,1,1.053566575050354,,8,1.0,counting,nbar2,2
+53,a photo of four clocks,1706,64,1,0.2165565192699432,,10,0.0,counting,nbar2,2
+54,a photo of two cars,1738,64,1,0.5477222204208374,,10,1.0,counting,nbar2,2
+55,a photo of two bananas,1769,64,1,0.4459307491779327,,9,1.0,counting,nbar2,2
+56,a photo of three birds,1800,64,1,0.9953410625457764,,8,1.0,counting,nbar2,2
+57,a photo of two hair driers,1833,64,1,-0.2282227277755737,,9,0.0,counting,nbar2,2
+58,a photo of two parking meters,1864,64,1,0.9827311038970948,,8,1.0,counting,nbar2,2
+59,a photo of four frisbees,1896,64,1,0.532033383846283,,8,1.0,counting,nbar2,2
+60,a photo of a laptop left of a cow,1931,64,1,1.1137101650238037,,11,0.0,position,nbar2,2
+61,a photo of a skateboard above a person,1962,64,1,0.794474184513092,,10,0.0,position,nbar2,2
+62,a photo of a dining table right of an oven,1993,64,1,1.2005631923675537,,9,0.0,position,nbar2,2
+63,a photo of a tennis racket right of a spoon,2024,64,1,-1.2697620391845703,,8,0.0,position,nbar2,2
+64,a photo of a toaster below a traffic light,2056,64,1,-1.1919337511062622,,8,0.0,position,nbar2,2
+65,a photo of a frisbee right of a motorcycle,2089,64,1,0.4633914828300476,,9,0.0,position,nbar2,2
+66,a photo of a bench left of a bear,2121,64,1,-1.173413634300232,,9,0.0,position,nbar2,2
+67,a photo of a donut right of a bench,2153,64,1,-2.079274892807007,,9,0.0,position,nbar2,2
+68,a photo of a cat below a backpack,2184,64,1,1.6054424047470093,,8,0.0,position,nbar2,2
+69,a photo of a backpack below a cake,2218,64,1,0.9333826303482056,,10,0.0,position,nbar2,2
+70,a photo of a sandwich below a knife,2248,64,1,0.863606870174408,,8,0.0,position,nbar2,2
+71,a photo of a bicycle above a parking meter,2281,64,1,-1.3211230039596558,,9,0.0,position,nbar2,2
+72,a photo of a knife right of a suitcase,2314,64,1,1.1900691986083984,,10,0.0,position,nbar2,2
+73,a photo of a hot dog above a knife,2347,64,1,0.964939296245575,,11,0.0,position,nbar2,2
+74,a photo of a zebra right of a parking meter,2376,64,1,0.2016535848379135,,8,0.0,position,nbar2,2
+75,a photo of a zebra below a broccoli,2410,64,1,-1.8425055742263796,,10,0.0,position,nbar2,2
+76,a photo of a laptop below a sports ball,2441,64,1,1.9492653608322144,,9,0.0,position,nbar2,2
+77,a photo of a tv above a baseball bat,2475,64,1,0.8969278931617737,,11,0.0,position,nbar2,2
+78,a photo of a clock below a tv,2505,64,1,0.0331682600080966,,9,0.0,position,nbar2,2
+79,a photo of a donut below a cat,2536,64,1,1.7992680072784424,,8,1.0,position,nbar2,2
+80,a photo of a fork,2568,64,1,0.6765807867050171,,8,1.0,single_object,nbar2,2
+81,a photo of a snowboard,2600,64,1,-0.1552924364805221,,8,1.0,single_object,nbar2,2
+82,a photo of a zebra,2633,64,1,1.1355308294296265,,9,1.0,single_object,nbar2,2
+83,a photo of a spoon,2667,64,1,0.2828460931777954,,11,1.0,single_object,nbar2,2
+84,a photo of a motorcycle,2699,64,1,0.1973507553339004,,11,1.0,single_object,nbar2,2
+85,a photo of a dog,2729,64,1,0.4528448581695556,,9,1.0,single_object,nbar2,2
+86,a photo of a laptop,2760,64,1,0.5229236483573914,,8,1.0,single_object,nbar2,2
+87,a photo of a baseball bat,2793,64,1,0.1852189302444458,,9,1.0,single_object,nbar2,2
+88,a photo of a skis,2827,64,1,0.0274356342852115,,11,1.0,single_object,nbar2,2
+89,a photo of a vase,2857,64,1,0.7504392266273499,,9,1.0,single_object,nbar2,2
+90,a photo of a tv remote,2890,64,1,0.317767322063446,,10,0.0,single_object,nbar2,2
+91,a photo of a fire hydrant,2923,64,1,0.9852303266525269,,11,1.0,single_object,nbar2,2
+92,a photo of a giraffe,2955,64,1,1.1809842586517334,,11,1.0,single_object,nbar2,2
+93,a photo of a horse,2985,64,1,0.9720814824104308,,9,1.0,single_object,nbar2,2
+94,a photo of a boat,3019,64,1,0.4963990151882171,,11,1.0,single_object,nbar2,2
+95,a photo of a hair drier,3048,64,1,0.8292407989501953,,8,1.0,single_object,nbar2,2
+96,a photo of a sink,3083,64,1,0.4738712906837463,,11,1.0,single_object,nbar2,2
+97,a photo of a knife,3112,64,1,0.5967525243759155,,8,1.0,single_object,nbar2,2
+98,a photo of a hot dog,3147,64,1,0.118375040590763,,11,1.0,single_object,nbar2,2
+99,a photo of a truck,3179,64,1,0.6198211908340454,,11,1.0,single_object,nbar2,2
+100,a photo of a toothbrush and a snowboard,3210,64,1,0.9290101528167723,,10,0.0,two_object,nbar2,2
+101,a photo of a tennis racket and a wine glass,3243,64,1,-2.014533281326294,,11,0.0,two_object,nbar2,2
+102,a photo of a toilet and a computer mouse,3272,64,1,-0.6886289119720459,,8,0.0,two_object,nbar2,2
+103,a photo of an oven and a bed,3307,64,1,-1.0725761651992798,,11,0.0,two_object,nbar2,2
+104,a photo of a fork and a book,3339,64,1,1.1931710243225098,,11,1.0,two_object,nbar2,2
+105,a photo of a scissors and a bowl,3371,64,1,1.3507065773010254,,11,1.0,two_object,nbar2,2
+106,a photo of a giraffe and a computer mouse,3403,64,1,-0.2201031297445297,,11,0.0,two_object,nbar2,2
+107,a photo of a person and a snowboard,3434,64,1,-0.4370138347148895,,10,1.0,two_object,nbar2,2
+108,a photo of a chair and a laptop,3467,64,1,0.5847915410995483,,11,1.0,two_object,nbar2,2
+109,a photo of a toothbrush and a bench,3498,64,1,1.2344915866851809,,10,1.0,two_object,nbar2,2
+110,a photo of a bench and a vase,3529,64,1,1.521486520767212,,9,1.0,two_object,nbar2,2
+111,a photo of a traffic light and a backpack,3563,64,1,-0.9808220863342284,,11,1.0,two_object,nbar2,2
+112,a photo of a computer mouse and a spoon,3592,64,1,1.4394731521606443,,8,1.0,two_object,nbar2,2
+113,a photo of a tv and a bicycle,3626,64,1,1.759384036064148,,10,1.0,two_object,nbar2,2
+114,a photo of a stop sign and a dog,3657,64,1,1.4664387702941897,,9,1.0,two_object,nbar2,2
+115,a photo of a computer keyboard and a cell phone,3688,64,1,0.4557483196258545,,8,1.0,two_object,nbar2,2
+116,a photo of a couch and a snowboard,3720,64,1,0.8728910684585571,,8,0.0,two_object,nbar2,2
+117,a photo of a fork and a baseball glove,3753,64,1,0.8437865376472473,,9,0.0,two_object,nbar2,2
+118,a photo of a carrot and a couch,3784,64,1,0.4103448390960693,,8,1.0,two_object,nbar2,2
+119,a photo of a baseball bat and a giraffe,3819,64,1,-0.1839229017496109,,11,0.0,two_object,nbar2,2
+0,a photo of a blue cell phone and a green apple,13,64,1,0.3195891380310058,,13,1.0,color_attr,nbar2,3
+1,a photo of a brown carrot and a white potted plant,45,64,1,-0.0798949524760246,,13,0.0,color_attr,nbar2,3
+2,a photo of a blue vase and a black banana,78,64,1,0.5865693092346191,,14,0.0,color_attr,nbar2,3
+3,a photo of a yellow sports ball and a green boat,108,64,1,1.7927861213684082,,12,1.0,color_attr,nbar2,3
+4,a photo of a purple computer keyboard and a blue scissors,141,64,1,-0.5531200170516968,,13,0.0,color_attr,nbar2,3
+5,a photo of a brown computer mouse and a purple bottle,175,64,1,-1.0705136060714722,,15,0.0,color_attr,nbar2,3
+6,a photo of a yellow suitcase and a brown bus,206,64,1,-1.61312997341156,,14,0.0,color_attr,nbar2,3
+7,a photo of an orange giraffe and a white baseball glove,236,64,1,1.6204253435134888,,12,0.0,color_attr,nbar2,3
+8,a photo of an orange handbag and a green carrot,271,64,1,1.7029449939727783,,15,0.0,color_attr,nbar2,3
+9,a photo of a yellow car and an orange toothbrush,303,64,1,1.609044909477234,,15,0.0,color_attr,nbar2,3
+10,a photo of a black potted plant and a yellow toilet,335,64,1,1.8787896633148196,,15,0.0,color_attr,nbar2,3
+11,a photo of an orange donut and a yellow stop sign,366,64,1,-0.7732055187225342,,14,0.0,color_attr,nbar2,3
+12,a photo of an orange tennis racket and a yellow sports ball,399,64,1,1.2249412536621094,,15,0.0,color_attr,nbar2,3
+13,a photo of a purple computer keyboard and a red chair,428,64,1,1.2986419200897217,,12,0.0,color_attr,nbar2,3
+14,a photo of a purple backpack and a white umbrella,461,64,1,1.291506290435791,,13,0.0,color_attr,nbar2,3
+15,a photo of a yellow handbag and a blue refrigerator,492,64,1,0.6557289361953735,,12,0.0,color_attr,nbar2,3
+16,a photo of a brown knife and a blue donut,526,64,1,1.110270619392395,,14,0.0,color_attr,nbar2,3
+17,a photo of a red orange and a purple broccoli,559,64,1,0.4083760678768158,,15,0.0,color_attr,nbar2,3
+18,a photo of a green cup and a red pizza,590,64,1,1.6439872980117798,,14,0.0,color_attr,nbar2,3
+19,a photo of a blue pizza and a yellow baseball glove,620,64,1,-0.7571494579315186,,12,0.0,color_attr,nbar2,3
+20,a photo of a blue fire hydrant,652,64,1,1.2519713640213013,,12,1.0,colors,nbar2,3
+21,a photo of a pink car,686,64,1,1.839305400848389,,14,1.0,colors,nbar2,3
+22,a photo of a purple hair drier,716,64,1,1.7224475145339966,,12,1.0,colors,nbar2,3
+23,a photo of a purple elephant,748,64,1,1.1973611116409302,,12,1.0,colors,nbar2,3
+24,a photo of a red zebra,780,64,1,0.1405090242624282,,12,1.0,colors,nbar2,3
+25,a photo of a brown computer keyboard,813,64,1,0.3626970052719116,,13,1.0,colors,nbar2,3
+26,a photo of a red dog,844,64,1,0.8649905323982239,,12,0.0,colors,nbar2,3
+27,a photo of a yellow airplane,879,64,1,1.3782634735107422,,15,1.0,colors,nbar2,3
+28,a photo of a green surfboard,910,64,1,0.7623906135559082,,14,1.0,colors,nbar2,3
+29,a photo of a black dining table,943,64,1,0.9504146575927734,,15,1.0,colors,nbar2,3
+30,a photo of a pink potted plant,972,64,1,1.806058645248413,,12,1.0,colors,nbar2,3
+31,a photo of a red giraffe,1004,64,1,0.2233265489339828,,12,1.0,colors,nbar2,3
+32,a photo of an orange laptop,1039,64,1,1.68419349193573,,15,1.0,colors,nbar2,3
+33,a photo of a yellow parking meter,1069,64,1,1.5237579345703125,,13,1.0,colors,nbar2,3
+34,a photo of a yellow orange,1100,64,1,-0.3613676726818084,,12,0.0,colors,nbar2,3
+35,a photo of a white sheep,1133,64,1,1.3420169353485107,,13,1.0,colors,nbar2,3
+36,a photo of a black teddy bear,1165,64,1,0.5577321648597717,,13,1.0,colors,nbar2,3
+37,a photo of a blue carrot,1197,64,1,0.1517318934202194,,13,0.0,colors,nbar2,3
+38,a photo of a green bus,1229,64,1,1.0944291353225708,,13,1.0,colors,nbar2,3
+39,a photo of an orange toaster,1261,64,1,0.3288349211215973,,13,0.0,colors,nbar2,3
+40,a photo of two frisbees,1295,64,1,0.6088410019874573,,15,1.0,counting,nbar2,3
+41,a photo of three persons,1326,64,1,0.4824131429195404,,14,1.0,counting,nbar2,3
+42,a photo of four bowls,1358,64,1,0.955651879310608,,14,1.0,counting,nbar2,3
+43,a photo of two bicycles,1390,64,1,0.3633764684200287,,14,0.0,counting,nbar2,3
+44,a photo of two beds,1422,64,1,0.5545632839202881,,14,1.0,counting,nbar2,3
+45,a photo of two tv remotes,1455,64,1,0.6510687470436096,,15,1.0,counting,nbar2,3
+46,a photo of three fire hydrants,1484,64,1,0.9395707249641418,,12,0.0,counting,nbar2,3
+47,a photo of four giraffes,1517,64,1,0.5826660394668579,,13,0.0,counting,nbar2,3
+48,a photo of three baseball bats,1548,64,1,1.448464035987854,,12,0.0,counting,nbar2,3
+49,a photo of three refrigerators,1583,64,1,1.163262963294983,,15,1.0,counting,nbar2,3
+50,a photo of two fire hydrants,1615,64,1,1.3652628660202026,,15,1.0,counting,nbar2,3
+51,a photo of four broccolis,1647,64,1,0.8025046586990356,,15,0.0,counting,nbar2,3
+52,a photo of two carrots,1679,64,1,1.1017887592315674,,15,1.0,counting,nbar2,3
+53,a photo of four clocks,1708,64,1,0.4908212721347809,,12,0.0,counting,nbar2,3
+54,a photo of two cars,1742,64,1,0.8067425489425659,,14,1.0,counting,nbar2,3
+55,a photo of two bananas,1773,64,1,0.23055499792099,,13,0.0,counting,nbar2,3
+56,a photo of three birds,1805,64,1,0.0520373992621898,,13,0.0,counting,nbar2,3
+57,a photo of two hair driers,1839,64,1,0.3845753669738769,,15,0.0,counting,nbar2,3
+58,a photo of two parking meters,1870,64,1,0.7188036441802979,,14,1.0,counting,nbar2,3
+59,a photo of four frisbees,1900,64,1,0.8208076357841492,,12,0.0,counting,nbar2,3
+60,a photo of a laptop left of a cow,1934,64,1,1.7567046880722046,,14,0.0,position,nbar2,3
+61,a photo of a skateboard above a person,1966,64,1,-0.0715777873992919,,14,0.0,position,nbar2,3
+62,a photo of a dining table right of an oven,1999,64,1,0.039524495601654,,15,0.0,position,nbar2,3
+63,a photo of a tennis racket right of a spoon,2028,64,1,0.3617151975631714,,12,0.0,position,nbar2,3
+64,a photo of a toaster below a traffic light,2063,64,1,0.1379096508026123,,15,0.0,position,nbar2,3
+65,a photo of a frisbee right of a motorcycle,2095,64,1,0.9209303855895996,,15,0.0,position,nbar2,3
+66,a photo of a bench left of a bear,2124,64,1,1.1281652450561523,,12,0.0,position,nbar2,3
+67,a photo of a donut right of a bench,2156,64,1,0.5739757418632507,,12,0.0,position,nbar2,3
+68,a photo of a cat below a backpack,2191,64,1,1.6205155849456787,,15,0.0,position,nbar2,3
+69,a photo of a backpack below a cake,2220,64,1,1.2406481504440308,,12,0.0,position,nbar2,3
+70,a photo of a sandwich below a knife,2252,64,1,0.8083620071411133,,12,1.0,position,nbar2,3
+71,a photo of a bicycle above a parking meter,2285,64,1,-0.4094006717205047,,13,0.0,position,nbar2,3
+72,a photo of a knife right of a suitcase,2319,64,1,0.6787799000740051,,15,0.0,position,nbar2,3
+73,a photo of a hot dog above a knife,2351,64,1,1.1827822923660278,,15,0.0,position,nbar2,3
+74,a photo of a zebra right of a parking meter,2381,64,1,-0.7519119381904602,,13,0.0,position,nbar2,3
+75,a photo of a zebra below a broccoli,2414,64,1,-1.7796692848205566,,14,0.0,position,nbar2,3
+76,a photo of a laptop below a sports ball,2444,64,1,1.9186558723449707,,12,0.0,position,nbar2,3
+77,a photo of a tv above a baseball bat,2478,64,1,1.2338985204696655,,14,0.0,position,nbar2,3
+78,a photo of a clock below a tv,2509,64,1,0.2722885608673095,,13,0.0,position,nbar2,3
+79,a photo of a donut below a cat,2540,64,1,1.6502273082733154,,12,0.0,position,nbar2,3
+80,a photo of a fork,2572,64,1,0.5342609286308289,,12,1.0,single_object,nbar2,3
+81,a photo of a snowboard,2606,64,1,-0.1319277137517929,,14,1.0,single_object,nbar2,3
+82,a photo of a zebra,2636,64,1,0.5541365742683411,,12,1.0,single_object,nbar2,3
+83,a photo of a spoon,2671,64,1,0.672684907913208,,15,1.0,single_object,nbar2,3
+84,a photo of a motorcycle,2701,64,1,0.4647814929485321,,13,1.0,single_object,nbar2,3
+85,a photo of a dog,2734,64,1,0.2199071794748306,,14,1.0,single_object,nbar2,3
+86,a photo of a laptop,2766,64,1,0.4118213951587677,,14,1.0,single_object,nbar2,3
+87,a photo of a baseball bat,2798,64,1,0.0228104665875434,,14,1.0,single_object,nbar2,3
+88,a photo of a skis,2828,64,1,-0.0701730698347091,,12,1.0,single_object,nbar2,3
+89,a photo of a vase,2862,64,1,0.5355563163757324,,14,1.0,single_object,nbar2,3
+90,a photo of a tv remote,2895,64,1,0.6001337170600891,,15,1.0,single_object,nbar2,3
+91,a photo of a fire hydrant,2925,64,1,0.843121349811554,,13,1.0,single_object,nbar2,3
+92,a photo of a giraffe,2957,64,1,1.0616055727005005,,13,1.0,single_object,nbar2,3
+93,a photo of a horse,2988,64,1,0.6865718960762024,,12,1.0,single_object,nbar2,3
+94,a photo of a boat,3022,64,1,0.4815417826175689,,14,1.0,single_object,nbar2,3
+95,a photo of a hair drier,3055,64,1,1.0120176076889038,,15,1.0,single_object,nbar2,3
+96,a photo of a sink,3085,64,1,0.2480747103691101,,13,1.0,single_object,nbar2,3
+97,a photo of a knife,3119,64,1,0.6456372141838074,,15,1.0,single_object,nbar2,3
+98,a photo of a hot dog,3149,64,1,0.1182439923286438,,13,1.0,single_object,nbar2,3
+99,a photo of a truck,3183,64,1,0.7896677255630493,,15,1.0,single_object,nbar2,3
+100,a photo of a toothbrush and a snowboard,3213,64,1,-1.59092915058136,,13,0.0,two_object,nbar2,3
+101,a photo of a tennis racket and a wine glass,3246,64,1,-2.070988893508911,,14,0.0,two_object,nbar2,3
+102,a photo of a toilet and a computer mouse,3276,64,1,-1.7446188926696775,,12,0.0,two_object,nbar2,3
+103,a photo of an oven and a bed,3310,64,1,-1.5301285982131958,,14,0.0,two_object,nbar2,3
+104,a photo of a fork and a book,3343,64,1,0.9578022360801696,,15,1.0,two_object,nbar2,3
+105,a photo of a scissors and a bowl,3373,64,1,0.2101148217916488,,13,0.0,two_object,nbar2,3
+106,a photo of a giraffe and a computer mouse,3406,64,1,-0.7664859890937805,,14,0.0,two_object,nbar2,3
+107,a photo of a person and a snowboard,3438,64,1,0.0967292860150337,,14,1.0,two_object,nbar2,3
+108,a photo of a chair and a laptop,3469,64,1,1.3560256958007812,,13,1.0,two_object,nbar2,3
+109,a photo of a toothbrush and a bench,3503,64,1,0.605224072933197,,15,0.0,two_object,nbar2,3
+110,a photo of a bench and a vase,3534,64,1,0.7481938600540161,,14,1.0,two_object,nbar2,3
+111,a photo of a traffic light and a backpack,3564,64,1,1.7147225141525269,,12,1.0,two_object,nbar2,3
+112,a photo of a computer mouse and a spoon,3599,64,1,0.2792108058929443,,15,0.0,two_object,nbar2,3
+113,a photo of a tv and a bicycle,3630,64,1,1.5311729907989502,,14,1.0,two_object,nbar2,3
+114,a photo of a stop sign and a dog,3663,64,1,1.7324117422103882,,15,1.0,two_object,nbar2,3
+115,a photo of a computer keyboard and a cell phone,3694,64,1,0.2097233831882476,,14,0.0,two_object,nbar2,3
+116,a photo of a couch and a snowboard,3727,64,1,0.250949889421463,,15,0.0,two_object,nbar2,3
+117,a photo of a fork and a baseball glove,3757,64,1,-1.958398938179016,,13,0.0,two_object,nbar2,3
+118,a photo of a carrot and a couch,3790,64,1,1.6731075048446655,,14,0.0,two_object,nbar2,3
+119,a photo of a baseball bat and a giraffe,3821,64,1,1.428909182548523,,13,1.0,two_object,nbar2,3
+0,a photo of a blue cell phone and a green apple,16,64,1,1.2631374597549438,,16,1.0,color_attr,nbar2,4
+1,a photo of a brown carrot and a white potted plant,48,64,1,0.4918098151683807,,16,0.0,color_attr,nbar2,4
+2,a photo of a blue vase and a black banana,80,64,1,-0.9610450267791748,,16,0.0,color_attr,nbar2,4
+3,a photo of a yellow sports ball and a green boat,113,64,1,1.6833243370056152,,17,1.0,color_attr,nbar2,4
+4,a photo of a purple computer keyboard and a blue scissors,147,64,1,-0.179360419511795,,19,0.0,color_attr,nbar2,4
+5,a photo of a brown computer mouse and a purple bottle,178,64,1,-1.5013108253479004,,18,0.0,color_attr,nbar2,4
+6,a photo of a yellow suitcase and a brown bus,210,64,1,-1.1179651021957395,,18,0.0,color_attr,nbar2,4
+7,a photo of an orange giraffe and a white baseball glove,243,64,1,0.6918786764144897,,19,0.0,color_attr,nbar2,4
+8,a photo of an orange handbag and a green carrot,272,64,1,1.8307985067367556,,16,0.0,color_attr,nbar2,4
+9,a photo of a yellow car and an orange toothbrush,305,64,1,-0.9981374740600586,,17,0.0,color_attr,nbar2,4
+10,a photo of a black potted plant and a yellow toilet,336,64,1,0.4196138083934784,,16,0.0,color_attr,nbar2,4
+11,a photo of an orange donut and a yellow stop sign,370,64,1,-0.9498656392097472,,18,0.0,color_attr,nbar2,4
+12,a photo of an orange tennis racket and a yellow sports ball,402,64,1,1.1312930583953855,,18,1.0,color_attr,nbar2,4
+13,a photo of a purple computer keyboard and a red chair,432,64,1,-1.0756042003631592,,16,0.0,color_attr,nbar2,4
+14,a photo of a purple backpack and a white umbrella,464,64,1,1.5527708530426023,,16,1.0,color_attr,nbar2,4
+15,a photo of a yellow handbag and a blue refrigerator,496,64,1,0.1754242181777954,,16,0.0,color_attr,nbar2,4
+16,a photo of a brown knife and a blue donut,531,64,1,1.6064491271972656,,19,1.0,color_attr,nbar2,4
+17,a photo of a red orange and a purple broccoli,562,64,1,-0.2629536390304565,,18,0.0,color_attr,nbar2,4
+18,a photo of a green cup and a red pizza,592,64,1,0.6244041919708252,,16,1.0,color_attr,nbar2,4
+19,a photo of a blue pizza and a yellow baseball glove,625,64,1,-0.1541051417589187,,17,0.0,color_attr,nbar2,4
+20,a photo of a blue fire hydrant,659,64,1,1.476975440979004,,19,1.0,colors,nbar2,4
+21,a photo of a pink car,691,64,1,1.770702600479126,,19,1.0,colors,nbar2,4
+22,a photo of a purple hair drier,723,64,1,1.6451483964920044,,19,1.0,colors,nbar2,4
+23,a photo of a purple elephant,753,64,1,1.7056646347045898,,17,1.0,colors,nbar2,4
+24,a photo of a red zebra,784,64,1,0.0658483579754829,,16,1.0,colors,nbar2,4
+25,a photo of a brown computer keyboard,816,64,1,0.2182041406631469,,16,1.0,colors,nbar2,4
+26,a photo of a red dog,849,64,1,0.8449416756629944,,17,0.0,colors,nbar2,4
+27,a photo of a yellow airplane,880,64,1,0.6589245200157166,,16,1.0,colors,nbar2,4
+28,a photo of a green surfboard,915,64,1,0.3508413434028625,,19,1.0,colors,nbar2,4
+29,a photo of a black dining table,944,64,1,0.8236709237098694,,16,1.0,colors,nbar2,4
+30,a photo of a pink potted plant,978,64,1,1.8564338684082031,,18,1.0,colors,nbar2,4
+31,a photo of a red giraffe,1011,64,1,0.2076447755098343,,19,1.0,colors,nbar2,4
+32,a photo of an orange laptop,1043,64,1,1.826287865638733,,19,1.0,colors,nbar2,4
+33,a photo of a yellow parking meter,1075,64,1,0.4394828081130981,,19,1.0,colors,nbar2,4
+34,a photo of a yellow orange,1104,64,1,0.3164059221744537,,16,0.0,colors,nbar2,4
+35,a photo of a white sheep,1137,64,1,0.8490239381790161,,17,1.0,colors,nbar2,4
+36,a photo of a black teddy bear,1168,64,1,0.9353781938552856,,16,1.0,colors,nbar2,4
+37,a photo of a blue carrot,1201,64,1,-0.3919010758399963,,17,0.0,colors,nbar2,4
+38,a photo of a green bus,1232,64,1,0.9735082387924194,,16,1.0,colors,nbar2,4
+39,a photo of an orange toaster,1265,64,1,1.7488263845443726,,17,1.0,colors,nbar2,4
+40,a photo of two frisbees,1297,64,1,0.8938220739364624,,17,0.0,counting,nbar2,4
+41,a photo of three persons,1328,64,1,0.1717559993267059,,16,1.0,counting,nbar2,4
+42,a photo of four bowls,1361,64,1,0.3318082690238952,,17,0.0,counting,nbar2,4
+43,a photo of two bicycles,1395,64,1,0.5577749609947205,,19,0.0,counting,nbar2,4
+44,a photo of two beds,1424,64,1,0.6856076121330261,,16,1.0,counting,nbar2,4
+45,a photo of two tv remotes,1458,64,1,0.5784367322921753,,18,1.0,counting,nbar2,4
+46,a photo of three fire hydrants,1489,64,1,0.8248981833457947,,17,0.0,counting,nbar2,4
+47,a photo of four giraffes,1522,64,1,0.9724968671798706,,18,0.0,counting,nbar2,4
+48,a photo of three baseball bats,1553,64,1,0.6336958408355713,,17,0.0,counting,nbar2,4
+49,a photo of three refrigerators,1586,64,1,1.075508713722229,,18,0.0,counting,nbar2,4
+50,a photo of two fire hydrants,1618,64,1,1.128719687461853,,18,1.0,counting,nbar2,4
+51,a photo of four broccolis,1650,64,1,0.9531245231628418,,18,0.0,counting,nbar2,4
+52,a photo of two carrots,1681,64,1,0.7068230509757996,,17,0.0,counting,nbar2,4
+53,a photo of four clocks,1712,64,1,0.1536041796207428,,16,0.0,counting,nbar2,4
+54,a photo of two cars,1745,64,1,0.9945574402809144,,17,1.0,counting,nbar2,4
+55,a photo of two bananas,1778,64,1,0.4217248558998108,,18,0.0,counting,nbar2,4
+56,a photo of three birds,1810,64,1,0.8929210901260376,,18,1.0,counting,nbar2,4
+57,a photo of two hair driers,1841,64,1,-0.0178913809359073,,17,0.0,counting,nbar2,4
+58,a photo of two parking meters,1875,64,1,-0.5124911069869995,,19,0.0,counting,nbar2,4
+59,a photo of four frisbees,1905,64,1,0.9960442185401917,,17,0.0,counting,nbar2,4
+60,a photo of a laptop left of a cow,1936,64,1,1.7515852451324463,,16,0.0,position,nbar2,4
+61,a photo of a skateboard above a person,1968,64,1,0.5181614756584167,,16,0.0,position,nbar2,4
+62,a photo of a dining table right of an oven,2000,64,1,0.9453686475753784,,16,0.0,position,nbar2,4
+63,a photo of a tennis racket right of a spoon,2035,64,1,-1.152379035949707,,19,0.0,position,nbar2,4
+64,a photo of a toaster below a traffic light,2066,64,1,-1.733205795288086,,18,0.0,position,nbar2,4
+65,a photo of a frisbee right of a motorcycle,2096,64,1,-0.9525169730186462,,16,0.0,position,nbar2,4
+66,a photo of a bench left of a bear,2129,64,1,-0.9519581198692322,,17,0.0,position,nbar2,4
+67,a photo of a donut right of a bench,2160,64,1,1.6160789728164673,,16,0.0,position,nbar2,4
+68,a photo of a cat below a backpack,2194,64,1,1.6086013317108154,,18,0.0,position,nbar2,4
+69,a photo of a backpack below a cake,2227,64,1,0.5328167676925659,,19,0.0,position,nbar2,4
+70,a photo of a sandwich below a knife,2256,64,1,1.084323763847351,,16,0.0,position,nbar2,4
+71,a photo of a bicycle above a parking meter,2291,64,1,0.1966388374567031,,19,0.0,position,nbar2,4
+72,a photo of a knife right of a suitcase,2323,64,1,1.0566191673278809,,19,0.0,position,nbar2,4
+73,a photo of a hot dog above a knife,2352,64,1,1.2469048500061035,,16,0.0,position,nbar2,4
+74,a photo of a zebra right of a parking meter,2387,64,1,0.0980240032076835,,19,0.0,position,nbar2,4
+75,a photo of a zebra below a broccoli,2418,64,1,-1.7624635696411133,,18,0.0,position,nbar2,4
+76,a photo of a laptop below a sports ball,2450,64,1,1.9060324430465696,,18,0.0,position,nbar2,4
+77,a photo of a tv above a baseball bat,2482,64,1,1.3555827140808103,,18,0.0,position,nbar2,4
+78,a photo of a clock below a tv,2515,64,1,0.4553749561309814,,19,0.0,position,nbar2,4
+79,a photo of a donut below a cat,2545,64,1,1.89554500579834,,17,0.0,position,nbar2,4
+80,a photo of a fork,2579,64,1,0.8175967335700989,,19,1.0,single_object,nbar2,4
+81,a photo of a snowboard,2611,64,1,-0.3100578188896179,,19,1.0,single_object,nbar2,4
+82,a photo of a zebra,2640,64,1,0.8027675747871399,,16,1.0,single_object,nbar2,4
+83,a photo of a spoon,2673,64,1,0.2749184668064117,,17,1.0,single_object,nbar2,4
+84,a photo of a motorcycle,2705,64,1,0.3451361954212188,,17,1.0,single_object,nbar2,4
+85,a photo of a dog,2736,64,1,0.6504225730895996,,16,1.0,single_object,nbar2,4
+86,a photo of a laptop,2770,64,1,-0.038680512458086,,18,1.0,single_object,nbar2,4
+87,a photo of a baseball bat,2802,64,1,0.4140996932983398,,18,1.0,single_object,nbar2,4
+88,a photo of a skis,2833,64,1,-0.270194947719574,,17,1.0,single_object,nbar2,4
+89,a photo of a vase,2867,64,1,1.0295177698135376,,19,1.0,single_object,nbar2,4
+90,a photo of a tv remote,2897,64,1,0.8950359225273132,,17,1.0,single_object,nbar2,4
+91,a photo of a fire hydrant,2930,64,1,0.8722466230392456,,18,1.0,single_object,nbar2,4
+92,a photo of a giraffe,2961,64,1,1.1614739894866943,,17,1.0,single_object,nbar2,4
+93,a photo of a horse,2994,64,1,0.8974929451942444,,18,1.0,single_object,nbar2,4
+94,a photo of a boat,3025,64,1,0.5211715698242188,,17,1.0,single_object,nbar2,4
+95,a photo of a hair drier,3058,64,1,1.2208452224731443,,18,0.0,single_object,nbar2,4
+96,a photo of a sink,3088,64,1,0.2942763566970825,,16,1.0,single_object,nbar2,4
+97,a photo of a knife,3123,64,1,0.4446775615215301,,19,1.0,single_object,nbar2,4
+98,a photo of a hot dog,3152,64,1,-0.4036259055137634,,16,1.0,single_object,nbar2,4
+99,a photo of a truck,3186,64,1,0.6550275683403015,,18,1.0,single_object,nbar2,4
+100,a photo of a toothbrush and a snowboard,3218,64,1,0.7581957578659058,,18,0.0,two_object,nbar2,4
+101,a photo of a tennis racket and a wine glass,3251,64,1,-1.8934348821640012,,19,0.0,two_object,nbar2,4
+102,a photo of a toilet and a computer mouse,3282,64,1,0.9977527260780334,,18,1.0,two_object,nbar2,4
+103,a photo of an oven and a bed,3315,64,1,-1.7850725650787354,,19,0.0,two_object,nbar2,4
+104,a photo of a fork and a book,3345,64,1,1.6806628704071045,,17,1.0,two_object,nbar2,4
+105,a photo of a scissors and a bowl,3378,64,1,1.4384530782699585,,18,1.0,two_object,nbar2,4
+106,a photo of a giraffe and a computer mouse,3408,64,1,-1.4112613201141355,,16,0.0,two_object,nbar2,4
+107,a photo of a person and a snowboard,3440,64,1,0.1889628022909164,,16,1.0,two_object,nbar2,4
+108,a photo of a chair and a laptop,3475,64,1,0.6682842373847961,,19,1.0,two_object,nbar2,4
+109,a photo of a toothbrush and a bench,3505,64,1,1.3258123397827148,,17,1.0,two_object,nbar2,4
+110,a photo of a bench and a vase,3538,64,1,0.8435604572296143,,18,1.0,two_object,nbar2,4
+111,a photo of a traffic light and a backpack,3569,64,1,-1.2326756715774536,,17,0.0,two_object,nbar2,4
+112,a photo of a computer mouse and a spoon,3600,64,1,0.8613775968551636,,16,1.0,two_object,nbar2,4
+113,a photo of a tv and a bicycle,3633,64,1,1.774644136428833,,17,1.0,two_object,nbar2,4
+114,a photo of a stop sign and a dog,3666,64,1,1.1871148347854614,,18,1.0,two_object,nbar2,4
+115,a photo of a computer keyboard and a cell phone,3697,64,1,0.689153790473938,,17,1.0,two_object,nbar2,4
+116,a photo of a couch and a snowboard,3730,64,1,-0.3443434834480285,,18,0.0,two_object,nbar2,4
+117,a photo of a fork and a baseball glove,3760,64,1,1.7920162677764893,,16,1.0,two_object,nbar2,4
+118,a photo of a carrot and a couch,3793,64,1,1.3802131414413452,,17,1.0,two_object,nbar2,4
+119,a photo of a baseball bat and a giraffe,3825,64,1,1.5334138870239258,,17,0.0,two_object,nbar2,4
+0,a photo of a blue cell phone and a green apple,22,64,1,0.802944540977478,,22,1.0,color_attr,nbar2,5
+1,a photo of a brown carrot and a white potted plant,53,64,1,-0.0649026483297348,,21,0.0,color_attr,nbar2,5
+2,a photo of a blue vase and a black banana,86,64,1,-0.6099013686180115,,22,0.0,color_attr,nbar2,5
+3,a photo of a yellow sports ball and a green boat,117,64,1,0.5214652419090271,,21,0.0,color_attr,nbar2,5
+4,a photo of a purple computer keyboard and a blue scissors,149,64,1,1.2835955619812012,,21,0.0,color_attr,nbar2,5
+5,a photo of a brown computer mouse and a purple bottle,183,64,1,-1.491503119468689,,23,0.0,color_attr,nbar2,5
+6,a photo of a yellow suitcase and a brown bus,215,64,1,1.6450506448745728,,23,1.0,color_attr,nbar2,5
+7,a photo of an orange giraffe and a white baseball glove,244,64,1,-1.9465714693069456,,20,0.0,color_attr,nbar2,5
+8,a photo of an orange handbag and a green carrot,277,64,1,0.8707386255264282,,21,0.0,color_attr,nbar2,5
+9,a photo of a yellow car and an orange toothbrush,310,64,1,1.125285267829895,,22,0.0,color_attr,nbar2,5
+10,a photo of a black potted plant and a yellow toilet,342,64,1,1.7293953895568848,,22,0.0,color_attr,nbar2,5
+11,a photo of an orange donut and a yellow stop sign,373,64,1,-1.989553451538086,,21,0.0,color_attr,nbar2,5
+12,a photo of an orange tennis racket and a yellow sports ball,407,64,1,1.2777495384216309,,23,1.0,color_attr,nbar2,5
+13,a photo of a purple computer keyboard and a red chair,436,64,1,-1.5720441341400146,,20,0.0,color_attr,nbar2,5
+14,a photo of a purple backpack and a white umbrella,470,64,1,1.9443334341049197,,22,1.0,color_attr,nbar2,5
+15,a photo of a yellow handbag and a blue refrigerator,501,64,1,1.9795832633972168,,21,1.0,color_attr,nbar2,5
+16,a photo of a brown knife and a blue donut,534,64,1,1.2315839529037476,,22,1.0,color_attr,nbar2,5
+17,a photo of a red orange and a purple broccoli,566,64,1,1.2308179140090942,,22,0.0,color_attr,nbar2,5
+18,a photo of a green cup and a red pizza,597,64,1,-0.4396924078464508,,21,0.0,color_attr,nbar2,5
+19,a photo of a blue pizza and a yellow baseball glove,629,64,1,-0.0327826850116252,,21,0.0,color_attr,nbar2,5
+20,a photo of a blue fire hydrant,660,64,1,1.0265917778015137,,20,1.0,colors,nbar2,5
+21,a photo of a pink car,692,64,1,1.8330167531967163,,20,1.0,colors,nbar2,5
+22,a photo of a purple hair drier,726,64,1,1.8246275186538696,,22,1.0,colors,nbar2,5
+23,a photo of a purple elephant,757,64,1,1.6017378568649292,,21,1.0,colors,nbar2,5
+24,a photo of a red zebra,790,64,1,-0.4654769003391266,,22,1.0,colors,nbar2,5
+25,a photo of a brown computer keyboard,820,64,1,1.1382652521133425,,20,1.0,colors,nbar2,5
+26,a photo of a red dog,854,64,1,0.633004903793335,,22,0.0,colors,nbar2,5
+27,a photo of a yellow airplane,884,64,1,0.8486939072608948,,20,1.0,colors,nbar2,5
+28,a photo of a green surfboard,918,64,1,0.157087042927742,,22,1.0,colors,nbar2,5
+29,a photo of a black dining table,951,64,1,1.0009983777999878,,23,1.0,colors,nbar2,5
+30,a photo of a pink potted plant,982,64,1,1.766361951828003,,22,1.0,colors,nbar2,5
+31,a photo of a red giraffe,1012,64,1,0.2274608165025711,,20,1.0,colors,nbar2,5
+32,a photo of an orange laptop,1045,64,1,1.8426239490509035,,21,1.0,colors,nbar2,5
+33,a photo of a yellow parking meter,1079,64,1,0.8357079029083252,,23,1.0,colors,nbar2,5
+34,a photo of a yellow orange,1111,64,1,-0.4519566297531128,,23,0.0,colors,nbar2,5
+35,a photo of a white sheep,1140,64,1,1.0019965171813965,,20,1.0,colors,nbar2,5
+36,a photo of a black teddy bear,1175,64,1,0.3914564549922943,,23,1.0,colors,nbar2,5
+37,a photo of a blue carrot,1207,64,1,0.0871052592992782,,23,0.0,colors,nbar2,5
+38,a photo of a green bus,1239,64,1,1.0557621717453003,,23,1.0,colors,nbar2,5
+39,a photo of an orange toaster,1270,64,1,0.4632837772369385,,22,0.0,colors,nbar2,5
+40,a photo of two frisbees,1303,64,1,-0.9091352820396424,,23,0.0,counting,nbar2,5
+41,a photo of three persons,1334,64,1,0.6032443642616272,,22,1.0,counting,nbar2,5
+42,a photo of four bowls,1366,64,1,0.6158503293991089,,22,0.0,counting,nbar2,5
+43,a photo of two bicycles,1399,64,1,1.177603840827942,,23,1.0,counting,nbar2,5
+44,a photo of two beds,1428,64,1,0.6815384030342102,,20,1.0,counting,nbar2,5
+45,a photo of two tv remotes,1462,64,1,0.0688357129693031,,22,0.0,counting,nbar2,5
+46,a photo of three fire hydrants,1495,64,1,0.758776068687439,,23,0.0,counting,nbar2,5
+47,a photo of four giraffes,1527,64,1,0.7959355115890503,,23,0.0,counting,nbar2,5
+48,a photo of three baseball bats,1556,64,1,0.9356576204299928,,20,0.0,counting,nbar2,5
+49,a photo of three refrigerators,1588,64,1,1.2279177904129028,,20,1.0,counting,nbar2,5
+50,a photo of two fire hydrants,1622,64,1,1.171027898788452,,22,1.0,counting,nbar2,5
+51,a photo of four broccolis,1653,64,1,1.16455340385437,,21,0.0,counting,nbar2,5
+52,a photo of two carrots,1685,64,1,1.1067893505096436,,21,0.0,counting,nbar2,5
+53,a photo of four clocks,1718,64,1,-0.4679960310459137,,22,0.0,counting,nbar2,5
+54,a photo of two cars,1748,64,1,0.8030924201011658,,20,1.0,counting,nbar2,5
+55,a photo of two bananas,1783,64,1,0.4543673694133758,,23,1.0,counting,nbar2,5
+56,a photo of three birds,1812,64,1,0.7736209034919739,,20,1.0,counting,nbar2,5
+57,a photo of two hair driers,1844,64,1,1.190706729888916,,20,0.0,counting,nbar2,5
+58,a photo of two parking meters,1879,64,1,0.7823122143745422,,23,1.0,counting,nbar2,5
+59,a photo of four frisbees,1911,64,1,0.2321547418832779,,23,0.0,counting,nbar2,5
+60,a photo of a laptop left of a cow,1940,64,1,0.9519625902175904,,20,0.0,position,nbar2,5
+61,a photo of a skateboard above a person,1972,64,1,0.2362495809793472,,20,0.0,position,nbar2,5
+62,a photo of a dining table right of an oven,2007,64,1,1.6075013875961304,,23,0.0,position,nbar2,5
+63,a photo of a tennis racket right of a spoon,2038,64,1,-1.13440203666687,,22,0.0,position,nbar2,5
+64,a photo of a toaster below a traffic light,2069,64,1,-1.7766470909118652,,21,0.0,position,nbar2,5
+65,a photo of a frisbee right of a motorcycle,2100,64,1,-0.6010192036628723,,20,0.0,position,nbar2,5
+66,a photo of a bench left of a bear,2135,64,1,-1.1208131313323977,,23,0.0,position,nbar2,5
+67,a photo of a donut right of a bench,2166,64,1,1.7898801565170288,,22,0.0,position,nbar2,5
+68,a photo of a cat below a backpack,2199,64,1,1.747382640838623,,23,0.0,position,nbar2,5
+69,a photo of a backpack below a cake,2230,64,1,-2.098388433456421,,22,0.0,position,nbar2,5
+70,a photo of a sandwich below a knife,2260,64,1,1.2441871166229248,,20,0.0,position,nbar2,5
+71,a photo of a bicycle above a parking meter,2293,64,1,0.2620963454246521,,21,0.0,position,nbar2,5
+72,a photo of a knife right of a suitcase,2327,64,1,1.0235071182250977,,23,0.0,position,nbar2,5
+73,a photo of a hot dog above a knife,2357,64,1,0.8983984589576721,,21,1.0,position,nbar2,5
+74,a photo of a zebra right of a parking meter,2388,64,1,1.291125774383545,,20,0.0,position,nbar2,5
+75,a photo of a zebra below a broccoli,2423,64,1,-1.882964372634888,,23,0.0,position,nbar2,5
+76,a photo of a laptop below a sports ball,2452,64,1,1.1024762392044067,,20,0.0,position,nbar2,5
+77,a photo of a tv above a baseball bat,2485,64,1,1.3199337720870972,,21,0.0,position,nbar2,5
+78,a photo of a clock below a tv,2517,64,1,1.3400700092315674,,21,0.0,position,nbar2,5
+79,a photo of a donut below a cat,2550,64,1,1.849980711936951,,22,0.0,position,nbar2,5
+80,a photo of a fork,2580,64,1,0.6433425545692444,,20,1.0,single_object,nbar2,5
+81,a photo of a snowboard,2615,64,1,0.0071043940261006,,23,1.0,single_object,nbar2,5
+82,a photo of a zebra,2644,64,1,0.875508189201355,,20,1.0,single_object,nbar2,5
+83,a photo of a spoon,2679,64,1,0.5258098244667053,,23,1.0,single_object,nbar2,5
+84,a photo of a motorcycle,2711,64,1,0.0580144226551055,,23,1.0,single_object,nbar2,5
+85,a photo of a dog,2740,64,1,1.0900224447250366,,20,1.0,single_object,nbar2,5
+86,a photo of a laptop,2775,64,1,0.4420346617698669,,23,1.0,single_object,nbar2,5
+87,a photo of a baseball bat,2806,64,1,-0.3765794932842254,,22,1.0,single_object,nbar2,5
+88,a photo of a skis,2839,64,1,0.0945922434329986,,23,1.0,single_object,nbar2,5
+89,a photo of a vase,2869,64,1,1.01621675491333,,21,1.0,single_object,nbar2,5
+90,a photo of a tv remote,2900,64,1,0.7476629018783569,,20,1.0,single_object,nbar2,5
+91,a photo of a fire hydrant,2934,64,1,0.4849109649658203,,22,1.0,single_object,nbar2,5
+92,a photo of a giraffe,2965,64,1,0.7614258527755737,,21,1.0,single_object,nbar2,5
+93,a photo of a horse,2996,64,1,0.7135531306266785,,20,1.0,single_object,nbar2,5
+94,a photo of a boat,3031,64,1,0.4370541870594024,,23,1.0,single_object,nbar2,5
+95,a photo of a hair drier,3061,64,1,1.1563457250595093,,21,0.0,single_object,nbar2,5
+96,a photo of a sink,3092,64,1,0.3206574022769928,,20,1.0,single_object,nbar2,5
+97,a photo of a knife,3125,64,1,0.4703762531280517,,21,1.0,single_object,nbar2,5
+98,a photo of a hot dog,3159,64,1,-0.9723913073539734,,23,1.0,single_object,nbar2,5
+99,a photo of a truck,3190,64,1,0.5431824326515198,,22,1.0,single_object,nbar2,5
+100,a photo of a toothbrush and a snowboard,3221,64,1,1.4206740856170654,,21,0.0,two_object,nbar2,5
+101,a photo of a tennis racket and a wine glass,3254,64,1,-2.001454591751098,,22,0.0,two_object,nbar2,5
+102,a photo of a toilet and a computer mouse,3287,64,1,-0.4548797011375427,,23,0.0,two_object,nbar2,5
+103,a photo of an oven and a bed,3319,64,1,-1.8066763877868648,,23,0.0,two_object,nbar2,5
+104,a photo of a fork and a book,3348,64,1,1.5364282131195068,,20,1.0,two_object,nbar2,5
+105,a photo of a scissors and a bowl,3380,64,1,1.6013834476470947,,20,1.0,two_object,nbar2,5
+106,a photo of a giraffe and a computer mouse,3412,64,1,0.212782472372055,,20,0.0,two_object,nbar2,5
+107,a photo of a person and a snowboard,3444,64,1,0.8837008476257324,,20,1.0,two_object,nbar2,5
+108,a photo of a chair and a laptop,3477,64,1,0.8158986568450928,,21,1.0,two_object,nbar2,5
+109,a photo of a toothbrush and a bench,3509,64,1,1.2086633443832395,,21,1.0,two_object,nbar2,5
+110,a photo of a bench and a vase,3543,64,1,1.7118942737579346,,23,1.0,two_object,nbar2,5
+111,a photo of a traffic light and a backpack,3575,64,1,-1.5720181465148926,,23,0.0,two_object,nbar2,5
+112,a photo of a computer mouse and a spoon,3604,64,1,-1.251042723655701,,20,0.0,two_object,nbar2,5
+113,a photo of a tv and a bicycle,3636,64,1,1.84319269657135,,20,1.0,two_object,nbar2,5
+114,a photo of a stop sign and a dog,3669,64,1,1.4980360269546509,,21,1.0,two_object,nbar2,5
+115,a photo of a computer keyboard and a cell phone,3703,64,1,-1.0646294355392456,,23,0.0,two_object,nbar2,5
+116,a photo of a couch and a snowboard,3734,64,1,1.055285930633545,,22,1.0,two_object,nbar2,5
+117,a photo of a fork and a baseball glove,3765,64,1,-1.8967636823654173,,21,0.0,two_object,nbar2,5
+118,a photo of a carrot and a couch,3796,64,1,1.3065720796585083,,20,1.0,two_object,nbar2,5
+119,a photo of a baseball bat and a giraffe,3830,64,1,1.13437020778656,,22,1.0,two_object,nbar2,5
+0,a photo of a blue cell phone and a green apple,26,64,1,1.1228421926498413,,26,1.0,color_attr,nbar2,6
+1,a photo of a brown carrot and a white potted plant,59,64,1,0.2304225414991378,,27,1.0,color_attr,nbar2,6
+2,a photo of a blue vase and a black banana,88,64,1,1.5255296230316162,,24,0.0,color_attr,nbar2,6
+3,a photo of a yellow sports ball and a green boat,121,64,1,1.8639189004898071,,25,1.0,color_attr,nbar2,6
+4,a photo of a purple computer keyboard and a blue scissors,152,64,1,1.6414248943328855,,24,1.0,color_attr,nbar2,6
+5,a photo of a brown computer mouse and a purple bottle,185,64,1,-1.2184020280838013,,25,0.0,color_attr,nbar2,6
+6,a photo of a yellow suitcase and a brown bus,216,64,1,-1.2327581644058228,,24,0.0,color_attr,nbar2,6
+7,a photo of an orange giraffe and a white baseball glove,250,64,1,0.0960481837391853,,26,0.0,color_attr,nbar2,6
+8,a photo of an orange handbag and a green carrot,282,64,1,1.7674202919006348,,26,0.0,color_attr,nbar2,6
+9,a photo of a yellow car and an orange toothbrush,314,64,1,1.2723010778427124,,26,0.0,color_attr,nbar2,6
+10,a photo of a black potted plant and a yellow toilet,344,64,1,1.0128214359283447,,24,0.0,color_attr,nbar2,6
+11,a photo of an orange donut and a yellow stop sign,378,64,1,-1.440101146697998,,26,0.0,color_attr,nbar2,6
+12,a photo of an orange tennis racket and a yellow sports ball,408,64,1,1.238943576812744,,24,1.0,color_attr,nbar2,6
+13,a photo of a purple computer keyboard and a red chair,441,64,1,1.2029311656951904,,25,0.0,color_attr,nbar2,6
+14,a photo of a purple backpack and a white umbrella,475,64,1,1.9580602645874023,,27,1.0,color_attr,nbar2,6
+15,a photo of a yellow handbag and a blue refrigerator,507,64,1,1.970444202423096,,27,1.0,color_attr,nbar2,6
+16,a photo of a brown knife and a blue donut,536,64,1,1.496196746826172,,24,0.0,color_attr,nbar2,6
+17,a photo of a red orange and a purple broccoli,571,64,1,1.036508560180664,,27,0.0,color_attr,nbar2,6
+18,a photo of a green cup and a red pizza,602,64,1,0.8175197839736938,,26,0.0,color_attr,nbar2,6
+19,a photo of a blue pizza and a yellow baseball glove,635,64,1,-1.00321364402771,,27,0.0,color_attr,nbar2,6
+20,a photo of a blue fire hydrant,666,64,1,0.7569293975830078,,26,1.0,colors,nbar2,6
+21,a photo of a pink car,698,64,1,1.770894169807434,,26,1.0,colors,nbar2,6
+22,a photo of a purple hair drier,729,64,1,1.797441482543945,,25,1.0,colors,nbar2,6
+23,a photo of a purple elephant,762,64,1,1.7699285745620728,,26,1.0,colors,nbar2,6
+24,a photo of a red zebra,793,64,1,0.0830360800027847,,25,1.0,colors,nbar2,6
+25,a photo of a brown computer keyboard,824,64,1,1.4797072410583496,,24,1.0,colors,nbar2,6
+26,a photo of a red dog,857,64,1,1.0103079080581665,,25,1.0,colors,nbar2,6
+27,a photo of a yellow airplane,888,64,1,1.2173763513565063,,24,1.0,colors,nbar2,6
+28,a photo of a green surfboard,923,64,1,-0.122964508831501,,27,1.0,colors,nbar2,6
+29,a photo of a black dining table,954,64,1,-0.0097707249224185,,26,1.0,colors,nbar2,6
+30,a photo of a pink potted plant,985,64,1,1.8652293682098389,,25,1.0,colors,nbar2,6
+31,a photo of a red giraffe,1016,64,1,0.4939127564430237,,24,1.0,colors,nbar2,6
+32,a photo of an orange laptop,1050,64,1,1.0492682456970217,,26,1.0,colors,nbar2,6
+33,a photo of a yellow parking meter,1081,64,1,1.0653244256973269,,25,1.0,colors,nbar2,6
+34,a photo of a yellow orange,1113,64,1,-0.8300061821937561,,25,0.0,colors,nbar2,6
+35,a photo of a white sheep,1146,64,1,0.7734334468841553,,26,1.0,colors,nbar2,6
+36,a photo of a black teddy bear,1177,64,1,0.7916269302368164,,25,1.0,colors,nbar2,6
+37,a photo of a blue carrot,1211,64,1,-1.7565972805023191,,27,0.0,colors,nbar2,6
+38,a photo of a green bus,1243,64,1,1.118186116218567,,27,1.0,colors,nbar2,6
+39,a photo of an orange toaster,1273,64,1,1.8613203763961792,,25,1.0,colors,nbar2,6
+40,a photo of two frisbees,1306,64,1,-0.603290855884552,,26,0.0,counting,nbar2,6
+41,a photo of three persons,1337,64,1,0.600080668926239,,25,1.0,counting,nbar2,6
+42,a photo of four bowls,1371,64,1,0.4374495446681976,,27,0.0,counting,nbar2,6
+43,a photo of two bicycles,1401,64,1,1.0884616374969482,,25,1.0,counting,nbar2,6
+44,a photo of two beds,1435,64,1,0.567615270614624,,27,1.0,counting,nbar2,6
+45,a photo of two tv remotes,1464,64,1,0.4323884546756744,,24,0.0,counting,nbar2,6
+46,a photo of three fire hydrants,1496,64,1,1.3649464845657349,,24,1.0,counting,nbar2,6
+47,a photo of four giraffes,1528,64,1,0.9161716103553772,,24,1.0,counting,nbar2,6
+48,a photo of three baseball bats,1560,64,1,0.58009272813797,,24,0.0,counting,nbar2,6
+49,a photo of three refrigerators,1592,64,1,0.9159986972808838,,24,0.0,counting,nbar2,6
+50,a photo of two fire hydrants,1624,64,1,1.3862383365631104,,24,1.0,counting,nbar2,6
+51,a photo of four broccolis,1656,64,1,1.063778519630432,,24,0.0,counting,nbar2,6
+52,a photo of two carrots,1690,64,1,1.0092474222183228,,26,1.0,counting,nbar2,6
+53,a photo of four clocks,1723,64,1,1.0823315382003784,,27,0.0,counting,nbar2,6
+54,a photo of two cars,1755,64,1,0.989449381828308,,27,1.0,counting,nbar2,6
+55,a photo of two bananas,1787,64,1,0.4946407079696655,,27,1.0,counting,nbar2,6
+56,a photo of three birds,1818,64,1,0.9934054017066956,,26,0.0,counting,nbar2,6
+57,a photo of two hair driers,1849,64,1,1.1523489952087402,,25,0.0,counting,nbar2,6
+58,a photo of two parking meters,1881,64,1,0.2506652772426605,,25,0.0,counting,nbar2,6
+59,a photo of four frisbees,1913,64,1,0.5948498845100403,,25,0.0,counting,nbar2,6
+60,a photo of a laptop left of a cow,1945,64,1,1.813137173652649,,25,0.0,position,nbar2,6
+61,a photo of a skateboard above a person,1978,64,1,0.2269541174173355,,26,0.0,position,nbar2,6
+62,a photo of a dining table right of an oven,2011,64,1,0.3089814484119415,,27,1.0,position,nbar2,6
+63,a photo of a tennis racket right of a spoon,2043,64,1,-1.01475191116333,,27,0.0,position,nbar2,6
+64,a photo of a toaster below a traffic light,2074,64,1,-1.9300129413604736,,26,0.0,position,nbar2,6
+65,a photo of a frisbee right of a motorcycle,2104,64,1,-0.4068165123462677,,24,0.0,position,nbar2,6
+66,a photo of a bench left of a bear,2137,64,1,-1.34165358543396,,25,0.0,position,nbar2,6
+67,a photo of a donut right of a bench,2169,64,1,1.6009328365325928,,25,0.0,position,nbar2,6
+68,a photo of a cat below a backpack,2202,64,1,1.5403813123703003,,26,0.0,position,nbar2,6
+69,a photo of a backpack below a cake,2234,64,1,-1.9324194192886357,,26,0.0,position,nbar2,6
+70,a photo of a sandwich below a knife,2267,64,1,1.3289661407470703,,27,0.0,position,nbar2,6
+71,a photo of a bicycle above a parking meter,2298,64,1,0.5111123919487,,26,0.0,position,nbar2,6
+72,a photo of a knife right of a suitcase,2329,64,1,0.4899845421314239,,25,0.0,position,nbar2,6
+73,a photo of a hot dog above a knife,2360,64,1,1.1606932878494265,,24,0.0,position,nbar2,6
+74,a photo of a zebra right of a parking meter,2393,64,1,-1.1969183683395386,,25,0.0,position,nbar2,6
+75,a photo of a zebra below a broccoli,2425,64,1,1.5589203834533691,,25,0.0,position,nbar2,6
+76,a photo of a laptop below a sports ball,2458,64,1,1.932033896446228,,26,0.0,position,nbar2,6
+77,a photo of a tv above a baseball bat,2488,64,1,0.965245246887207,,24,0.0,position,nbar2,6
+78,a photo of a clock below a tv,2520,64,1,0.2084832936525344,,24,0.0,position,nbar2,6
+79,a photo of a donut below a cat,2555,64,1,1.873014569282532,,27,1.0,position,nbar2,6
+80,a photo of a fork,2585,64,1,0.5850247144699097,,25,1.0,single_object,nbar2,6
+81,a photo of a snowboard,2619,64,1,-0.1929456889629364,,27,1.0,single_object,nbar2,6
+82,a photo of a zebra,2650,64,1,0.7329862117767334,,26,1.0,single_object,nbar2,6
+83,a photo of a spoon,2682,64,1,0.5187457203865051,,26,1.0,single_object,nbar2,6
+84,a photo of a motorcycle,2714,64,1,0.418429285287857,,26,1.0,single_object,nbar2,6
+85,a photo of a dog,2744,64,1,0.3875525593757629,,24,1.0,single_object,nbar2,6
+86,a photo of a laptop,2779,64,1,0.7768344283103943,,27,1.0,single_object,nbar2,6
+87,a photo of a baseball bat,2808,64,1,0.9246293902397156,,24,1.0,single_object,nbar2,6
+88,a photo of a skis,2840,64,1,-0.2328787297010421,,24,1.0,single_object,nbar2,6
+89,a photo of a vase,2873,64,1,1.0115437507629397,,25,1.0,single_object,nbar2,6
+90,a photo of a tv remote,2907,64,1,0.8037484288215637,,27,1.0,single_object,nbar2,6
+91,a photo of a fire hydrant,2937,64,1,0.4440003335475921,,25,1.0,single_object,nbar2,6
+92,a photo of a giraffe,2971,64,1,0.7785543203353882,,27,1.0,single_object,nbar2,6
+93,a photo of a horse,3000,64,1,1.051601767539978,,24,1.0,single_object,nbar2,6
+94,a photo of a boat,3034,64,1,0.433836817741394,,26,1.0,single_object,nbar2,6
+95,a photo of a hair drier,3065,64,1,1.261875867843628,,25,0.0,single_object,nbar2,6
+96,a photo of a sink,3097,64,1,0.4324707984924316,,25,1.0,single_object,nbar2,6
+97,a photo of a knife,3130,64,1,0.7229074239730835,,26,1.0,single_object,nbar2,6
+98,a photo of a hot dog,3162,64,1,-0.5470671653747559,,26,1.0,single_object,nbar2,6
+99,a photo of a truck,3192,64,1,0.8428417444229126,,24,1.0,single_object,nbar2,6
+100,a photo of a toothbrush and a snowboard,3226,64,1,-1.211903095245361,,26,0.0,two_object,nbar2,6
+101,a photo of a tennis racket and a wine glass,3256,64,1,-2.0049047470092773,,24,0.0,two_object,nbar2,6
+102,a photo of a toilet and a computer mouse,3288,64,1,0.0738325268030166,,24,0.0,two_object,nbar2,6
+103,a photo of an oven and a bed,3320,64,1,-1.819398283958435,,24,0.0,two_object,nbar2,6
+104,a photo of a fork and a book,3355,64,1,-0.1367293447256088,,27,0.0,two_object,nbar2,6
+105,a photo of a scissors and a bowl,3385,64,1,1.3512386083602903,,25,0.0,two_object,nbar2,6
+106,a photo of a giraffe and a computer mouse,3418,64,1,1.803597331047058,,26,0.0,two_object,nbar2,6
+107,a photo of a person and a snowboard,3451,64,1,-0.1242654025554657,,27,1.0,two_object,nbar2,6
+108,a photo of a chair and a laptop,3481,64,1,-0.151901513338089,,25,1.0,two_object,nbar2,6
+109,a photo of a toothbrush and a bench,3513,64,1,-1.7212270498275757,,25,0.0,two_object,nbar2,6
+110,a photo of a bench and a vase,3545,64,1,0.9011754393577576,,25,1.0,two_object,nbar2,6
+111,a photo of a traffic light and a backpack,3576,64,1,0.947057008743286,,24,1.0,two_object,nbar2,6
+112,a photo of a computer mouse and a spoon,3611,64,1,1.2289220094680786,,27,1.0,two_object,nbar2,6
+113,a photo of a tv and a bicycle,3643,64,1,1.811152458190918,,27,1.0,two_object,nbar2,6
+114,a photo of a stop sign and a dog,3674,64,1,1.662594437599182,,26,1.0,two_object,nbar2,6
+115,a photo of a computer keyboard and a cell phone,3706,64,1,0.9628827571868896,,26,1.0,two_object,nbar2,6
+116,a photo of a couch and a snowboard,3737,64,1,1.628779053688049,,25,0.0,two_object,nbar2,6
+117,a photo of a fork and a baseball glove,3770,64,1,-1.827932596206665,,26,0.0,two_object,nbar2,6
+118,a photo of a carrot and a couch,3802,64,1,1.110593557357788,,26,1.0,two_object,nbar2,6
+119,a photo of a baseball bat and a giraffe,3832,64,1,1.2888766527175903,,24,1.0,two_object,nbar2,6
+0,a photo of a blue cell phone and a green apple,30,64,1,1.304144263267517,,30,1.0,color_attr,nbar2,7
+1,a photo of a brown carrot and a white potted plant,63,64,1,0.0836811959743499,,31,1.0,color_attr,nbar2,7
+2,a photo of a blue vase and a black banana,95,64,1,-0.7014964818954468,,31,0.0,color_attr,nbar2,7
+3,a photo of a yellow sports ball and a green boat,124,64,1,1.7463446855545044,,28,1.0,color_attr,nbar2,7
+4,a photo of a purple computer keyboard and a blue scissors,158,64,1,0.0592351369559764,,30,0.0,color_attr,nbar2,7
+5,a photo of a brown computer mouse and a purple bottle,190,64,1,0.5693962574005127,,30,0.0,color_attr,nbar2,7
+6,a photo of a yellow suitcase and a brown bus,222,64,1,-1.5629544258117676,,30,0.0,color_attr,nbar2,7
+7,a photo of an orange giraffe and a white baseball glove,255,64,1,-0.4175826907157898,,31,0.0,color_attr,nbar2,7
+8,a photo of an orange handbag and a green carrot,287,64,1,1.9352296590805051,,31,0.0,color_attr,nbar2,7
+9,a photo of a yellow car and an orange toothbrush,316,64,1,0.6804633140563965,,28,0.0,color_attr,nbar2,7
+10,a photo of a black potted plant and a yellow toilet,348,64,1,0.1159129962325096,,28,0.0,color_attr,nbar2,7
+11,a photo of an orange donut and a yellow stop sign,383,64,1,-0.901460826396942,,31,0.0,color_attr,nbar2,7
+12,a photo of an orange tennis racket and a yellow sports ball,414,64,1,1.5486726760864258,,30,1.0,color_attr,nbar2,7
+13,a photo of a purple computer keyboard and a red chair,446,64,1,-0.7979273796081543,,30,0.0,color_attr,nbar2,7
+14,a photo of a purple backpack and a white umbrella,479,64,1,-0.0098839104175567,,31,0.0,color_attr,nbar2,7
+15,a photo of a yellow handbag and a blue refrigerator,511,64,1,0.5207181572914124,,31,0.0,color_attr,nbar2,7
+16,a photo of a brown knife and a blue donut,542,64,1,1.361088752746582,,30,1.0,color_attr,nbar2,7
+17,a photo of a red orange and a purple broccoli,572,64,1,0.0945829525589943,,28,0.0,color_attr,nbar2,7
+18,a photo of a green cup and a red pizza,606,64,1,1.5706188678741455,,30,1.0,color_attr,nbar2,7
+19,a photo of a blue pizza and a yellow baseball glove,639,64,1,-0.5664951205253601,,31,0.0,color_attr,nbar2,7
+20,a photo of a blue fire hydrant,669,64,1,1.3620893955230713,,29,1.0,colors,nbar2,7
+21,a photo of a pink car,703,64,1,1.8179223537445068,,31,1.0,colors,nbar2,7
+22,a photo of a purple hair drier,733,64,1,1.7016880512237549,,29,1.0,colors,nbar2,7
+23,a photo of a purple elephant,764,64,1,1.0990015268325806,,28,1.0,colors,nbar2,7
+24,a photo of a red zebra,796,64,1,-0.3196706473827362,,28,1.0,colors,nbar2,7
+25,a photo of a brown computer keyboard,831,64,1,1.3302065134048462,,31,1.0,colors,nbar2,7
+26,a photo of a red dog,860,64,1,0.9348915815353394,,28,1.0,colors,nbar2,7
+27,a photo of a yellow airplane,893,64,1,1.6089847087860107,,29,1.0,colors,nbar2,7
+28,a photo of a green surfboard,925,64,1,0.608412504196167,,29,1.0,colors,nbar2,7
+29,a photo of a black dining table,958,64,1,1.10710346698761,,30,1.0,colors,nbar2,7
+30,a photo of a pink potted plant,990,64,1,1.4968979358673096,,30,1.0,colors,nbar2,7
+31,a photo of a red giraffe,1021,64,1,0.4282898306846618,,29,1.0,colors,nbar2,7
+32,a photo of an orange laptop,1054,64,1,1.5926165580749512,,30,1.0,colors,nbar2,7
+33,a photo of a yellow parking meter,1087,64,1,1.186147928237915,,31,1.0,colors,nbar2,7
+34,a photo of a yellow orange,1117,64,1,-1.419154405593872,,29,0.0,colors,nbar2,7
+35,a photo of a white sheep,1148,64,1,0.9699550867080688,,28,1.0,colors,nbar2,7
+36,a photo of a black teddy bear,1181,64,1,0.6864321827888489,,29,1.0,colors,nbar2,7
+37,a photo of a blue carrot,1215,64,1,1.0250517129898071,,31,0.0,colors,nbar2,7
+38,a photo of a green bus,1245,64,1,0.7358081340789795,,29,1.0,colors,nbar2,7
+39,a photo of an orange toaster,1277,64,1,1.6904460191726685,,29,1.0,colors,nbar2,7
+40,a photo of two frisbees,1309,64,1,-1.10887348651886,,29,0.0,counting,nbar2,7
+41,a photo of three persons,1341,64,1,0.7556594014167786,,29,1.0,counting,nbar2,7
+42,a photo of four bowls,1373,64,1,0.255338191986084,,29,0.0,counting,nbar2,7
+43,a photo of two bicycles,1405,64,1,0.5773540139198303,,29,1.0,counting,nbar2,7
+44,a photo of two beds,1439,64,1,0.2068390846252441,,31,1.0,counting,nbar2,7
+45,a photo of two tv remotes,1470,64,1,0.4597739279270172,,30,1.0,counting,nbar2,7
+46,a photo of three fire hydrants,1500,64,1,-0.2980559766292572,,28,0.0,counting,nbar2,7
+47,a photo of four giraffes,1532,64,1,0.9744088053703308,,28,0.0,counting,nbar2,7
+48,a photo of three baseball bats,1566,64,1,1.3945778608322144,,30,0.0,counting,nbar2,7
+49,a photo of three refrigerators,1597,64,1,1.3729093074798584,,29,1.0,counting,nbar2,7
+50,a photo of two fire hydrants,1628,64,1,1.1987693309783936,,28,1.0,counting,nbar2,7
+51,a photo of four broccolis,1660,64,1,0.8948292136192322,,28,0.0,counting,nbar2,7
+52,a photo of two carrots,1693,64,1,1.1815195083618164,,29,1.0,counting,nbar2,7
+53,a photo of four clocks,1724,64,1,0.9260379672050476,,28,0.0,counting,nbar2,7
+54,a photo of two cars,1758,64,1,0.8188786506652832,,30,1.0,counting,nbar2,7
+55,a photo of two bananas,1789,64,1,-0.7148789763450623,,29,0.0,counting,nbar2,7
+56,a photo of three birds,1820,64,1,1.172634482383728,,28,1.0,counting,nbar2,7
+57,a photo of two hair driers,1855,64,1,0.9908729791641236,,31,0.0,counting,nbar2,7
+58,a photo of two parking meters,1885,64,1,0.6506596803665161,,29,1.0,counting,nbar2,7
+59,a photo of four frisbees,1917,64,1,0.7561787366867065,,29,0.0,counting,nbar2,7
+60,a photo of a laptop left of a cow,1949,64,1,1.6718173027038574,,29,0.0,position,nbar2,7
+61,a photo of a skateboard above a person,1980,64,1,0.2529788613319397,,28,0.0,position,nbar2,7
+62,a photo of a dining table right of an oven,2015,64,1,0.8413310647010803,,31,0.0,position,nbar2,7
+63,a photo of a tennis racket right of a spoon,2045,64,1,-0.9932919144630432,,29,0.0,position,nbar2,7
+64,a photo of a toaster below a traffic light,2079,64,1,-0.968291401863098,,31,0.0,position,nbar2,7
+65,a photo of a frisbee right of a motorcycle,2110,64,1,0.7105492353439331,,30,0.0,position,nbar2,7
+66,a photo of a bench left of a bear,2143,64,1,-0.5867280960083008,,31,0.0,position,nbar2,7
+67,a photo of a donut right of a bench,2172,64,1,1.2218658924102783,,28,0.0,position,nbar2,7
+68,a photo of a cat below a backpack,2204,64,1,1.6020251512527466,,28,0.0,position,nbar2,7
+69,a photo of a backpack below a cake,2238,64,1,-1.0511527061462402,,30,0.0,position,nbar2,7
+70,a photo of a sandwich below a knife,2271,64,1,0.940787136554718,,31,0.0,position,nbar2,7
+71,a photo of a bicycle above a parking meter,2300,64,1,-0.4984232187271118,,28,0.0,position,nbar2,7
+72,a photo of a knife right of a suitcase,2335,64,1,0.9656788110733032,,31,0.0,position,nbar2,7
+73,a photo of a hot dog above a knife,2367,64,1,-0.8228868246078491,,31,0.0,position,nbar2,7
+74,a photo of a zebra right of a parking meter,2397,64,1,-0.7875539660453796,,29,0.0,position,nbar2,7
+75,a photo of a zebra below a broccoli,2428,64,1,-1.8739664554595947,,28,0.0,position,nbar2,7
+76,a photo of a laptop below a sports ball,2463,64,1,1.806872010231018,,31,0.0,position,nbar2,7
+77,a photo of a tv above a baseball bat,2494,64,1,1.597281575202942,,30,0.0,position,nbar2,7
+78,a photo of a clock below a tv,2524,64,1,0.9907241463661194,,28,0.0,position,nbar2,7
+79,a photo of a donut below a cat,2558,64,1,1.8058669567108157,,30,0.0,position,nbar2,7
+80,a photo of a fork,2588,64,1,0.3000940978527069,,28,1.0,single_object,nbar2,7
+81,a photo of a snowboard,2620,64,1,-0.1298600435256958,,28,1.0,single_object,nbar2,7
+82,a photo of a zebra,2652,64,1,1.0034639835357666,,28,1.0,single_object,nbar2,7
+83,a photo of a spoon,2684,64,1,0.4794042408466339,,28,1.0,single_object,nbar2,7
+84,a photo of a motorcycle,2716,64,1,0.3781594634056091,,28,1.0,single_object,nbar2,7
+85,a photo of a dog,2749,64,1,0.2418629825115203,,29,1.0,single_object,nbar2,7
+86,a photo of a laptop,2782,64,1,0.1948459297418594,,30,1.0,single_object,nbar2,7
+87,a photo of a baseball bat,2815,64,1,0.7857462167739868,,31,1.0,single_object,nbar2,7
+88,a photo of a skis,2846,64,1,-0.2524858117103576,,30,1.0,single_object,nbar2,7
+89,a photo of a vase,2878,64,1,0.930976152420044,,30,1.0,single_object,nbar2,7
+90,a photo of a tv remote,2909,64,1,0.5710676312446594,,29,1.0,single_object,nbar2,7
+91,a photo of a fire hydrant,2941,64,1,0.2888228297233581,,29,1.0,single_object,nbar2,7
+92,a photo of a giraffe,2974,64,1,0.9311566352844238,,30,1.0,single_object,nbar2,7
+93,a photo of a horse,3005,64,1,0.6161937713623047,,29,1.0,single_object,nbar2,7
+94,a photo of a boat,3036,64,1,0.396535724401474,,28,1.0,single_object,nbar2,7
+95,a photo of a hair drier,3068,64,1,0.9542891979217528,,28,1.0,single_object,nbar2,7
+96,a photo of a sink,3102,64,1,0.5093280673027039,,30,1.0,single_object,nbar2,7
+97,a photo of a knife,3132,64,1,0.564160943031311,,28,1.0,single_object,nbar2,7
+98,a photo of a hot dog,3165,64,1,-0.3260365724563598,,29,1.0,single_object,nbar2,7
+99,a photo of a truck,3197,64,1,0.6243751049041748,,29,1.0,single_object,nbar2,7
+100,a photo of a toothbrush and a snowboard,3231,64,1,-0.0179870314896106,,31,0.0,two_object,nbar2,7
+101,a photo of a tennis racket and a wine glass,3262,64,1,-2.006899833679199,,30,0.0,two_object,nbar2,7
+102,a photo of a toilet and a computer mouse,3292,64,1,-1.2639033794403076,,28,0.0,two_object,nbar2,7
+103,a photo of an oven and a bed,3326,64,1,-1.7251259088516235,,30,0.0,two_object,nbar2,7
+104,a photo of a fork and a book,3356,64,1,1.4884071350097656,,28,1.0,two_object,nbar2,7
+105,a photo of a scissors and a bowl,3388,64,1,1.4982237815856934,,28,1.0,two_object,nbar2,7
+106,a photo of a giraffe and a computer mouse,3422,64,1,-0.2312125712633133,,30,0.0,two_object,nbar2,7
+107,a photo of a person and a snowboard,3452,64,1,-0.2747360169887543,,28,1.0,two_object,nbar2,7
+108,a photo of a chair and a laptop,3486,64,1,-0.0049604708328843,,30,1.0,two_object,nbar2,7
+109,a photo of a toothbrush and a bench,3518,64,1,0.933605432510376,,30,0.0,two_object,nbar2,7
+110,a photo of a bench and a vase,3550,64,1,1.6055338382720947,,30,1.0,two_object,nbar2,7
+111,a photo of a traffic light and a backpack,3580,64,1,-1.6283267736434937,,28,0.0,two_object,nbar2,7
+112,a photo of a computer mouse and a spoon,3615,64,1,1.407624363899231,,31,1.0,two_object,nbar2,7
+113,a photo of a tv and a bicycle,3645,64,1,1.7439223527908323,,29,1.0,two_object,nbar2,7
+114,a photo of a stop sign and a dog,3678,64,1,1.7826769351959229,,30,1.0,two_object,nbar2,7
+115,a photo of a computer keyboard and a cell phone,3711,64,1,-0.3792063891887665,,31,0.0,two_object,nbar2,7
+116,a photo of a couch and a snowboard,3743,64,1,1.209243655204773,,31,1.0,two_object,nbar2,7
+117,a photo of a fork and a baseball glove,3772,64,1,-1.6975287199020386,,28,0.0,two_object,nbar2,7
+118,a photo of a carrot and a couch,3804,64,1,0.641674280166626,,28,1.0,two_object,nbar2,7
+119,a photo of a baseball bat and a giraffe,3839,64,1,1.1585209369659424,,31,1.0,two_object,nbar2,7
+0,a photo of a blue cell phone and a green apple,2,64,1,0.4213999211788177,,2,1.0,color_attr,nbar4,0
+1,a photo of a brown carrot and a white potted plant,38,64,1,-0.0696996003389358,,6,0.0,color_attr,nbar4,0
+2,a photo of a blue vase and a black banana,68,64,1,0.5355455875396729,,4,0.0,color_attr,nbar4,0
+3,a photo of a yellow sports ball and a green boat,100,64,1,1.6974756717681885,,4,1.0,color_attr,nbar4,0
+4,a photo of a purple computer keyboard and a blue scissors,133,64,1,0.976872742176056,,5,0.0,color_attr,nbar4,0
+5,a photo of a brown computer mouse and a purple bottle,167,64,1,1.0925662517547607,,7,0.0,color_attr,nbar4,0
+6,a photo of a yellow suitcase and a brown bus,199,64,1,-1.4135117530822754,,7,0.0,color_attr,nbar4,0
+7,a photo of an orange giraffe and a white baseball glove,226,64,1,-0.033543162047863,,2,0.0,color_attr,nbar4,0
+8,a photo of an orange handbag and a green carrot,257,64,1,0.9120418429374696,,1,0.0,color_attr,nbar4,0
+9,a photo of a yellow car and an orange toothbrush,294,64,1,1.471244215965271,,6,0.0,color_attr,nbar4,0
+10,a photo of a black potted plant and a yellow toilet,326,64,1,1.927293300628662,,6,0.0,color_attr,nbar4,0
+11,a photo of an orange donut and a yellow stop sign,352,64,1,-0.8312434554100037,,0,0.0,color_attr,nbar4,0
+12,a photo of an orange tennis racket and a yellow sports ball,387,64,1,1.5237096548080444,,3,0.0,color_attr,nbar4,0
+13,a photo of a purple computer keyboard and a red chair,421,64,1,0.7451478838920593,,5,1.0,color_attr,nbar4,0
+14,a photo of a purple backpack and a white umbrella,453,64,1,1.8599534034729004,,5,0.0,color_attr,nbar4,0
+15,a photo of a yellow handbag and a blue refrigerator,480,64,1,1.9661015272140503,,0,1.0,color_attr,nbar4,0
+16,a photo of a brown knife and a blue donut,512,64,1,1.6829179525375366,,0,0.0,color_attr,nbar4,0
+17,a photo of a red orange and a purple broccoli,551,64,1,1.2283895015716553,,7,0.0,color_attr,nbar4,0
+18,a photo of a green cup and a red pizza,580,64,1,1.6671632528305054,,4,1.0,color_attr,nbar4,0
+19,a photo of a blue pizza and a yellow baseball glove,613,64,1,-0.7294895052909851,,5,0.0,color_attr,nbar4,0
+20,a photo of a blue fire hydrant,645,64,1,1.6670502424240112,,5,1.0,colors,nbar4,0
+21,a photo of a pink car,676,64,1,1.8233649730682373,,4,1.0,colors,nbar4,0
+22,a photo of a purple hair drier,710,64,1,1.607438564300537,,6,1.0,colors,nbar4,0
+23,a photo of a purple elephant,739,64,1,1.8588783740997317,,3,1.0,colors,nbar4,0
+24,a photo of a red zebra,769,64,1,0.8885287642478943,,1,1.0,colors,nbar4,0
+25,a photo of a brown computer keyboard,800,64,1,1.4376487731933594,,0,1.0,colors,nbar4,0
+26,a photo of a red dog,838,64,1,1.3710750341415403,,6,1.0,colors,nbar4,0
+27,a photo of a yellow airplane,868,64,1,1.2371892929077148,,4,1.0,colors,nbar4,0
+28,a photo of a green surfboard,900,64,1,0.4871775209903717,,4,1.0,colors,nbar4,0
+29,a photo of a black dining table,930,64,1,0.8796111941337585,,2,0.0,colors,nbar4,0
+30,a photo of a pink potted plant,960,64,1,1.714200735092163,,0,0.0,colors,nbar4,0
+31,a photo of a red giraffe,996,64,1,0.1415975242853164,,4,0.0,colors,nbar4,0
+32,a photo of an orange laptop,1027,64,1,1.7144944667816162,,3,1.0,colors,nbar4,0
+33,a photo of a yellow parking meter,1062,64,1,1.2207645177841189,,6,1.0,colors,nbar4,0
+34,a photo of a yellow orange,1095,64,1,-0.3759992718696594,,7,0.0,colors,nbar4,0
+35,a photo of a white sheep,1120,64,1,0.9603116512298584,,0,1.0,colors,nbar4,0
+36,a photo of a black teddy bear,1152,64,1,1.6060298681259155,,0,1.0,colors,nbar4,0
+37,a photo of a blue carrot,1184,64,1,-0.2762435674667358,,0,0.0,colors,nbar4,0
+38,a photo of a green bus,1219,64,1,1.4320534467697144,,3,1.0,colors,nbar4,0
+39,a photo of an orange toaster,1248,64,1,1.6266313791275024,,0,1.0,colors,nbar4,0
+40,a photo of two frisbees,1281,64,1,0.2418932318687439,,1,0.0,counting,nbar4,0
+41,a photo of three persons,1314,64,1,0.5714107155799866,,2,1.0,counting,nbar4,0
+42,a photo of four bowls,1348,64,1,0.7088615894317627,,4,0.0,counting,nbar4,0
+43,a photo of two bicycles,1381,64,1,0.7897875308990479,,5,0.0,counting,nbar4,0
+44,a photo of two beds,1415,64,1,0.7213312387466431,,7,1.0,counting,nbar4,0
+45,a photo of two tv remotes,1441,64,1,0.95862478017807,,1,1.0,counting,nbar4,0
+46,a photo of three fire hydrants,1477,64,1,1.1321029663085938,,5,1.0,counting,nbar4,0
+47,a photo of four giraffes,1511,64,1,0.8564425706863403,,7,0.0,counting,nbar4,0
+48,a photo of three baseball bats,1536,64,1,1.069766402244568,,0,1.0,counting,nbar4,0
+49,a photo of three refrigerators,1571,64,1,1.2707990407943726,,3,0.0,counting,nbar4,0
+50,a photo of two fire hydrants,1607,64,1,0.9532377123832704,,7,1.0,counting,nbar4,0
+51,a photo of four broccolis,1633,64,1,0.809667706489563,,1,0.0,counting,nbar4,0
+52,a photo of two carrots,1667,64,1,0.7920316457748413,,3,0.0,counting,nbar4,0
+53,a photo of four clocks,1701,64,1,1.1527174711227417,,5,1.0,counting,nbar4,0
+54,a photo of two cars,1730,64,1,0.9091452956199646,,2,1.0,counting,nbar4,0
+55,a photo of two bananas,1762,64,1,0.7712262868881226,,2,1.0,counting,nbar4,0
+56,a photo of three birds,1796,64,1,0.9620509743690492,,4,1.0,counting,nbar4,0
+57,a photo of two hair driers,1827,64,1,0.0423812754452228,,3,0.0,counting,nbar4,0
+58,a photo of two parking meters,1860,64,1,1.2812023162841797,,4,0.0,counting,nbar4,0
+59,a photo of four frisbees,1892,64,1,0.7023712396621704,,4,1.0,counting,nbar4,0
+60,a photo of a laptop left of a cow,1923,64,1,1.7944504022598269,,3,0.0,position,nbar4,0
+61,a photo of a skateboard above a person,1959,64,1,0.6180589199066162,,7,0.0,position,nbar4,0
+62,a photo of a dining table right of an oven,1987,64,1,1.089077711105347,,3,1.0,position,nbar4,0
+63,a photo of a tennis racket right of a spoon,2016,64,1,-0.06417828053236,,0,0.0,position,nbar4,0
+64,a photo of a toaster below a traffic light,2049,64,1,-0.9333170652389526,,1,0.0,position,nbar4,0
+65,a photo of a frisbee right of a motorcycle,2086,64,1,0.0749920159578323,,6,0.0,position,nbar4,0
+66,a photo of a bench left of a bear,2112,64,1,-0.980384111404419,,0,0.0,position,nbar4,0
+67,a photo of a donut right of a bench,2151,64,1,1.7457870244979858,,7,0.0,position,nbar4,0
+68,a photo of a cat below a backpack,2181,64,1,1.7585304975509644,,5,0.0,position,nbar4,0
+69,a photo of a backpack below a cake,2208,64,1,-1.883489966392517,,0,0.0,position,nbar4,0
+70,a photo of a sandwich below a knife,2247,64,1,1.284893035888672,,7,0.0,position,nbar4,0
+71,a photo of a bicycle above a parking meter,2273,64,1,0.3697502315044403,,1,0.0,position,nbar4,0
+72,a photo of a knife right of a suitcase,2308,64,1,1.148108959197998,,4,0.0,position,nbar4,0
+73,a photo of a hot dog above a knife,2339,64,1,1.051280498504639,,3,0.0,position,nbar4,0
+74,a photo of a zebra right of a parking meter,2370,64,1,1.1208281517028809,,2,0.0,position,nbar4,0
+75,a photo of a zebra below a broccoli,2403,64,1,-1.8195234537124636,,3,0.0,position,nbar4,0
+76,a photo of a laptop below a sports ball,2432,64,1,1.93021297454834,,0,0.0,position,nbar4,0
+77,a photo of a tv above a baseball bat,2468,64,1,1.4208821058273315,,4,0.0,position,nbar4,0
+78,a photo of a clock below a tv,2502,64,1,1.2107431888580322,,6,0.0,position,nbar4,0
+79,a photo of a donut below a cat,2533,64,1,1.8780310153961184,,5,1.0,position,nbar4,0
+80,a photo of a fork,2562,64,1,1.0086079835891724,,2,1.0,single_object,nbar4,0
+81,a photo of a snowboard,2598,64,1,-0.193926066160202,,6,1.0,single_object,nbar4,0
+82,a photo of a zebra,2627,64,1,1.070504665374756,,3,1.0,single_object,nbar4,0
+83,a photo of a spoon,2661,64,1,0.6557520627975464,,5,1.0,single_object,nbar4,0
+84,a photo of a motorcycle,2695,64,1,0.5220137238502502,,7,1.0,single_object,nbar4,0
+85,a photo of a dog,2724,64,1,0.9194236993789672,,4,1.0,single_object,nbar4,0
+86,a photo of a laptop,2757,64,1,0.6920208930969238,,5,1.0,single_object,nbar4,0
+87,a photo of a baseball bat,2791,64,1,0.5978403687477112,,7,1.0,single_object,nbar4,0
+88,a photo of a skis,2816,64,1,0.1474812775850296,,0,1.0,single_object,nbar4,0
+89,a photo of a vase,2850,64,1,1.1990396976470947,,2,1.0,single_object,nbar4,0
+90,a photo of a tv remote,2887,64,1,0.8660223484039307,,7,1.0,single_object,nbar4,0
+91,a photo of a fire hydrant,2915,64,1,0.8078716993331909,,3,1.0,single_object,nbar4,0
+92,a photo of a giraffe,2950,64,1,1.1993098258972168,,6,1.0,single_object,nbar4,0
+93,a photo of a horse,2976,64,1,0.9310264587402344,,0,1.0,single_object,nbar4,0
+94,a photo of a boat,3015,64,1,0.4887637495994568,,7,1.0,single_object,nbar4,0
+95,a photo of a hair drier,3046,64,1,1.5547758340835571,,6,1.0,single_object,nbar4,0
+96,a photo of a sink,3077,64,1,0.5000901222229004,,5,1.0,single_object,nbar4,0
+97,a photo of a knife,3111,64,1,0.7064329981803894,,7,1.0,single_object,nbar4,0
+98,a photo of a hot dog,3138,64,1,-0.3648169338703155,,2,1.0,single_object,nbar4,0
+99,a photo of a truck,3171,64,1,0.781764566898346,,3,1.0,single_object,nbar4,0
+100,a photo of a toothbrush and a snowboard,3205,64,1,1.3363639116287231,,5,1.0,two_object,nbar4,0
+101,a photo of a tennis racket and a wine glass,3235,64,1,1.71481454372406,,3,1.0,two_object,nbar4,0
+102,a photo of a toilet and a computer mouse,3267,64,1,0.7397581338882446,,3,0.0,two_object,nbar4,0
+103,a photo of an oven and a bed,3301,64,1,0.3080823123455047,,5,0.0,two_object,nbar4,0
+104,a photo of a fork and a book,3334,64,1,1.3733651638031006,,6,1.0,two_object,nbar4,0
+105,a photo of a scissors and a bowl,3362,64,1,1.677795648574829,,2,1.0,two_object,nbar4,0
+106,a photo of a giraffe and a computer mouse,3395,64,1,1.4669820070266724,,3,1.0,two_object,nbar4,0
+107,a photo of a person and a snowboard,3425,64,1,-0.2454766184091568,,1,1.0,two_object,nbar4,0
+108,a photo of a chair and a laptop,3458,64,1,0.6865701675415039,,2,1.0,two_object,nbar4,0
+109,a photo of a toothbrush and a bench,3490,64,1,1.6243836879730225,,2,1.0,two_object,nbar4,0
+110,a photo of a bench and a vase,3527,64,1,1.3196327686309814,,7,0.0,two_object,nbar4,0
+111,a photo of a traffic light and a backpack,3558,64,1,-1.390804409980774,,6,0.0,two_object,nbar4,0
+112,a photo of a computer mouse and a spoon,3587,64,1,1.4360172748565674,,3,1.0,two_object,nbar4,0
+113,a photo of a tv and a bicycle,3622,64,1,1.8397996425628664,,6,1.0,two_object,nbar4,0
+114,a photo of a stop sign and a dog,3651,64,1,1.7378854751586914,,3,0.0,two_object,nbar4,0
+115,a photo of a computer keyboard and a cell phone,3687,64,1,0.3256310522556305,,7,0.0,two_object,nbar4,0
+116,a photo of a couch and a snowboard,3714,64,1,1.7592260837554932,,2,1.0,two_object,nbar4,0
+117,a photo of a fork and a baseball glove,3749,64,1,-1.8232542276382449,,5,0.0,two_object,nbar4,0
+118,a photo of a carrot and a couch,3783,64,1,0.8490408658981323,,7,1.0,two_object,nbar4,0
+119,a photo of a baseball bat and a giraffe,3810,64,1,-1.6360011100769043,,2,0.0,two_object,nbar4,0
+0,a photo of a blue cell phone and a green apple,9,64,1,0.7525856494903564,,9,0.0,color_attr,nbar4,1
+1,a photo of a brown carrot and a white potted plant,40,64,1,0.0206345431506633,,8,0.0,color_attr,nbar4,1
+2,a photo of a blue vase and a black banana,79,64,1,1.5110129117965698,,15,0.0,color_attr,nbar4,1
+3,a photo of a yellow sports ball and a green boat,110,64,1,1.833592176437378,,14,0.0,color_attr,nbar4,1
+4,a photo of a purple computer keyboard and a blue scissors,137,64,1,0.4278875589370727,,9,0.0,color_attr,nbar4,1
+5,a photo of a brown computer mouse and a purple bottle,169,64,1,-0.439302384853363,,9,0.0,color_attr,nbar4,1
+6,a photo of a yellow suitcase and a brown bus,200,64,1,0.0456288903951644,,8,0.0,color_attr,nbar4,1
+7,a photo of an orange giraffe and a white baseball glove,236,64,1,1.6204253435134888,,12,0.0,color_attr,nbar4,1
+8,a photo of an orange handbag and a green carrot,265,64,1,1.889765977859497,,9,0.0,color_attr,nbar4,1
+9,a photo of a yellow car and an orange toothbrush,303,64,1,1.609044909477234,,15,0.0,color_attr,nbar4,1
+10,a photo of a black potted plant and a yellow toilet,335,64,1,1.8787896633148196,,15,0.0,color_attr,nbar4,1
+11,a photo of an orange donut and a yellow stop sign,361,64,1,-0.4224882125854492,,9,0.0,color_attr,nbar4,1
+12,a photo of an orange tennis racket and a yellow sports ball,399,64,1,1.2249412536621094,,15,0.0,color_attr,nbar4,1
+13,a photo of a purple computer keyboard and a red chair,428,64,1,1.2986419200897217,,12,0.0,color_attr,nbar4,1
+14,a photo of a purple backpack and a white umbrella,461,64,1,1.291506290435791,,13,0.0,color_attr,nbar4,1
+15,a photo of a yellow handbag and a blue refrigerator,490,64,1,1.2372153997421265,,10,0.0,color_attr,nbar4,1
+16,a photo of a brown knife and a blue donut,521,64,1,1.573386788368225,,9,1.0,color_attr,nbar4,1
+17,a photo of a red orange and a purple broccoli,552,64,1,0.0181948002427816,,8,0.0,color_attr,nbar4,1
+18,a photo of a green cup and a red pizza,590,64,1,1.6439872980117798,,14,0.0,color_attr,nbar4,1
+19,a photo of a blue pizza and a yellow baseball glove,620,64,1,-0.7571494579315186,,12,0.0,color_attr,nbar4,1
+20,a photo of a blue fire hydrant,650,64,1,1.5429195165634155,,10,1.0,colors,nbar4,1
+21,a photo of a pink car,686,64,1,1.839305400848389,,14,1.0,colors,nbar4,1
+22,a photo of a purple hair drier,716,64,1,1.7224475145339966,,12,1.0,colors,nbar4,1
+23,a photo of a purple elephant,748,64,1,1.1973611116409302,,12,1.0,colors,nbar4,1
+24,a photo of a red zebra,779,64,1,0.2491075247526168,,11,1.0,colors,nbar4,1
+25,a photo of a brown computer keyboard,809,64,1,1.4471051692962646,,9,1.0,colors,nbar4,1
+26,a photo of a red dog,842,64,1,1.3469892740249634,,10,1.0,colors,nbar4,1
+27,a photo of a yellow airplane,879,64,1,1.3782634735107422,,15,1.0,colors,nbar4,1
+28,a photo of a green surfboard,910,64,1,0.7623906135559082,,14,1.0,colors,nbar4,1
+29,a photo of a black dining table,937,64,1,1.1082613468170166,,9,1.0,colors,nbar4,1
+30,a photo of a pink potted plant,972,64,1,1.806058645248413,,12,1.0,colors,nbar4,1
+31,a photo of a red giraffe,1004,64,1,0.2233265489339828,,12,1.0,colors,nbar4,1
+32,a photo of an orange laptop,1039,64,1,1.68419349193573,,15,1.0,colors,nbar4,1
+33,a photo of a yellow parking meter,1067,64,1,1.116849660873413,,11,1.0,colors,nbar4,1
+34,a photo of a yellow orange,1097,64,1,-0.3360671699047088,,9,0.0,colors,nbar4,1
+35,a photo of a white sheep,1133,64,1,1.3420169353485107,,13,1.0,colors,nbar4,1
+36,a photo of a black teddy bear,1162,64,1,1.3609496355056765,,10,1.0,colors,nbar4,1
+37,a photo of a blue carrot,1197,64,1,0.1517318934202194,,13,0.0,colors,nbar4,1
+38,a photo of a green bus,1224,64,1,1.1578725576400757,,8,1.0,colors,nbar4,1
+39,a photo of an orange toaster,1261,64,1,0.3288349211215973,,13,0.0,colors,nbar4,1
+40,a photo of two frisbees,1295,64,1,0.6088410019874573,,15,1.0,counting,nbar4,1
+41,a photo of three persons,1326,64,1,0.4824131429195404,,14,1.0,counting,nbar4,1
+42,a photo of four bowls,1358,64,1,0.955651879310608,,14,1.0,counting,nbar4,1
+43,a photo of two bicycles,1385,64,1,1.1058909893035889,,9,0.0,counting,nbar4,1
+44,a photo of two beds,1422,64,1,0.5545632839202881,,14,1.0,counting,nbar4,1
+45,a photo of two tv remotes,1453,64,1,0.8949190974235535,,13,1.0,counting,nbar4,1
+46,a photo of three fire hydrants,1481,64,1,1.2809332609176636,,9,1.0,counting,nbar4,1
+47,a photo of four giraffes,1513,64,1,0.791376531124115,,9,0.0,counting,nbar4,1
+48,a photo of three baseball bats,1548,64,1,1.448464035987854,,12,0.0,counting,nbar4,1
+49,a photo of three refrigerators,1577,64,1,1.2853789329528809,,9,1.0,counting,nbar4,1
+50,a photo of two fire hydrants,1615,64,1,1.3652628660202026,,15,1.0,counting,nbar4,1
+51,a photo of four broccolis,1647,64,1,0.8025046586990356,,15,0.0,counting,nbar4,1
+52,a photo of two carrots,1679,64,1,1.1017887592315674,,15,1.0,counting,nbar4,1
+53,a photo of four clocks,1708,64,1,0.4908212721347809,,12,0.0,counting,nbar4,1
+54,a photo of two cars,1742,64,1,0.8067425489425659,,14,1.0,counting,nbar4,1
+55,a photo of two bananas,1769,64,1,0.4459307491779327,,9,1.0,counting,nbar4,1
+56,a photo of three birds,1800,64,1,0.9953410625457764,,8,1.0,counting,nbar4,1
+57,a photo of two hair driers,1839,64,1,0.3845753669738769,,15,0.0,counting,nbar4,1
+58,a photo of two parking meters,1864,64,1,0.9827311038970948,,8,1.0,counting,nbar4,1
+59,a photo of four frisbees,1896,64,1,0.532033383846283,,8,1.0,counting,nbar4,1
+60,a photo of a laptop left of a cow,1934,64,1,1.7567046880722046,,14,0.0,position,nbar4,1
+61,a photo of a skateboard above a person,1962,64,1,0.794474184513092,,10,0.0,position,nbar4,1
+62,a photo of a dining table right of an oven,1993,64,1,1.2005631923675537,,9,0.0,position,nbar4,1
+63,a photo of a tennis racket right of a spoon,2028,64,1,0.3617151975631714,,12,0.0,position,nbar4,1
+64,a photo of a toaster below a traffic light,2063,64,1,0.1379096508026123,,15,0.0,position,nbar4,1
+65,a photo of a frisbee right of a motorcycle,2095,64,1,0.9209303855895996,,15,0.0,position,nbar4,1
+66,a photo of a bench left of a bear,2124,64,1,1.1281652450561523,,12,0.0,position,nbar4,1
+67,a photo of a donut right of a bench,2156,64,1,0.5739757418632507,,12,0.0,position,nbar4,1
+68,a photo of a cat below a backpack,2191,64,1,1.6205155849456787,,15,0.0,position,nbar4,1
+69,a photo of a backpack below a cake,2220,64,1,1.2406481504440308,,12,0.0,position,nbar4,1
+70,a photo of a sandwich below a knife,2248,64,1,0.863606870174408,,8,0.0,position,nbar4,1
+71,a photo of a bicycle above a parking meter,2285,64,1,-0.4094006717205047,,13,0.0,position,nbar4,1
+72,a photo of a knife right of a suitcase,2314,64,1,1.1900691986083984,,10,0.0,position,nbar4,1
+73,a photo of a hot dog above a knife,2351,64,1,1.1827822923660278,,15,0.0,position,nbar4,1
+74,a photo of a zebra right of a parking meter,2376,64,1,0.2016535848379135,,8,0.0,position,nbar4,1
+75,a photo of a zebra below a broccoli,2415,64,1,-1.7029362916946411,,15,0.0,position,nbar4,1
+76,a photo of a laptop below a sports ball,2441,64,1,1.9492653608322144,,9,0.0,position,nbar4,1
+77,a photo of a tv above a baseball bat,2478,64,1,1.2338985204696655,,14,0.0,position,nbar4,1
+78,a photo of a clock below a tv,2509,64,1,0.2722885608673095,,13,0.0,position,nbar4,1
+79,a photo of a donut below a cat,2536,64,1,1.7992680072784424,,8,1.0,position,nbar4,1
+80,a photo of a fork,2568,64,1,0.6765807867050171,,8,1.0,single_object,nbar4,1
+81,a photo of a snowboard,2606,64,1,-0.1319277137517929,,14,1.0,single_object,nbar4,1
+82,a photo of a zebra,2633,64,1,1.1355308294296265,,9,1.0,single_object,nbar4,1
+83,a photo of a spoon,2671,64,1,0.672684907913208,,15,1.0,single_object,nbar4,1
+84,a photo of a motorcycle,2701,64,1,0.4647814929485321,,13,1.0,single_object,nbar4,1
+85,a photo of a dog,2730,64,1,0.5486909747123718,,10,1.0,single_object,nbar4,1
+86,a photo of a laptop,2761,64,1,0.5454109907150269,,9,1.0,single_object,nbar4,1
+87,a photo of a baseball bat,2793,64,1,0.1852189302444458,,9,1.0,single_object,nbar4,1
+88,a photo of a skis,2827,64,1,0.0274356342852115,,11,1.0,single_object,nbar4,1
+89,a photo of a vase,2857,64,1,0.7504392266273499,,9,1.0,single_object,nbar4,1
+90,a photo of a tv remote,2894,64,1,0.7067144513130188,,14,1.0,single_object,nbar4,1
+91,a photo of a fire hydrant,2923,64,1,0.9852303266525269,,11,1.0,single_object,nbar4,1
+92,a photo of a giraffe,2955,64,1,1.1809842586517334,,11,1.0,single_object,nbar4,1
+93,a photo of a horse,2985,64,1,0.9720814824104308,,9,1.0,single_object,nbar4,1
+94,a photo of a boat,3019,64,1,0.4963990151882171,,11,1.0,single_object,nbar4,1
+95,a photo of a hair drier,3055,64,1,1.0120176076889038,,15,1.0,single_object,nbar4,1
+96,a photo of a sink,3081,64,1,0.548495352268219,,9,1.0,single_object,nbar4,1
+97,a photo of a knife,3119,64,1,0.6456372141838074,,15,1.0,single_object,nbar4,1
+98,a photo of a hot dog,3148,64,1,0.1298745572566986,,12,1.0,single_object,nbar4,1
+99,a photo of a truck,3183,64,1,0.7896677255630493,,15,1.0,single_object,nbar4,1
+100,a photo of a toothbrush and a snowboard,3210,64,1,0.9290101528167723,,10,0.0,two_object,nbar4,1
+101,a photo of a tennis racket and a wine glass,3240,64,1,-2.0143673419952397,,8,0.0,two_object,nbar4,1
+102,a photo of a toilet and a computer mouse,3272,64,1,-0.6886289119720459,,8,0.0,two_object,nbar4,1
+103,a photo of an oven and a bed,3307,64,1,-1.0725761651992798,,11,0.0,two_object,nbar4,1
+104,a photo of a fork and a book,3336,64,1,1.3538644313812256,,8,1.0,two_object,nbar4,1
+105,a photo of a scissors and a bowl,3371,64,1,1.3507065773010254,,11,1.0,two_object,nbar4,1
+106,a photo of a giraffe and a computer mouse,3403,64,1,-0.2201031297445297,,11,0.0,two_object,nbar4,1
+107,a photo of a person and a snowboard,3438,64,1,0.0967292860150337,,14,1.0,two_object,nbar4,1
+108,a photo of a chair and a laptop,3469,64,1,1.3560256958007812,,13,1.0,two_object,nbar4,1
+109,a photo of a toothbrush and a bench,3498,64,1,1.2344915866851809,,10,1.0,two_object,nbar4,1
+110,a photo of a bench and a vase,3529,64,1,1.521486520767212,,9,1.0,two_object,nbar4,1
+111,a photo of a traffic light and a backpack,3564,64,1,1.7147225141525269,,12,1.0,two_object,nbar4,1
+112,a photo of a computer mouse and a spoon,3592,64,1,1.4394731521606443,,8,1.0,two_object,nbar4,1
+113,a photo of a tv and a bicycle,3631,64,1,1.8680659532547,,15,1.0,two_object,nbar4,1
+114,a photo of a stop sign and a dog,3662,64,1,1.7428834438323977,,14,1.0,two_object,nbar4,1
+115,a photo of a computer keyboard and a cell phone,3688,64,1,0.4557483196258545,,8,1.0,two_object,nbar4,1
+116,a photo of a couch and a snowboard,3720,64,1,0.8728910684585571,,8,0.0,two_object,nbar4,1
+117,a photo of a fork and a baseball glove,3753,64,1,0.8437865376472473,,9,0.0,two_object,nbar4,1
+118,a photo of a carrot and a couch,3790,64,1,1.6731075048446655,,14,0.0,two_object,nbar4,1
+119,a photo of a baseball bat and a giraffe,3821,64,1,1.428909182548523,,13,1.0,two_object,nbar4,1
+0,a photo of a blue cell phone and a green apple,16,64,1,1.2631374597549438,,16,1.0,color_attr,nbar4,2
+1,a photo of a brown carrot and a white potted plant,48,64,1,0.4918098151683807,,16,0.0,color_attr,nbar4,2
+2,a photo of a blue vase and a black banana,86,64,1,-0.6099013686180115,,22,0.0,color_attr,nbar4,2
+3,a photo of a yellow sports ball and a green boat,113,64,1,1.6833243370056152,,17,1.0,color_attr,nbar4,2
+4,a photo of a purple computer keyboard and a blue scissors,149,64,1,1.2835955619812012,,21,0.0,color_attr,nbar4,2
+5,a photo of a brown computer mouse and a purple bottle,178,64,1,-1.5013108253479004,,18,0.0,color_attr,nbar4,2
+6,a photo of a yellow suitcase and a brown bus,215,64,1,1.6450506448745728,,23,1.0,color_attr,nbar4,2
+7,a photo of an orange giraffe and a white baseball glove,240,64,1,0.8015192151069641,,16,0.0,color_attr,nbar4,2
+8,a photo of an orange handbag and a green carrot,272,64,1,1.8307985067367556,,16,0.0,color_attr,nbar4,2
+9,a photo of a yellow car and an orange toothbrush,310,64,1,1.125285267829895,,22,0.0,color_attr,nbar4,2
+10,a photo of a black potted plant and a yellow toilet,342,64,1,1.7293953895568848,,22,0.0,color_attr,nbar4,2
+11,a photo of an orange donut and a yellow stop sign,370,64,1,-0.9498656392097472,,18,0.0,color_attr,nbar4,2
+12,a photo of an orange tennis racket and a yellow sports ball,404,64,1,1.4184664487838743,,20,0.0,color_attr,nbar4,2
+13,a photo of a purple computer keyboard and a red chair,433,64,1,-0.5751067399978638,,17,0.0,color_attr,nbar4,2
+14,a photo of a purple backpack and a white umbrella,470,64,1,1.9443334341049197,,22,1.0,color_attr,nbar4,2
+15,a photo of a yellow handbag and a blue refrigerator,501,64,1,1.9795832633972168,,21,1.0,color_attr,nbar4,2
+16,a photo of a brown knife and a blue donut,534,64,1,1.2315839529037476,,22,1.0,color_attr,nbar4,2
+17,a photo of a red orange and a purple broccoli,566,64,1,1.2308179140090942,,22,0.0,color_attr,nbar4,2
+18,a photo of a green cup and a red pizza,592,64,1,0.6244041919708252,,16,1.0,color_attr,nbar4,2
+19,a photo of a blue pizza and a yellow baseball glove,629,64,1,-0.0327826850116252,,21,0.0,color_attr,nbar4,2
+20,a photo of a blue fire hydrant,656,64,1,1.545415282249451,,16,1.0,colors,nbar4,2
+21,a photo of a pink car,692,64,1,1.8330167531967163,,20,1.0,colors,nbar4,2
+22,a photo of a purple hair drier,726,64,1,1.8246275186538696,,22,1.0,colors,nbar4,2
+23,a photo of a purple elephant,753,64,1,1.7056646347045898,,17,1.0,colors,nbar4,2
+24,a photo of a red zebra,784,64,1,0.0658483579754829,,16,1.0,colors,nbar4,2
+25,a photo of a brown computer keyboard,823,64,1,1.1927518844604492,,23,1.0,colors,nbar4,2
+26,a photo of a red dog,849,64,1,0.8449416756629944,,17,0.0,colors,nbar4,2
+27,a photo of a yellow airplane,887,64,1,1.009940266609192,,23,1.0,colors,nbar4,2
+28,a photo of a green surfboard,915,64,1,0.3508413434028625,,19,1.0,colors,nbar4,2
+29,a photo of a black dining table,951,64,1,1.0009983777999878,,23,1.0,colors,nbar4,2
+30,a photo of a pink potted plant,978,64,1,1.8564338684082031,,18,1.0,colors,nbar4,2
+31,a photo of a red giraffe,1012,64,1,0.2274608165025711,,20,1.0,colors,nbar4,2
+32,a photo of an orange laptop,1045,64,1,1.8426239490509035,,21,1.0,colors,nbar4,2
+33,a photo of a yellow parking meter,1079,64,1,0.8357079029083252,,23,1.0,colors,nbar4,2
+34,a photo of a yellow orange,1104,64,1,0.3164059221744537,,16,0.0,colors,nbar4,2
+35,a photo of a white sheep,1140,64,1,1.0019965171813965,,20,1.0,colors,nbar4,2
+36,a photo of a black teddy bear,1171,64,1,0.963937520980835,,19,1.0,colors,nbar4,2
+37,a photo of a blue carrot,1204,64,1,0.3856391310691833,,20,1.0,colors,nbar4,2
+38,a photo of a green bus,1239,64,1,1.0557621717453003,,23,1.0,colors,nbar4,2
+39,a photo of an orange toaster,1265,64,1,1.7488263845443726,,17,1.0,colors,nbar4,2
+40,a photo of two frisbees,1297,64,1,0.8938220739364624,,17,0.0,counting,nbar4,2
+41,a photo of three persons,1334,64,1,0.6032443642616272,,22,1.0,counting,nbar4,2
+42,a photo of four bowls,1366,64,1,0.6158503293991089,,22,0.0,counting,nbar4,2
+43,a photo of two bicycles,1399,64,1,1.177603840827942,,23,1.0,counting,nbar4,2
+44,a photo of two beds,1424,64,1,0.6856076121330261,,16,1.0,counting,nbar4,2
+45,a photo of two tv remotes,1458,64,1,0.5784367322921753,,18,1.0,counting,nbar4,2
+46,a photo of three fire hydrants,1489,64,1,0.8248981833457947,,17,0.0,counting,nbar4,2
+47,a photo of four giraffes,1522,64,1,0.9724968671798706,,18,0.0,counting,nbar4,2
+48,a photo of three baseball bats,1558,64,1,0.9482671618461608,,22,0.0,counting,nbar4,2
+49,a photo of three refrigerators,1588,64,1,1.2279177904129028,,20,1.0,counting,nbar4,2
+50,a photo of two fire hydrants,1622,64,1,1.171027898788452,,22,1.0,counting,nbar4,2
+51,a photo of four broccolis,1653,64,1,1.16455340385437,,21,0.0,counting,nbar4,2
+52,a photo of two carrots,1685,64,1,1.1067893505096436,,21,0.0,counting,nbar4,2
+53,a photo of four clocks,1712,64,1,0.1536041796207428,,16,0.0,counting,nbar4,2
+54,a photo of two cars,1745,64,1,0.9945574402809144,,17,1.0,counting,nbar4,2
+55,a photo of two bananas,1783,64,1,0.4543673694133758,,23,1.0,counting,nbar4,2
+56,a photo of three birds,1810,64,1,0.8929210901260376,,18,1.0,counting,nbar4,2
+57,a photo of two hair driers,1844,64,1,1.190706729888916,,20,0.0,counting,nbar4,2
+58,a photo of two parking meters,1879,64,1,0.7823122143745422,,23,1.0,counting,nbar4,2
+59,a photo of four frisbees,1905,64,1,0.9960442185401917,,17,0.0,counting,nbar4,2
+60,a photo of a laptop left of a cow,1938,64,1,1.7818795442581177,,18,0.0,position,nbar4,2
+61,a photo of a skateboard above a person,1968,64,1,0.5181614756584167,,16,0.0,position,nbar4,2
+62,a photo of a dining table right of an oven,2007,64,1,1.6075013875961304,,23,0.0,position,nbar4,2
+63,a photo of a tennis racket right of a spoon,2038,64,1,-1.13440203666687,,22,0.0,position,nbar4,2
+64,a photo of a toaster below a traffic light,2066,64,1,-1.733205795288086,,18,0.0,position,nbar4,2
+65,a photo of a frisbee right of a motorcycle,2100,64,1,-0.6010192036628723,,20,0.0,position,nbar4,2
+66,a photo of a bench left of a bear,2129,64,1,-0.9519581198692322,,17,0.0,position,nbar4,2
+67,a photo of a donut right of a bench,2166,64,1,1.7898801565170288,,22,0.0,position,nbar4,2
+68,a photo of a cat below a backpack,2199,64,1,1.747382640838623,,23,0.0,position,nbar4,2
+69,a photo of a backpack below a cake,2225,64,1,0.5989736318588257,,17,0.0,position,nbar4,2
+70,a photo of a sandwich below a knife,2260,64,1,1.2441871166229248,,20,0.0,position,nbar4,2
+71,a photo of a bicycle above a parking meter,2293,64,1,0.2620963454246521,,21,0.0,position,nbar4,2
+72,a photo of a knife right of a suitcase,2323,64,1,1.0566191673278809,,19,0.0,position,nbar4,2
+73,a photo of a hot dog above a knife,2352,64,1,1.2469048500061035,,16,0.0,position,nbar4,2
+74,a photo of a zebra right of a parking meter,2388,64,1,1.291125774383545,,20,0.0,position,nbar4,2
+75,a photo of a zebra below a broccoli,2422,64,1,-1.7245025634765625,,22,0.0,position,nbar4,2
+76,a photo of a laptop below a sports ball,2450,64,1,1.9060324430465696,,18,0.0,position,nbar4,2
+77,a photo of a tv above a baseball bat,2482,64,1,1.3555827140808103,,18,0.0,position,nbar4,2
+78,a photo of a clock below a tv,2517,64,1,1.3400700092315674,,21,0.0,position,nbar4,2
+79,a photo of a donut below a cat,2545,64,1,1.89554500579834,,17,0.0,position,nbar4,2
+80,a photo of a fork,2579,64,1,0.8175967335700989,,19,1.0,single_object,nbar4,2
+81,a photo of a snowboard,2615,64,1,0.0071043940261006,,23,1.0,single_object,nbar4,2
+82,a photo of a zebra,2644,64,1,0.875508189201355,,20,1.0,single_object,nbar4,2
+83,a photo of a spoon,2679,64,1,0.5258098244667053,,23,1.0,single_object,nbar4,2
+84,a photo of a motorcycle,2705,64,1,0.3451361954212188,,17,1.0,single_object,nbar4,2
+85,a photo of a dog,2740,64,1,1.0900224447250366,,20,1.0,single_object,nbar4,2
+86,a photo of a laptop,2775,64,1,0.4420346617698669,,23,1.0,single_object,nbar4,2
+87,a photo of a baseball bat,2803,64,1,0.2389171868562698,,19,1.0,single_object,nbar4,2
+88,a photo of a skis,2839,64,1,0.0945922434329986,,23,1.0,single_object,nbar4,2
+89,a photo of a vase,2867,64,1,1.0295177698135376,,19,1.0,single_object,nbar4,2
+90,a photo of a tv remote,2897,64,1,0.8950359225273132,,17,1.0,single_object,nbar4,2
+91,a photo of a fire hydrant,2930,64,1,0.8722466230392456,,18,1.0,single_object,nbar4,2
+92,a photo of a giraffe,2961,64,1,1.1614739894866943,,17,1.0,single_object,nbar4,2
+93,a photo of a horse,2994,64,1,0.8974929451942444,,18,1.0,single_object,nbar4,2
+94,a photo of a boat,3025,64,1,0.5211715698242188,,17,1.0,single_object,nbar4,2
+95,a photo of a hair drier,3058,64,1,1.2208452224731443,,18,0.0,single_object,nbar4,2
+96,a photo of a sink,3092,64,1,0.3206574022769928,,20,1.0,single_object,nbar4,2
+97,a photo of a knife,3124,64,1,0.5346843004226685,,20,1.0,single_object,nbar4,2
+98,a photo of a hot dog,3155,64,1,-0.3669855892658233,,19,1.0,single_object,nbar4,2
+99,a photo of a truck,3186,64,1,0.6550275683403015,,18,1.0,single_object,nbar4,2
+100,a photo of a toothbrush and a snowboard,3221,64,1,1.4206740856170654,,21,0.0,two_object,nbar4,2
+101,a photo of a tennis racket and a wine glass,3251,64,1,-1.8934348821640012,,19,0.0,two_object,nbar4,2
+102,a photo of a toilet and a computer mouse,3283,64,1,1.0828111171722412,,19,1.0,two_object,nbar4,2
+103,a photo of an oven and a bed,3315,64,1,-1.7850725650787354,,19,0.0,two_object,nbar4,2
+104,a photo of a fork and a book,3345,64,1,1.6806628704071045,,17,1.0,two_object,nbar4,2
+105,a photo of a scissors and a bowl,3380,64,1,1.6013834476470947,,20,1.0,two_object,nbar4,2
+106,a photo of a giraffe and a computer mouse,3412,64,1,0.212782472372055,,20,0.0,two_object,nbar4,2
+107,a photo of a person and a snowboard,3444,64,1,0.8837008476257324,,20,1.0,two_object,nbar4,2
+108,a photo of a chair and a laptop,3477,64,1,0.8158986568450928,,21,1.0,two_object,nbar4,2
+109,a photo of a toothbrush and a bench,3505,64,1,1.3258123397827148,,17,1.0,two_object,nbar4,2
+110,a photo of a bench and a vase,3543,64,1,1.7118942737579346,,23,1.0,two_object,nbar4,2
+111,a photo of a traffic light and a backpack,3569,64,1,-1.2326756715774536,,17,0.0,two_object,nbar4,2
+112,a photo of a computer mouse and a spoon,3601,64,1,1.0279933214187622,,17,0.0,two_object,nbar4,2
+113,a photo of a tv and a bicycle,3636,64,1,1.84319269657135,,20,1.0,two_object,nbar4,2
+114,a photo of a stop sign and a dog,3669,64,1,1.4980360269546509,,21,1.0,two_object,nbar4,2
+115,a photo of a computer keyboard and a cell phone,3697,64,1,0.689153790473938,,17,1.0,two_object,nbar4,2
+116,a photo of a couch and a snowboard,3733,64,1,1.1195449829101562,,21,1.0,two_object,nbar4,2
+117,a photo of a fork and a baseball glove,3760,64,1,1.7920162677764893,,16,1.0,two_object,nbar4,2
+118,a photo of a carrot and a couch,3793,64,1,1.3802131414413452,,17,1.0,two_object,nbar4,2
+119,a photo of a baseball bat and a giraffe,3825,64,1,1.5334138870239258,,17,0.0,two_object,nbar4,2
+0,a photo of a blue cell phone and a green apple,30,64,1,1.304144263267517,,30,1.0,color_attr,nbar4,3
+1,a photo of a brown carrot and a white potted plant,59,64,1,0.2304225414991378,,27,1.0,color_attr,nbar4,3
+2,a photo of a blue vase and a black banana,88,64,1,1.5255296230316162,,24,0.0,color_attr,nbar4,3
+3,a photo of a yellow sports ball and a green boat,121,64,1,1.8639189004898071,,25,1.0,color_attr,nbar4,3
+4,a photo of a purple computer keyboard and a blue scissors,152,64,1,1.6414248943328855,,24,1.0,color_attr,nbar4,3
+5,a photo of a brown computer mouse and a purple bottle,184,64,1,-1.1557190418243408,,24,0.0,color_attr,nbar4,3
+6,a photo of a yellow suitcase and a brown bus,223,64,1,-0.2906414568424225,,31,0.0,color_attr,nbar4,3
+7,a photo of an orange giraffe and a white baseball glove,250,64,1,0.0960481837391853,,26,0.0,color_attr,nbar4,3
+8,a photo of an orange handbag and a green carrot,287,64,1,1.9352296590805051,,31,0.0,color_attr,nbar4,3
+9,a photo of a yellow car and an orange toothbrush,314,64,1,1.2723010778427124,,26,0.0,color_attr,nbar4,3
+10,a photo of a black potted plant and a yellow toilet,344,64,1,1.0128214359283447,,24,0.0,color_attr,nbar4,3
+11,a photo of an orange donut and a yellow stop sign,383,64,1,-0.901460826396942,,31,0.0,color_attr,nbar4,3
+12,a photo of an orange tennis racket and a yellow sports ball,414,64,1,1.5486726760864258,,30,1.0,color_attr,nbar4,3
+13,a photo of a purple computer keyboard and a red chair,441,64,1,1.2029311656951904,,25,0.0,color_attr,nbar4,3
+14,a photo of a purple backpack and a white umbrella,475,64,1,1.9580602645874023,,27,1.0,color_attr,nbar4,3
+15,a photo of a yellow handbag and a blue refrigerator,507,64,1,1.970444202423096,,27,1.0,color_attr,nbar4,3
+16,a photo of a brown knife and a blue donut,542,64,1,1.361088752746582,,30,1.0,color_attr,nbar4,3
+17,a photo of a red orange and a purple broccoli,575,64,1,0.5849084854125977,,31,0.0,color_attr,nbar4,3
+18,a photo of a green cup and a red pizza,606,64,1,1.5706188678741455,,30,1.0,color_attr,nbar4,3
+19,a photo of a blue pizza and a yellow baseball glove,639,64,1,-0.5664951205253601,,31,0.0,color_attr,nbar4,3
+20,a photo of a blue fire hydrant,669,64,1,1.3620893955230713,,29,1.0,colors,nbar4,3
+21,a photo of a pink car,703,64,1,1.8179223537445068,,31,1.0,colors,nbar4,3
+22,a photo of a purple hair drier,729,64,1,1.797441482543945,,25,1.0,colors,nbar4,3
+23,a photo of a purple elephant,763,64,1,1.8222323656082156,,27,1.0,colors,nbar4,3
+24,a photo of a red zebra,793,64,1,0.0830360800027847,,25,1.0,colors,nbar4,3
+25,a photo of a brown computer keyboard,824,64,1,1.4797072410583496,,24,1.0,colors,nbar4,3
+26,a photo of a red dog,857,64,1,1.0103079080581665,,25,1.0,colors,nbar4,3
+27,a photo of a yellow airplane,893,64,1,1.6089847087860107,,29,1.0,colors,nbar4,3
+28,a photo of a green surfboard,925,64,1,0.608412504196167,,29,1.0,colors,nbar4,3
+29,a photo of a black dining table,958,64,1,1.10710346698761,,30,1.0,colors,nbar4,3
+30,a photo of a pink potted plant,985,64,1,1.8652293682098389,,25,1.0,colors,nbar4,3
+31,a photo of a red giraffe,1016,64,1,0.4939127564430237,,24,1.0,colors,nbar4,3
+32,a photo of an orange laptop,1054,64,1,1.5926165580749512,,30,1.0,colors,nbar4,3
+33,a photo of a yellow parking meter,1086,64,1,1.4492770433425903,,30,1.0,colors,nbar4,3
+34,a photo of a yellow orange,1115,64,1,-0.3742925822734833,,27,0.0,colors,nbar4,3
+35,a photo of a white sheep,1148,64,1,0.9699550867080688,,28,1.0,colors,nbar4,3
+36,a photo of a black teddy bear,1176,64,1,1.1676024198532104,,24,1.0,colors,nbar4,3
+37,a photo of a blue carrot,1215,64,1,1.0250517129898071,,31,0.0,colors,nbar4,3
+38,a photo of a green bus,1243,64,1,1.118186116218567,,27,1.0,colors,nbar4,3
+39,a photo of an orange toaster,1273,64,1,1.8613203763961792,,25,1.0,colors,nbar4,3
+40,a photo of two frisbees,1306,64,1,-0.603290855884552,,26,0.0,counting,nbar4,3
+41,a photo of three persons,1341,64,1,0.7556594014167786,,29,1.0,counting,nbar4,3
+42,a photo of four bowls,1371,64,1,0.4374495446681976,,27,0.0,counting,nbar4,3
+43,a photo of two bicycles,1401,64,1,1.0884616374969482,,25,1.0,counting,nbar4,3
+44,a photo of two beds,1435,64,1,0.567615270614624,,27,1.0,counting,nbar4,3
+45,a photo of two tv remotes,1469,64,1,0.6085976958274841,,29,0.0,counting,nbar4,3
+46,a photo of three fire hydrants,1496,64,1,1.3649464845657349,,24,1.0,counting,nbar4,3
+47,a photo of four giraffes,1532,64,1,0.9744088053703308,,28,0.0,counting,nbar4,3
+48,a photo of three baseball bats,1566,64,1,1.3945778608322144,,30,0.0,counting,nbar4,3
+49,a photo of three refrigerators,1597,64,1,1.3729093074798584,,29,1.0,counting,nbar4,3
+50,a photo of two fire hydrants,1624,64,1,1.3862383365631104,,24,1.0,counting,nbar4,3
+51,a photo of four broccolis,1656,64,1,1.063778519630432,,24,0.0,counting,nbar4,3
+52,a photo of two carrots,1693,64,1,1.1815195083618164,,29,1.0,counting,nbar4,3
+53,a photo of four clocks,1723,64,1,1.0823315382003784,,27,0.0,counting,nbar4,3
+54,a photo of two cars,1755,64,1,0.989449381828308,,27,1.0,counting,nbar4,3
+55,a photo of two bananas,1787,64,1,0.4946407079696655,,27,1.0,counting,nbar4,3
+56,a photo of three birds,1820,64,1,1.172634482383728,,28,1.0,counting,nbar4,3
+57,a photo of two hair driers,1849,64,1,1.1523489952087402,,25,0.0,counting,nbar4,3
+58,a photo of two parking meters,1887,64,1,0.7069626450538635,,31,0.0,counting,nbar4,3
+59,a photo of four frisbees,1917,64,1,0.7561787366867065,,29,0.0,counting,nbar4,3
+60,a photo of a laptop left of a cow,1945,64,1,1.813137173652649,,25,0.0,position,nbar4,3
+61,a photo of a skateboard above a person,1980,64,1,0.2529788613319397,,28,0.0,position,nbar4,3
+62,a photo of a dining table right of an oven,2012,64,1,0.843100368976593,,28,0.0,position,nbar4,3
+63,a photo of a tennis racket right of a spoon,2043,64,1,-1.01475191116333,,27,0.0,position,nbar4,3
+64,a photo of a toaster below a traffic light,2079,64,1,-0.968291401863098,,31,0.0,position,nbar4,3
+65,a photo of a frisbee right of a motorcycle,2110,64,1,0.7105492353439331,,30,0.0,position,nbar4,3
+66,a photo of a bench left of a bear,2143,64,1,-0.5867280960083008,,31,0.0,position,nbar4,3
+67,a photo of a donut right of a bench,2169,64,1,1.6009328365325928,,25,0.0,position,nbar4,3
+68,a photo of a cat below a backpack,2201,64,1,1.605539083480835,,25,0.0,position,nbar4,3
+69,a photo of a backpack below a cake,2238,64,1,-1.0511527061462402,,30,0.0,position,nbar4,3
+70,a photo of a sandwich below a knife,2264,64,1,1.329994797706604,,24,1.0,position,nbar4,3
+71,a photo of a bicycle above a parking meter,2298,64,1,0.5111123919487,,26,0.0,position,nbar4,3
+72,a photo of a knife right of a suitcase,2329,64,1,0.4899845421314239,,25,0.0,position,nbar4,3
+73,a photo of a hot dog above a knife,2360,64,1,1.1606932878494265,,24,0.0,position,nbar4,3
+74,a photo of a zebra right of a parking meter,2397,64,1,-0.7875539660453796,,29,0.0,position,nbar4,3
+75,a photo of a zebra below a broccoli,2425,64,1,1.5589203834533691,,25,0.0,position,nbar4,3
+76,a photo of a laptop below a sports ball,2458,64,1,1.932033896446228,,26,0.0,position,nbar4,3
+77,a photo of a tv above a baseball bat,2494,64,1,1.597281575202942,,30,0.0,position,nbar4,3
+78,a photo of a clock below a tv,2524,64,1,0.9907241463661194,,28,0.0,position,nbar4,3
+79,a photo of a donut below a cat,2555,64,1,1.873014569282532,,27,1.0,position,nbar4,3
+80,a photo of a fork,2585,64,1,0.5850247144699097,,25,1.0,single_object,nbar4,3
+81,a photo of a snowboard,2620,64,1,-0.1298600435256958,,28,1.0,single_object,nbar4,3
+82,a photo of a zebra,2652,64,1,1.0034639835357666,,28,1.0,single_object,nbar4,3
+83,a photo of a spoon,2685,64,1,0.7662476897239685,,29,1.0,single_object,nbar4,3
+84,a photo of a motorcycle,2714,64,1,0.418429285287857,,26,1.0,single_object,nbar4,3
+85,a photo of a dog,2744,64,1,0.3875525593757629,,24,1.0,single_object,nbar4,3
+86,a photo of a laptop,2779,64,1,0.7768344283103943,,27,1.0,single_object,nbar4,3
+87,a photo of a baseball bat,2808,64,1,0.9246293902397156,,24,1.0,single_object,nbar4,3
+88,a photo of a skis,2840,64,1,-0.2328787297010421,,24,1.0,single_object,nbar4,3
+89,a photo of a vase,2873,64,1,1.0115437507629397,,25,1.0,single_object,nbar4,3
+90,a photo of a tv remote,2907,64,1,0.8037484288215637,,27,1.0,single_object,nbar4,3
+91,a photo of a fire hydrant,2937,64,1,0.4440003335475921,,25,1.0,single_object,nbar4,3
+92,a photo of a giraffe,2971,64,1,0.7785543203353882,,27,1.0,single_object,nbar4,3
+93,a photo of a horse,3002,64,1,1.148759126663208,,26,1.0,single_object,nbar4,3
+94,a photo of a boat,3034,64,1,0.433836817741394,,26,1.0,single_object,nbar4,3
+95,a photo of a hair drier,3065,64,1,1.261875867843628,,25,0.0,single_object,nbar4,3
+96,a photo of a sink,3097,64,1,0.4324707984924316,,25,1.0,single_object,nbar4,3
+97,a photo of a knife,3130,64,1,0.7229074239730835,,26,1.0,single_object,nbar4,3
+98,a photo of a hot dog,3165,64,1,-0.3260365724563598,,29,1.0,single_object,nbar4,3
+99,a photo of a truck,3192,64,1,0.8428417444229126,,24,1.0,single_object,nbar4,3
+100,a photo of a toothbrush and a snowboard,3229,64,1,-0.1043660938739776,,29,0.0,two_object,nbar4,3
+101,a photo of a tennis racket and a wine glass,3256,64,1,-2.0049047470092773,,24,0.0,two_object,nbar4,3
+102,a photo of a toilet and a computer mouse,3288,64,1,0.0738325268030166,,24,0.0,two_object,nbar4,3
+103,a photo of an oven and a bed,3327,64,1,-1.6325594186782837,,31,0.0,two_object,nbar4,3
+104,a photo of a fork and a book,3356,64,1,1.4884071350097656,,28,1.0,two_object,nbar4,3
+105,a photo of a scissors and a bowl,3388,64,1,1.4982237815856934,,28,1.0,two_object,nbar4,3
+106,a photo of a giraffe and a computer mouse,3418,64,1,1.803597331047058,,26,0.0,two_object,nbar4,3
+107,a photo of a person and a snowboard,3451,64,1,-0.1242654025554657,,27,1.0,two_object,nbar4,3
+108,a photo of a chair and a laptop,3486,64,1,-0.0049604708328843,,30,1.0,two_object,nbar4,3
+109,a photo of a toothbrush and a bench,3518,64,1,0.933605432510376,,30,0.0,two_object,nbar4,3
+110,a photo of a bench and a vase,3550,64,1,1.6055338382720947,,30,1.0,two_object,nbar4,3
+111,a photo of a traffic light and a backpack,3576,64,1,0.947057008743286,,24,1.0,two_object,nbar4,3
+112,a photo of a computer mouse and a spoon,3614,64,1,1.434167981147766,,30,1.0,two_object,nbar4,3
+113,a photo of a tv and a bicycle,3643,64,1,1.811152458190918,,27,1.0,two_object,nbar4,3
+114,a photo of a stop sign and a dog,3678,64,1,1.7826769351959229,,30,1.0,two_object,nbar4,3
+115,a photo of a computer keyboard and a cell phone,3706,64,1,0.9628827571868896,,26,1.0,two_object,nbar4,3
+116,a photo of a couch and a snowboard,3737,64,1,1.628779053688049,,25,0.0,two_object,nbar4,3
+117,a photo of a fork and a baseball glove,3772,64,1,-1.6975287199020386,,28,0.0,two_object,nbar4,3
+118,a photo of a carrot and a couch,3802,64,1,1.110593557357788,,26,1.0,two_object,nbar4,3
+119,a photo of a baseball bat and a giraffe,3832,64,1,1.2888766527175903,,24,1.0,two_object,nbar4,3
+0,a photo of a blue cell phone and a green apple,9,64,1,0.7525856494903564,,9,0.0,color_attr,nbar8,0
+1,a photo of a brown carrot and a white potted plant,40,64,1,0.0206345431506633,,8,0.0,color_attr,nbar8,0
+2,a photo of a blue vase and a black banana,79,64,1,1.5110129117965698,,15,0.0,color_attr,nbar8,0
+3,a photo of a yellow sports ball and a green boat,110,64,1,1.833592176437378,,14,0.0,color_attr,nbar8,0
+4,a photo of a purple computer keyboard and a blue scissors,136,64,1,0.9878751039505004,,8,0.0,color_attr,nbar8,0
+5,a photo of a brown computer mouse and a purple bottle,167,64,1,1.0925662517547607,,7,0.0,color_attr,nbar8,0
+6,a photo of a yellow suitcase and a brown bus,200,64,1,0.0456288903951644,,8,0.0,color_attr,nbar8,0
+7,a photo of an orange giraffe and a white baseball glove,236,64,1,1.6204253435134888,,12,0.0,color_attr,nbar8,0
+8,a photo of an orange handbag and a green carrot,265,64,1,1.889765977859497,,9,0.0,color_attr,nbar8,0
+9,a photo of a yellow car and an orange toothbrush,303,64,1,1.609044909477234,,15,0.0,color_attr,nbar8,0
+10,a photo of a black potted plant and a yellow toilet,335,64,1,1.8787896633148196,,15,0.0,color_attr,nbar8,0
+11,a photo of an orange donut and a yellow stop sign,361,64,1,-0.4224882125854492,,9,0.0,color_attr,nbar8,0
+12,a photo of an orange tennis racket and a yellow sports ball,387,64,1,1.5237096548080444,,3,0.0,color_attr,nbar8,0
+13,a photo of a purple computer keyboard and a red chair,428,64,1,1.2986419200897217,,12,0.0,color_attr,nbar8,0
+14,a photo of a purple backpack and a white umbrella,453,64,1,1.8599534034729004,,5,0.0,color_attr,nbar8,0
+15,a photo of a yellow handbag and a blue refrigerator,480,64,1,1.9661015272140503,,0,1.0,color_attr,nbar8,0
+16,a photo of a brown knife and a blue donut,521,64,1,1.573386788368225,,9,1.0,color_attr,nbar8,0
+17,a photo of a red orange and a purple broccoli,551,64,1,1.2283895015716553,,7,0.0,color_attr,nbar8,0
+18,a photo of a green cup and a red pizza,580,64,1,1.6671632528305054,,4,1.0,color_attr,nbar8,0
+19,a photo of a blue pizza and a yellow baseball glove,613,64,1,-0.7294895052909851,,5,0.0,color_attr,nbar8,0
+20,a photo of a blue fire hydrant,645,64,1,1.6670502424240112,,5,1.0,colors,nbar8,0
+21,a photo of a pink car,676,64,1,1.8233649730682373,,4,1.0,colors,nbar8,0
+22,a photo of a purple hair drier,716,64,1,1.7224475145339966,,12,1.0,colors,nbar8,0
+23,a photo of a purple elephant,739,64,1,1.8588783740997317,,3,1.0,colors,nbar8,0
+24,a photo of a red zebra,769,64,1,0.8885287642478943,,1,1.0,colors,nbar8,0
+25,a photo of a brown computer keyboard,809,64,1,1.4471051692962646,,9,1.0,colors,nbar8,0
+26,a photo of a red dog,838,64,1,1.3710750341415403,,6,1.0,colors,nbar8,0
+27,a photo of a yellow airplane,879,64,1,1.3782634735107422,,15,1.0,colors,nbar8,0
+28,a photo of a green surfboard,910,64,1,0.7623906135559082,,14,1.0,colors,nbar8,0
+29,a photo of a black dining table,937,64,1,1.1082613468170166,,9,1.0,colors,nbar8,0
+30,a photo of a pink potted plant,972,64,1,1.806058645248413,,12,1.0,colors,nbar8,0
+31,a photo of a red giraffe,1004,64,1,0.2233265489339828,,12,1.0,colors,nbar8,0
+32,a photo of an orange laptop,1027,64,1,1.7144944667816162,,3,1.0,colors,nbar8,0
+33,a photo of a yellow parking meter,1069,64,1,1.5237579345703125,,13,1.0,colors,nbar8,0
+34,a photo of a yellow orange,1097,64,1,-0.3360671699047088,,9,0.0,colors,nbar8,0
+35,a photo of a white sheep,1133,64,1,1.3420169353485107,,13,1.0,colors,nbar8,0
+36,a photo of a black teddy bear,1152,64,1,1.6060298681259155,,0,1.0,colors,nbar8,0
+37,a photo of a blue carrot,1197,64,1,0.1517318934202194,,13,0.0,colors,nbar8,0
+38,a photo of a green bus,1216,64,1,1.511802077293396,,0,1.0,colors,nbar8,0
+39,a photo of an orange toaster,1248,64,1,1.6266313791275024,,0,1.0,colors,nbar8,0
+40,a photo of two frisbees,1284,64,1,0.6602820754051208,,4,1.0,counting,nbar8,0
+41,a photo of three persons,1314,64,1,0.5714107155799866,,2,1.0,counting,nbar8,0
+42,a photo of four bowls,1358,64,1,0.955651879310608,,14,1.0,counting,nbar8,0
+43,a photo of two bicycles,1385,64,1,1.1058909893035889,,9,0.0,counting,nbar8,0
+44,a photo of two beds,1415,64,1,0.7213312387466431,,7,1.0,counting,nbar8,0
+45,a photo of two tv remotes,1441,64,1,0.95862478017807,,1,1.0,counting,nbar8,0
+46,a photo of three fire hydrants,1480,64,1,1.5165584087371826,,8,1.0,counting,nbar8,0
+47,a photo of four giraffes,1511,64,1,0.8564425706863403,,7,0.0,counting,nbar8,0
+48,a photo of three baseball bats,1548,64,1,1.448464035987854,,12,0.0,counting,nbar8,0
+49,a photo of three refrigerators,1577,64,1,1.2853789329528809,,9,1.0,counting,nbar8,0
+50,a photo of two fire hydrants,1615,64,1,1.3652628660202026,,15,1.0,counting,nbar8,0
+51,a photo of four broccolis,1633,64,1,0.809667706489563,,1,0.0,counting,nbar8,0
+52,a photo of two carrots,1679,64,1,1.1017887592315674,,15,1.0,counting,nbar8,0
+53,a photo of four clocks,1701,64,1,1.1527174711227417,,5,1.0,counting,nbar8,0
+54,a photo of two cars,1730,64,1,0.9091452956199646,,2,1.0,counting,nbar8,0
+55,a photo of two bananas,1762,64,1,0.7712262868881226,,2,1.0,counting,nbar8,0
+56,a photo of three birds,1800,64,1,0.9953410625457764,,8,1.0,counting,nbar8,0
+57,a photo of two hair driers,1831,64,1,1.2906874418258667,,7,0.0,counting,nbar8,0
+58,a photo of two parking meters,1860,64,1,1.2812023162841797,,4,0.0,counting,nbar8,0
+59,a photo of four frisbees,1899,64,1,0.7638687491416931,,11,0.0,counting,nbar8,0
+60,a photo of a laptop left of a cow,1923,64,1,1.7944504022598269,,3,0.0,position,nbar8,0
+61,a photo of a skateboard above a person,1962,64,1,0.794474184513092,,10,0.0,position,nbar8,0
+62,a photo of a dining table right of an oven,1993,64,1,1.2005631923675537,,9,0.0,position,nbar8,0
+63,a photo of a tennis racket right of a spoon,2028,64,1,0.3617151975631714,,12,0.0,position,nbar8,0
+64,a photo of a toaster below a traffic light,2063,64,1,0.1379096508026123,,15,0.0,position,nbar8,0
+65,a photo of a frisbee right of a motorcycle,2089,64,1,0.4633914828300476,,9,0.0,position,nbar8,0
+66,a photo of a bench left of a bear,2124,64,1,1.1281652450561523,,12,0.0,position,nbar8,0
+67,a photo of a donut right of a bench,2151,64,1,1.7457870244979858,,7,0.0,position,nbar8,0
+68,a photo of a cat below a backpack,2178,64,1,1.769572138786316,,2,0.0,position,nbar8,0
+69,a photo of a backpack below a cake,2220,64,1,1.2406481504440308,,12,0.0,position,nbar8,0
+70,a photo of a sandwich below a knife,2247,64,1,1.284893035888672,,7,0.0,position,nbar8,0
+71,a photo of a bicycle above a parking meter,2273,64,1,0.3697502315044403,,1,0.0,position,nbar8,0
+72,a photo of a knife right of a suitcase,2314,64,1,1.1900691986083984,,10,0.0,position,nbar8,0
+73,a photo of a hot dog above a knife,2351,64,1,1.1827822923660278,,15,0.0,position,nbar8,0
+74,a photo of a zebra right of a parking meter,2370,64,1,1.1208281517028809,,2,0.0,position,nbar8,0
+75,a photo of a zebra below a broccoli,2415,64,1,-1.7029362916946411,,15,0.0,position,nbar8,0
+76,a photo of a laptop below a sports ball,2441,64,1,1.9492653608322144,,9,0.0,position,nbar8,0
+77,a photo of a tv above a baseball bat,2468,64,1,1.4208821058273315,,4,0.0,position,nbar8,0
+78,a photo of a clock below a tv,2502,64,1,1.2107431888580322,,6,0.0,position,nbar8,0
+79,a photo of a donut below a cat,2533,64,1,1.8780310153961184,,5,1.0,position,nbar8,0
+80,a photo of a fork,2562,64,1,1.0086079835891724,,2,1.0,single_object,nbar8,0
+81,a photo of a snowboard,2606,64,1,-0.1319277137517929,,14,1.0,single_object,nbar8,0
+82,a photo of a zebra,2633,64,1,1.1355308294296265,,9,1.0,single_object,nbar8,0
+83,a photo of a spoon,2671,64,1,0.672684907913208,,15,1.0,single_object,nbar8,0
+84,a photo of a motorcycle,2695,64,1,0.5220137238502502,,7,1.0,single_object,nbar8,0
+85,a photo of a dog,2724,64,1,0.9194236993789672,,4,1.0,single_object,nbar8,0
+86,a photo of a laptop,2763,64,1,0.6970576643943787,,11,1.0,single_object,nbar8,0
+87,a photo of a baseball bat,2791,64,1,0.5978403687477112,,7,1.0,single_object,nbar8,0
+88,a photo of a skis,2816,64,1,0.1474812775850296,,0,1.0,single_object,nbar8,0
+89,a photo of a vase,2850,64,1,1.1990396976470947,,2,1.0,single_object,nbar8,0
+90,a photo of a tv remote,2887,64,1,0.8660223484039307,,7,1.0,single_object,nbar8,0
+91,a photo of a fire hydrant,2923,64,1,0.9852303266525269,,11,1.0,single_object,nbar8,0
+92,a photo of a giraffe,2950,64,1,1.1993098258972168,,6,1.0,single_object,nbar8,0
+93,a photo of a horse,2980,64,1,1.3016555309295654,,4,1.0,single_object,nbar8,0
+94,a photo of a boat,3019,64,1,0.4963990151882171,,11,1.0,single_object,nbar8,0
+95,a photo of a hair drier,3046,64,1,1.5547758340835571,,6,1.0,single_object,nbar8,0
+96,a photo of a sink,3081,64,1,0.548495352268219,,9,1.0,single_object,nbar8,0
+97,a photo of a knife,3111,64,1,0.7064329981803894,,7,1.0,single_object,nbar8,0
+98,a photo of a hot dog,3148,64,1,0.1298745572566986,,12,1.0,single_object,nbar8,0
+99,a photo of a truck,3183,64,1,0.7896677255630493,,15,1.0,single_object,nbar8,0
+100,a photo of a toothbrush and a snowboard,3205,64,1,1.3363639116287231,,5,1.0,two_object,nbar8,0
+101,a photo of a tennis racket and a wine glass,3235,64,1,1.71481454372406,,3,1.0,two_object,nbar8,0
+102,a photo of a toilet and a computer mouse,3267,64,1,0.7397581338882446,,3,0.0,two_object,nbar8,0
+103,a photo of an oven and a bed,3301,64,1,0.3080823123455047,,5,0.0,two_object,nbar8,0
+104,a photo of a fork and a book,3330,64,1,1.7141188383102417,,2,1.0,two_object,nbar8,0
+105,a photo of a scissors and a bowl,3362,64,1,1.677795648574829,,2,1.0,two_object,nbar8,0
+106,a photo of a giraffe and a computer mouse,3400,64,1,1.6101276874542236,,8,1.0,two_object,nbar8,0
+107,a photo of a person and a snowboard,3438,64,1,0.0967292860150337,,14,1.0,two_object,nbar8,0
+108,a photo of a chair and a laptop,3469,64,1,1.3560256958007812,,13,1.0,two_object,nbar8,0
+109,a photo of a toothbrush and a bench,3490,64,1,1.6243836879730225,,2,1.0,two_object,nbar8,0
+110,a photo of a bench and a vase,3529,64,1,1.521486520767212,,9,1.0,two_object,nbar8,0
+111,a photo of a traffic light and a backpack,3564,64,1,1.7147225141525269,,12,1.0,two_object,nbar8,0
+112,a photo of a computer mouse and a spoon,3592,64,1,1.4394731521606443,,8,1.0,two_object,nbar8,0
+113,a photo of a tv and a bicycle,3622,64,1,1.8397996425628664,,6,1.0,two_object,nbar8,0
+114,a photo of a stop sign and a dog,3662,64,1,1.7428834438323977,,14,1.0,two_object,nbar8,0
+115,a photo of a computer keyboard and a cell phone,3688,64,1,0.4557483196258545,,8,1.0,two_object,nbar8,0
+116,a photo of a couch and a snowboard,3714,64,1,1.7592260837554932,,2,1.0,two_object,nbar8,0
+117,a photo of a fork and a baseball glove,3753,64,1,0.8437865376472473,,9,0.0,two_object,nbar8,0
+118,a photo of a carrot and a couch,3790,64,1,1.6731075048446655,,14,0.0,two_object,nbar8,0
+119,a photo of a baseball bat and a giraffe,3821,64,1,1.428909182548523,,13,1.0,two_object,nbar8,0
+0,a photo of a blue cell phone and a green apple,30,64,1,1.304144263267517,,30,1.0,color_attr,nbar8,1
+1,a photo of a brown carrot and a white potted plant,48,64,1,0.4918098151683807,,16,0.0,color_attr,nbar8,1
+2,a photo of a blue vase and a black banana,88,64,1,1.5255296230316162,,24,0.0,color_attr,nbar8,1
+3,a photo of a yellow sports ball and a green boat,121,64,1,1.8639189004898071,,25,1.0,color_attr,nbar8,1
+4,a photo of a purple computer keyboard and a blue scissors,152,64,1,1.6414248943328855,,24,1.0,color_attr,nbar8,1
+5,a photo of a brown computer mouse and a purple bottle,185,64,1,-1.2184020280838013,,25,0.0,color_attr,nbar8,1
+6,a photo of a yellow suitcase and a brown bus,215,64,1,1.6450506448745728,,23,1.0,color_attr,nbar8,1
+7,a photo of an orange giraffe and a white baseball glove,240,64,1,0.8015192151069641,,16,0.0,color_attr,nbar8,1
+8,a photo of an orange handbag and a green carrot,287,64,1,1.9352296590805051,,31,0.0,color_attr,nbar8,1
+9,a photo of a yellow car and an orange toothbrush,314,64,1,1.2723010778427124,,26,0.0,color_attr,nbar8,1
+10,a photo of a black potted plant and a yellow toilet,342,64,1,1.7293953895568848,,22,0.0,color_attr,nbar8,1
+11,a photo of an orange donut and a yellow stop sign,383,64,1,-0.901460826396942,,31,0.0,color_attr,nbar8,1
+12,a photo of an orange tennis racket and a yellow sports ball,414,64,1,1.5486726760864258,,30,1.0,color_attr,nbar8,1
+13,a photo of a purple computer keyboard and a red chair,441,64,1,1.2029311656951904,,25,0.0,color_attr,nbar8,1
+14,a photo of a purple backpack and a white umbrella,475,64,1,1.9580602645874023,,27,1.0,color_attr,nbar8,1
+15,a photo of a yellow handbag and a blue refrigerator,501,64,1,1.9795832633972168,,21,1.0,color_attr,nbar8,1
+16,a photo of a brown knife and a blue donut,531,64,1,1.6064491271972656,,19,1.0,color_attr,nbar8,1
+17,a photo of a red orange and a purple broccoli,566,64,1,1.2308179140090942,,22,0.0,color_attr,nbar8,1
+18,a photo of a green cup and a red pizza,606,64,1,1.5706188678741455,,30,1.0,color_attr,nbar8,1
+19,a photo of a blue pizza and a yellow baseball glove,629,64,1,-0.0327826850116252,,21,0.0,color_attr,nbar8,1
+20,a photo of a blue fire hydrant,656,64,1,1.545415282249451,,16,1.0,colors,nbar8,1
+21,a photo of a pink car,692,64,1,1.8330167531967163,,20,1.0,colors,nbar8,1
+22,a photo of a purple hair drier,724,64,1,1.8279988765716555,,20,1.0,colors,nbar8,1
+23,a photo of a purple elephant,762,64,1,1.7699285745620728,,26,1.0,colors,nbar8,1
+24,a photo of a red zebra,794,64,1,0.5288224816322327,,26,1.0,colors,nbar8,1
+25,a photo of a brown computer keyboard,824,64,1,1.4797072410583496,,24,1.0,colors,nbar8,1
+26,a photo of a red dog,857,64,1,1.0103079080581665,,25,1.0,colors,nbar8,1
+27,a photo of a yellow airplane,893,64,1,1.6089847087860107,,29,1.0,colors,nbar8,1
+28,a photo of a green surfboard,925,64,1,0.608412504196167,,29,1.0,colors,nbar8,1
+29,a photo of a black dining table,958,64,1,1.10710346698761,,30,1.0,colors,nbar8,1
+30,a photo of a pink potted plant,985,64,1,1.8652293682098389,,25,1.0,colors,nbar8,1
+31,a photo of a red giraffe,1016,64,1,0.4939127564430237,,24,1.0,colors,nbar8,1
+32,a photo of an orange laptop,1045,64,1,1.8426239490509035,,21,1.0,colors,nbar8,1
+33,a photo of a yellow parking meter,1086,64,1,1.4492770433425903,,30,1.0,colors,nbar8,1
+34,a photo of a yellow orange,1104,64,1,0.3164059221744537,,16,0.0,colors,nbar8,1
+35,a photo of a white sheep,1140,64,1,1.0019965171813965,,20,1.0,colors,nbar8,1
+36,a photo of a black teddy bear,1176,64,1,1.1676024198532104,,24,1.0,colors,nbar8,1
+37,a photo of a blue carrot,1215,64,1,1.0250517129898071,,31,0.0,colors,nbar8,1
+38,a photo of a green bus,1233,64,1,1.1818132400512695,,17,1.0,colors,nbar8,1
+39,a photo of an orange toaster,1273,64,1,1.8613203763961792,,25,1.0,colors,nbar8,1
+40,a photo of two frisbees,1297,64,1,0.8938220739364624,,17,0.0,counting,nbar8,1
+41,a photo of three persons,1341,64,1,0.7556594014167786,,29,1.0,counting,nbar8,1
+42,a photo of four bowls,1366,64,1,0.6158503293991089,,22,0.0,counting,nbar8,1
+43,a photo of two bicycles,1401,64,1,1.0884616374969482,,25,1.0,counting,nbar8,1
+44,a photo of two beds,1424,64,1,0.6856076121330261,,16,1.0,counting,nbar8,1
+45,a photo of two tv remotes,1469,64,1,0.6085976958274841,,29,0.0,counting,nbar8,1
+46,a photo of three fire hydrants,1496,64,1,1.3649464845657349,,24,1.0,counting,nbar8,1
+47,a photo of four giraffes,1532,64,1,0.9744088053703308,,28,0.0,counting,nbar8,1
+48,a photo of three baseball bats,1566,64,1,1.3945778608322144,,30,0.0,counting,nbar8,1
+49,a photo of three refrigerators,1597,64,1,1.3729093074798584,,29,1.0,counting,nbar8,1
+50,a photo of two fire hydrants,1624,64,1,1.3862383365631104,,24,1.0,counting,nbar8,1
+51,a photo of four broccolis,1653,64,1,1.16455340385437,,21,0.0,counting,nbar8,1
+52,a photo of two carrots,1693,64,1,1.1815195083618164,,29,1.0,counting,nbar8,1
+53,a photo of four clocks,1723,64,1,1.0823315382003784,,27,0.0,counting,nbar8,1
+54,a photo of two cars,1755,64,1,0.989449381828308,,27,1.0,counting,nbar8,1
+55,a photo of two bananas,1787,64,1,0.4946407079696655,,27,1.0,counting,nbar8,1
+56,a photo of three birds,1820,64,1,1.172634482383728,,28,1.0,counting,nbar8,1
+57,a photo of two hair driers,1844,64,1,1.190706729888916,,20,0.0,counting,nbar8,1
+58,a photo of two parking meters,1879,64,1,0.7823122143745422,,23,1.0,counting,nbar8,1
+59,a photo of four frisbees,1905,64,1,0.9960442185401917,,17,0.0,counting,nbar8,1
+60,a photo of a laptop left of a cow,1945,64,1,1.813137173652649,,25,0.0,position,nbar8,1
+61,a photo of a skateboard above a person,1968,64,1,0.5181614756584167,,16,0.0,position,nbar8,1
+62,a photo of a dining table right of an oven,2007,64,1,1.6075013875961304,,23,0.0,position,nbar8,1
+63,a photo of a tennis racket right of a spoon,2045,64,1,-0.9932919144630432,,29,0.0,position,nbar8,1
+64,a photo of a toaster below a traffic light,2079,64,1,-0.968291401863098,,31,0.0,position,nbar8,1
+65,a photo of a frisbee right of a motorcycle,2110,64,1,0.7105492353439331,,30,0.0,position,nbar8,1
+66,a photo of a bench left of a bear,2133,64,1,0.8954994678497314,,21,0.0,position,nbar8,1
+67,a photo of a donut right of a bench,2166,64,1,1.7898801565170288,,22,0.0,position,nbar8,1
+68,a photo of a cat below a backpack,2199,64,1,1.747382640838623,,23,0.0,position,nbar8,1
+69,a photo of a backpack below a cake,2225,64,1,0.5989736318588257,,17,0.0,position,nbar8,1
+70,a photo of a sandwich below a knife,2264,64,1,1.329994797706604,,24,1.0,position,nbar8,1
+71,a photo of a bicycle above a parking meter,2298,64,1,0.5111123919487,,26,0.0,position,nbar8,1
+72,a photo of a knife right of a suitcase,2323,64,1,1.0566191673278809,,19,0.0,position,nbar8,1
+73,a photo of a hot dog above a knife,2352,64,1,1.2469048500061035,,16,0.0,position,nbar8,1
+74,a photo of a zebra right of a parking meter,2388,64,1,1.291125774383545,,20,0.0,position,nbar8,1
+75,a photo of a zebra below a broccoli,2425,64,1,1.5589203834533691,,25,0.0,position,nbar8,1
+76,a photo of a laptop below a sports ball,2458,64,1,1.932033896446228,,26,0.0,position,nbar8,1
+77,a photo of a tv above a baseball bat,2494,64,1,1.597281575202942,,30,0.0,position,nbar8,1
+78,a photo of a clock below a tv,2517,64,1,1.3400700092315674,,21,0.0,position,nbar8,1
+79,a photo of a donut below a cat,2545,64,1,1.89554500579834,,17,0.0,position,nbar8,1
+80,a photo of a fork,2579,64,1,0.8175967335700989,,19,1.0,single_object,nbar8,1
+81,a photo of a snowboard,2615,64,1,0.0071043940261006,,23,1.0,single_object,nbar8,1
+82,a photo of a zebra,2652,64,1,1.0034639835357666,,28,1.0,single_object,nbar8,1
+83,a photo of a spoon,2685,64,1,0.7662476897239685,,29,1.0,single_object,nbar8,1
+84,a photo of a motorcycle,2714,64,1,0.418429285287857,,26,1.0,single_object,nbar8,1
+85,a photo of a dog,2740,64,1,1.0900224447250366,,20,1.0,single_object,nbar8,1
+86,a photo of a laptop,2779,64,1,0.7768344283103943,,27,1.0,single_object,nbar8,1
+87,a photo of a baseball bat,2808,64,1,0.9246293902397156,,24,1.0,single_object,nbar8,1
+88,a photo of a skis,2839,64,1,0.0945922434329986,,23,1.0,single_object,nbar8,1
+89,a photo of a vase,2867,64,1,1.0295177698135376,,19,1.0,single_object,nbar8,1
+90,a photo of a tv remote,2897,64,1,0.8950359225273132,,17,1.0,single_object,nbar8,1
+91,a photo of a fire hydrant,2930,64,1,0.8722466230392456,,18,1.0,single_object,nbar8,1
+92,a photo of a giraffe,2961,64,1,1.1614739894866943,,17,1.0,single_object,nbar8,1
+93,a photo of a horse,3002,64,1,1.148759126663208,,26,1.0,single_object,nbar8,1
+94,a photo of a boat,3025,64,1,0.5211715698242188,,17,1.0,single_object,nbar8,1
+95,a photo of a hair drier,3065,64,1,1.261875867843628,,25,0.0,single_object,nbar8,1
+96,a photo of a sink,3102,64,1,0.5093280673027039,,30,1.0,single_object,nbar8,1
+97,a photo of a knife,3130,64,1,0.7229074239730835,,26,1.0,single_object,nbar8,1
+98,a photo of a hot dog,3165,64,1,-0.3260365724563598,,29,1.0,single_object,nbar8,1
+99,a photo of a truck,3192,64,1,0.8428417444229126,,24,1.0,single_object,nbar8,1
+100,a photo of a toothbrush and a snowboard,3221,64,1,1.4206740856170654,,21,0.0,two_object,nbar8,1
+101,a photo of a tennis racket and a wine glass,3251,64,1,-1.8934348821640012,,19,0.0,two_object,nbar8,1
+102,a photo of a toilet and a computer mouse,3283,64,1,1.0828111171722412,,19,1.0,two_object,nbar8,1
+103,a photo of an oven and a bed,3326,64,1,-1.7251259088516235,,30,0.0,two_object,nbar8,1
+104,a photo of a fork and a book,3351,64,1,1.7214831113815308,,23,1.0,two_object,nbar8,1
+105,a photo of a scissors and a bowl,3380,64,1,1.6013834476470947,,20,1.0,two_object,nbar8,1
+106,a photo of a giraffe and a computer mouse,3418,64,1,1.803597331047058,,26,0.0,two_object,nbar8,1
+107,a photo of a person and a snowboard,3444,64,1,0.8837008476257324,,20,1.0,two_object,nbar8,1
+108,a photo of a chair and a laptop,3479,64,1,0.902539849281311,,23,1.0,two_object,nbar8,1
+109,a photo of a toothbrush and a bench,3505,64,1,1.3258123397827148,,17,1.0,two_object,nbar8,1
+110,a photo of a bench and a vase,3543,64,1,1.7118942737579346,,23,1.0,two_object,nbar8,1
+111,a photo of a traffic light and a backpack,3576,64,1,0.947057008743286,,24,1.0,two_object,nbar8,1
+112,a photo of a computer mouse and a spoon,3614,64,1,1.434167981147766,,30,1.0,two_object,nbar8,1
+113,a photo of a tv and a bicycle,3636,64,1,1.84319269657135,,20,1.0,two_object,nbar8,1
+114,a photo of a stop sign and a dog,3678,64,1,1.7826769351959229,,30,1.0,two_object,nbar8,1
+115,a photo of a computer keyboard and a cell phone,3706,64,1,0.9628827571868896,,26,1.0,two_object,nbar8,1
+116,a photo of a couch and a snowboard,3737,64,1,1.628779053688049,,25,0.0,two_object,nbar8,1
+117,a photo of a fork and a baseball glove,3760,64,1,1.7920162677764893,,16,1.0,two_object,nbar8,1
+118,a photo of a carrot and a couch,3793,64,1,1.3802131414413452,,17,1.0,two_object,nbar8,1
+119,a photo of a baseball bat and a giraffe,3825,64,1,1.5334138870239258,,17,0.0,two_object,nbar8,1
+0,a photo of a blue cell phone and a green apple,30,64,1,1.304144263267517,,30,1.0,color_attr,nbar16,0
+1,a photo of a brown carrot and a white potted plant,48,64,1,0.4918098151683807,,16,0.0,color_attr,nbar16,0
+2,a photo of a blue vase and a black banana,88,64,1,1.5255296230316162,,24,0.0,color_attr,nbar16,0
+3,a photo of a yellow sports ball and a green boat,121,64,1,1.8639189004898071,,25,1.0,color_attr,nbar16,0
+4,a photo of a purple computer keyboard and a blue scissors,152,64,1,1.6414248943328855,,24,1.0,color_attr,nbar16,0
+5,a photo of a brown computer mouse and a purple bottle,167,64,1,1.0925662517547607,,7,0.0,color_attr,nbar16,0
+6,a photo of a yellow suitcase and a brown bus,215,64,1,1.6450506448745728,,23,1.0,color_attr,nbar16,0
+7,a photo of an orange giraffe and a white baseball glove,236,64,1,1.6204253435134888,,12,0.0,color_attr,nbar16,0
+8,a photo of an orange handbag and a green carrot,287,64,1,1.9352296590805051,,31,0.0,color_attr,nbar16,0
+9,a photo of a yellow car and an orange toothbrush,303,64,1,1.609044909477234,,15,0.0,color_attr,nbar16,0
+10,a photo of a black potted plant and a yellow toilet,335,64,1,1.8787896633148196,,15,0.0,color_attr,nbar16,0
+11,a photo of an orange donut and a yellow stop sign,361,64,1,-0.4224882125854492,,9,0.0,color_attr,nbar16,0
+12,a photo of an orange tennis racket and a yellow sports ball,414,64,1,1.5486726760864258,,30,1.0,color_attr,nbar16,0
+13,a photo of a purple computer keyboard and a red chair,428,64,1,1.2986419200897217,,12,0.0,color_attr,nbar16,0
+14,a photo of a purple backpack and a white umbrella,475,64,1,1.9580602645874023,,27,1.0,color_attr,nbar16,0
+15,a photo of a yellow handbag and a blue refrigerator,501,64,1,1.9795832633972168,,21,1.0,color_attr,nbar16,0
+16,a photo of a brown knife and a blue donut,512,64,1,1.6829179525375366,,0,0.0,color_attr,nbar16,0
+17,a photo of a red orange and a purple broccoli,566,64,1,1.2308179140090942,,22,0.0,color_attr,nbar16,0
+18,a photo of a green cup and a red pizza,580,64,1,1.6671632528305054,,4,1.0,color_attr,nbar16,0
+19,a photo of a blue pizza and a yellow baseball glove,634,64,1,0.7963734865188599,,26,0.0,color_attr,nbar16,0
+20,a photo of a blue fire hydrant,645,64,1,1.6670502424240112,,5,1.0,colors,nbar16,0
+21,a photo of a pink car,686,64,1,1.839305400848389,,14,1.0,colors,nbar16,0
+22,a photo of a purple hair drier,724,64,1,1.8279988765716555,,20,1.0,colors,nbar16,0
+23,a photo of a purple elephant,739,64,1,1.8588783740997317,,3,1.0,colors,nbar16,0
+24,a photo of a red zebra,769,64,1,0.8885287642478943,,1,1.0,colors,nbar16,0
+25,a photo of a brown computer keyboard,824,64,1,1.4797072410583496,,24,1.0,colors,nbar16,0
+26,a photo of a red dog,838,64,1,1.3710750341415403,,6,1.0,colors,nbar16,0
+27,a photo of a yellow airplane,893,64,1,1.6089847087860107,,29,1.0,colors,nbar16,0
+28,a photo of a green surfboard,910,64,1,0.7623906135559082,,14,1.0,colors,nbar16,0
+29,a photo of a black dining table,937,64,1,1.1082613468170166,,9,1.0,colors,nbar16,0
+30,a photo of a pink potted plant,985,64,1,1.8652293682098389,,25,1.0,colors,nbar16,0
+31,a photo of a red giraffe,1016,64,1,0.4939127564430237,,24,1.0,colors,nbar16,0
+32,a photo of an orange laptop,1045,64,1,1.8426239490509035,,21,1.0,colors,nbar16,0
+33,a photo of a yellow parking meter,1069,64,1,1.5237579345703125,,13,1.0,colors,nbar16,0
+34,a photo of a yellow orange,1104,64,1,0.3164059221744537,,16,0.0,colors,nbar16,0
+35,a photo of a white sheep,1133,64,1,1.3420169353485107,,13,1.0,colors,nbar16,0
+36,a photo of a black teddy bear,1152,64,1,1.6060298681259155,,0,1.0,colors,nbar16,0
+37,a photo of a blue carrot,1215,64,1,1.0250517129898071,,31,0.0,colors,nbar16,0
+38,a photo of a green bus,1216,64,1,1.511802077293396,,0,1.0,colors,nbar16,0
+39,a photo of an orange toaster,1273,64,1,1.8613203763961792,,25,1.0,colors,nbar16,0
+40,a photo of two frisbees,1297,64,1,0.8938220739364624,,17,0.0,counting,nbar16,0
+41,a photo of three persons,1341,64,1,0.7556594014167786,,29,1.0,counting,nbar16,0
+42,a photo of four bowls,1358,64,1,0.955651879310608,,14,1.0,counting,nbar16,0
+43,a photo of two bicycles,1385,64,1,1.1058909893035889,,9,0.0,counting,nbar16,0
+44,a photo of two beds,1415,64,1,0.7213312387466431,,7,1.0,counting,nbar16,0
+45,a photo of two tv remotes,1441,64,1,0.95862478017807,,1,1.0,counting,nbar16,0
+46,a photo of three fire hydrants,1480,64,1,1.5165584087371826,,8,1.0,counting,nbar16,0
+47,a photo of four giraffes,1532,64,1,0.9744088053703308,,28,0.0,counting,nbar16,0
+48,a photo of three baseball bats,1548,64,1,1.448464035987854,,12,0.0,counting,nbar16,0
+49,a photo of three refrigerators,1597,64,1,1.3729093074798584,,29,1.0,counting,nbar16,0
+50,a photo of two fire hydrants,1624,64,1,1.3862383365631104,,24,1.0,counting,nbar16,0
+51,a photo of four broccolis,1653,64,1,1.16455340385437,,21,0.0,counting,nbar16,0
+52,a photo of two carrots,1693,64,1,1.1815195083618164,,29,1.0,counting,nbar16,0
+53,a photo of four clocks,1701,64,1,1.1527174711227417,,5,1.0,counting,nbar16,0
+54,a photo of two cars,1755,64,1,0.989449381828308,,27,1.0,counting,nbar16,0
+55,a photo of two bananas,1762,64,1,0.7712262868881226,,2,1.0,counting,nbar16,0
+56,a photo of three birds,1820,64,1,1.172634482383728,,28,1.0,counting,nbar16,0
+57,a photo of two hair driers,1831,64,1,1.2906874418258667,,7,0.0,counting,nbar16,0
+58,a photo of two parking meters,1860,64,1,1.2812023162841797,,4,0.0,counting,nbar16,0
+59,a photo of four frisbees,1905,64,1,0.9960442185401917,,17,0.0,counting,nbar16,0
+60,a photo of a laptop left of a cow,1945,64,1,1.813137173652649,,25,0.0,position,nbar16,0
+61,a photo of a skateboard above a person,1962,64,1,0.794474184513092,,10,0.0,position,nbar16,0
+62,a photo of a dining table right of an oven,2007,64,1,1.6075013875961304,,23,0.0,position,nbar16,0
+63,a photo of a tennis racket right of a spoon,2028,64,1,0.3617151975631714,,12,0.0,position,nbar16,0
+64,a photo of a toaster below a traffic light,2063,64,1,0.1379096508026123,,15,0.0,position,nbar16,0
+65,a photo of a frisbee right of a motorcycle,2110,64,1,0.7105492353439331,,30,0.0,position,nbar16,0
+66,a photo of a bench left of a bear,2124,64,1,1.1281652450561523,,12,0.0,position,nbar16,0
+67,a photo of a donut right of a bench,2166,64,1,1.7898801565170288,,22,0.0,position,nbar16,0
+68,a photo of a cat below a backpack,2178,64,1,1.769572138786316,,2,0.0,position,nbar16,0
+69,a photo of a backpack below a cake,2220,64,1,1.2406481504440308,,12,0.0,position,nbar16,0
+70,a photo of a sandwich below a knife,2264,64,1,1.329994797706604,,24,1.0,position,nbar16,0
+71,a photo of a bicycle above a parking meter,2298,64,1,0.5111123919487,,26,0.0,position,nbar16,0
+72,a photo of a knife right of a suitcase,2314,64,1,1.1900691986083984,,10,0.0,position,nbar16,0
+73,a photo of a hot dog above a knife,2352,64,1,1.2469048500061035,,16,0.0,position,nbar16,0
+74,a photo of a zebra right of a parking meter,2388,64,1,1.291125774383545,,20,0.0,position,nbar16,0
+75,a photo of a zebra below a broccoli,2425,64,1,1.5589203834533691,,25,0.0,position,nbar16,0
+76,a photo of a laptop below a sports ball,2441,64,1,1.9492653608322144,,9,0.0,position,nbar16,0
+77,a photo of a tv above a baseball bat,2494,64,1,1.597281575202942,,30,0.0,position,nbar16,0
+78,a photo of a clock below a tv,2517,64,1,1.3400700092315674,,21,0.0,position,nbar16,0
+79,a photo of a donut below a cat,2545,64,1,1.89554500579834,,17,0.0,position,nbar16,0
+80,a photo of a fork,2562,64,1,1.0086079835891724,,2,1.0,single_object,nbar16,0
+81,a photo of a snowboard,2615,64,1,0.0071043940261006,,23,1.0,single_object,nbar16,0
+82,a photo of a zebra,2633,64,1,1.1355308294296265,,9,1.0,single_object,nbar16,0
+83,a photo of a spoon,2685,64,1,0.7662476897239685,,29,1.0,single_object,nbar16,0
+84,a photo of a motorcycle,2695,64,1,0.5220137238502502,,7,1.0,single_object,nbar16,0
+85,a photo of a dog,2740,64,1,1.0900224447250366,,20,1.0,single_object,nbar16,0
+86,a photo of a laptop,2779,64,1,0.7768344283103943,,27,1.0,single_object,nbar16,0
+87,a photo of a baseball bat,2808,64,1,0.9246293902397156,,24,1.0,single_object,nbar16,0
+88,a photo of a skis,2816,64,1,0.1474812775850296,,0,1.0,single_object,nbar16,0
+89,a photo of a vase,2850,64,1,1.1990396976470947,,2,1.0,single_object,nbar16,0
+90,a photo of a tv remote,2897,64,1,0.8950359225273132,,17,1.0,single_object,nbar16,0
+91,a photo of a fire hydrant,2923,64,1,0.9852303266525269,,11,1.0,single_object,nbar16,0
+92,a photo of a giraffe,2950,64,1,1.1993098258972168,,6,1.0,single_object,nbar16,0
+93,a photo of a horse,2980,64,1,1.3016555309295654,,4,1.0,single_object,nbar16,0
+94,a photo of a boat,3026,64,1,0.5398626327514648,,18,1.0,single_object,nbar16,0
+95,a photo of a hair drier,3046,64,1,1.5547758340835571,,6,1.0,single_object,nbar16,0
+96,a photo of a sink,3081,64,1,0.548495352268219,,9,1.0,single_object,nbar16,0
+97,a photo of a knife,3130,64,1,0.7229074239730835,,26,1.0,single_object,nbar16,0
+98,a photo of a hot dog,3148,64,1,0.1298745572566986,,12,1.0,single_object,nbar16,0
+99,a photo of a truck,3192,64,1,0.8428417444229126,,24,1.0,single_object,nbar16,0
+100,a photo of a toothbrush and a snowboard,3221,64,1,1.4206740856170654,,21,0.0,two_object,nbar16,0
+101,a photo of a tennis racket and a wine glass,3235,64,1,1.71481454372406,,3,1.0,two_object,nbar16,0
+102,a photo of a toilet and a computer mouse,3283,64,1,1.0828111171722412,,19,1.0,two_object,nbar16,0
+103,a photo of an oven and a bed,3301,64,1,0.3080823123455047,,5,0.0,two_object,nbar16,0
+104,a photo of a fork and a book,3330,64,1,1.7141188383102417,,2,1.0,two_object,nbar16,0
+105,a photo of a scissors and a bowl,3362,64,1,1.677795648574829,,2,1.0,two_object,nbar16,0
+106,a photo of a giraffe and a computer mouse,3418,64,1,1.803597331047058,,26,0.0,two_object,nbar16,0
+107,a photo of a person and a snowboard,3444,64,1,0.8837008476257324,,20,1.0,two_object,nbar16,0
+108,a photo of a chair and a laptop,3469,64,1,1.3560256958007812,,13,1.0,two_object,nbar16,0
+109,a photo of a toothbrush and a bench,3490,64,1,1.6243836879730225,,2,1.0,two_object,nbar16,0
+110,a photo of a bench and a vase,3543,64,1,1.7118942737579346,,23,1.0,two_object,nbar16,0
+111,a photo of a traffic light and a backpack,3564,64,1,1.7147225141525269,,12,1.0,two_object,nbar16,0
+112,a photo of a computer mouse and a spoon,3592,64,1,1.4394731521606443,,8,1.0,two_object,nbar16,0
+113,a photo of a tv and a bicycle,3636,64,1,1.84319269657135,,20,1.0,two_object,nbar16,0
+114,a photo of a stop sign and a dog,3678,64,1,1.7826769351959229,,30,1.0,two_object,nbar16,0
+115,a photo of a computer keyboard and a cell phone,3706,64,1,0.9628827571868896,,26,1.0,two_object,nbar16,0
+116,a photo of a couch and a snowboard,3714,64,1,1.7592260837554932,,2,1.0,two_object,nbar16,0
+117,a photo of a fork and a baseball glove,3760,64,1,1.7920162677764893,,16,1.0,two_object,nbar16,0
+118,a photo of a carrot and a couch,3790,64,1,1.6731075048446655,,14,0.0,two_object,nbar16,0
+119,a photo of a baseball bat and a giraffe,3825,64,1,1.5334138870239258,,17,0.0,two_object,nbar16,0

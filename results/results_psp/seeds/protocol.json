@@ -1,0 +1,160 @@
+{
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "metrics_sha256": "245e3a7da5e77ac2db832947a33b650c2618544379a197e20b3a18dbd7213be5",
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "geneval_sha256": "7544ac23f8b2adabc7ff48ea142de59baa4b0f9b6ed9221a3890b9e69d5cdc8d",
+  "official_script": "/home/msai/rui035/PSP/results_scripts/baselines/compute_mt_scheduled_from_rewards.py",
+  "official_script_sha256": "cdfee28133f60d36f0573b6000f7843bb24c0d873e968f88b57c292545821786",
+  "guidance_metric": "ir",
+  "total_steps": 64,
+  "std_definition": "sample standard deviation across seed-group means; blank for one group",
+  "configurations": [
+    {
+      "name": "k1_reference",
+      "k_init": 1,
+      "cutoff_times": [],
+      "remaining_particles": [],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "compute_C": 64
+    },
+    {
+      "name": "k2",
+      "k_init": 2,
+      "cutoff_times": [
+        16
+      ],
+      "remaining_particles": [
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "compute_C": 80
+    },
+    {
+      "name": "k4",
+      "k_init": 4,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        2,
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "compute_C": 128
+    },
+    {
+      "name": "k8",
+      "k_init": 8,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "k16",
+      "k_init": 16,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        8,
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "k32",
+      "k_init": 32,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        16,
+        8
+      ],
+      "logical_seeds": [
+        0
+      ],
+      "compute_C": 1024
+    }
+  ],
+  "experiment": "vary K; halve at steps 16 and 32 when integer survivors permit",
+  "configuration_selection": "grid and reference configurations declared in code; no score-based tuning"
+}

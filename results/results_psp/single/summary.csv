@@ -1,0 +1,2 @@
+configuration,k_init,cutoff_times,remaining_particles,total_steps,compute_C,nbar,num_groups,num_prompts,image_reward_mean,image_reward_std,geneval_mean,geneval_std
+custom,8,"16,32","4,2",64,256,4.0,4,120,0.8263274427697372,0.013459109370997719,0.55625,0.019690898442719183

@@ -1,0 +1,213 @@
+{
+  "metrics": "/home/msai/rui035/ai6132/cache/T64_metrics.csv",
+  "metrics_sha256": "245e3a7da5e77ac2db832947a33b650c2618544379a197e20b3a18dbd7213be5",
+  "geneval_csv": "/home/msai/rui035/ai6132/data/geneval_per_image.csv",
+  "geneval_sha256": "7544ac23f8b2adabc7ff48ea142de59baa4b0f9b6ed9221a3890b9e69d5cdc8d",
+  "official_script": "/home/msai/rui035/PSP/results_scripts/baselines/compute_mt_scheduled_from_rewards.py",
+  "official_script_sha256": "cdfee28133f60d36f0573b6000f7843bb24c0d873e968f88b57c292545821786",
+  "guidance_metric": "ir",
+  "total_steps": 64,
+  "std_definition": "sample standard deviation across seed-group means; blank for one group",
+  "configurations": [
+    {
+      "name": "c128_t4_8_r2_1",
+      "k_init": 16,
+      "cutoff_times": [
+        4,
+        8
+      ],
+      "remaining_particles": [
+        2,
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 128
+    },
+    {
+      "name": "c256_t4_16_r8_2",
+      "k_init": 16,
+      "cutoff_times": [
+        4,
+        16
+      ],
+      "remaining_particles": [
+        8,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "c256_t4_40_r4_2",
+      "k_init": 16,
+      "cutoff_times": [
+        4,
+        40
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "c256_t4_48_r4_1",
+      "k_init": 16,
+      "cutoff_times": [
+        4,
+        48
+      ],
+      "remaining_particles": [
+        4,
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "c256_t8_16_r4_2",
+      "k_init": 16,
+      "cutoff_times": [
+        8,
+        16
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "c256_t8_32_r4_1",
+      "k_init": 16,
+      "cutoff_times": [
+        8,
+        32
+      ],
+      "remaining_particles": [
+        4,
+        1
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 256
+    },
+    {
+      "name": "c512_t4_56_r8_4",
+      "k_init": 16,
+      "cutoff_times": [
+        4,
+        56
+      ],
+      "remaining_particles": [
+        8,
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "c512_t8_48_r8_4",
+      "k_init": 16,
+      "cutoff_times": [
+        8,
+        48
+      ],
+      "remaining_particles": [
+        8,
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "c512_t16_32_r8_4",
+      "k_init": 16,
+      "cutoff_times": [
+        16,
+        32
+      ],
+      "remaining_particles": [
+        8,
+        4
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "c512_t24_32_r8_2",
+      "k_init": 16,
+      "cutoff_times": [
+        24,
+        32
+      ],
+      "remaining_particles": [
+        8,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "c512_t24_48_r4_2",
+      "k_init": 16,
+      "cutoff_times": [
+        24,
+        48
+      ],
+      "remaining_particles": [
+        4,
+        2
+      ],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 512
+    },
+    {
+      "name": "c1024_no_pruning",
+      "k_init": 16,
+      "cutoff_times": [],
+      "remaining_particles": [],
+      "logical_seeds": [
+        0,
+        1
+      ],
+      "compute_C": 1024
+    }
+  ],
+  "experiment": "fixed initial K=16; vary exact compute and pruning allocation",
+  "configuration_selection": "grid and reference configurations declared in code; no score-based tuning"
+}

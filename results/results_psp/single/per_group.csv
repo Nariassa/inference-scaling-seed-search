@@ -1,0 +1,5 @@
+logical_seed,particle_spec,num_prompts,mean_ir,mean_hps,overall_geneval_from_ir,overall_geneval_from_hps,configuration,compute_C,nbar
+0,0..7,120,0.8196144659382602,,0.5416666666666667,,custom,256,4.0
+1,8..15,120,0.8462387932930142,,0.5416666666666667,,custom,256,4.0
+2,16..23,120,0.8170062710298225,,0.5583333333333333,,custom,256,4.0
+3,24..31,120,0.8224502408178523,,0.5833333333333334,,custom,256,4.0
