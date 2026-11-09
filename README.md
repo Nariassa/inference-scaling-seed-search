@@ -106,10 +106,10 @@ On an L4 (24 GB), one prompt × 32 seeds takes about 203 s, so all 120 prompts t
 
 | Member | Role |
 |---|---|
-| (A) Ka Lam LI | Coordinator; generation harness, compute counter, Best-of-N sweeps |
-| (B) Rui YANG | PSP replay, schedule sweeps, adaptive schedule |
-| (C)Canying CHEN | Prompt subset, GenEval and held-out evaluation |
-| (D)Kaixin ZHU | Qualitative figures, diversity, introduction and conclusion |
+| (A) Ka Lam LI | Best-of-N baseline: build the shared generation harness and compute counter. Run the seed-count and compute-budget sweeps for best-of-N. |
+| (B) Rui YANG | PSP: get the released code running. Run the pruning-step and schedule ablations, plus the seed-count and budget sweeps for PSP |
+| (C)Canying CHEN | GenEval-style prompt subset, verifiers (CLIP, ImageReward), diversity metric, scoring script, the matched-compute comparison tables, and the verifier ablation |
+| (D)Kaixin ZHU | Qualitative figures, failure cases, and reward-hacking and diversity analysis. Design the adaptive pruning schedule and implement it once B’s code runs. |
 
 Timeline: Nov 9 setup → Nov 10 cache handed over → Nov 11–13 sweeps and analysis → Nov 14 writing → **Nov 16 deadline**.
 
