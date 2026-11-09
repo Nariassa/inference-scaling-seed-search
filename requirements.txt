@@ -1,0 +1,9 @@
+# Tested together on Colab (Python 3.12, CUDA). Use the torch build Colab/your system provides.
+# After installing:  pip uninstall -y peft   (newer peft breaks diffusers with transformers 4.38)
+diffusers==0.31.0
+transformers==4.38.2
+huggingface_hub==0.25.2
+image-reward==1.5
+clip @ git+https://github.com/openai/CLIP.git
+pandas
+matplotlib
