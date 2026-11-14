@@ -1,0 +1,23 @@
+{
+    "experiment": "CLIP Image Diversity Evaluation",
+    "metric": "mean_pairwise_cosine_distance",
+    "model": "ViT-B-32-quickgelu",
+    "pretrained": "openai",
+    "num_images": 3840,
+    "num_prompts": 120,
+    "images_per_prompt": 32,
+    "pairs_per_prompt": 496,
+    "total_pairs": 59520,
+    "embedding_dimension": 512,
+    "global_diversity": {
+        "mean": 0.16775207308431467,
+        "std": 0.05643451381268398,
+        "min": 0.04861898720264435,
+        "25%": 0.13112178072333336,
+        "median": 0.1654321551322937,
+        "75%": 0.19671224430203438,
+        "max": 0.3523881137371063
+    },
+    "interpretation": "Mean pairwise cosine distance among the 32 candidate images for each prompt. This measures candidate-pool diversity, not selected-output diversity.",
+    "completed_at": "2026-11-14T04:14:17.949732"
+}

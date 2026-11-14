@@ -1,0 +1,19 @@
+{
+  "experiment": "Matched-compute comparison: BoN vs PSP",
+  "matching_keys": [
+    "prompt_id",
+    "seed"
+  ],
+  "metrics": [
+    "ImageReward",
+    "GenEval accuracy",
+    "GenEval soft score",
+    "CLIP score"
+  ],
+  "aggregation": "Mean and sample standard deviation across independent seed-group means.",
+  "psp_reference_rule": "Use the is_reference flag declared in PSP budget summary; all configurations are retained in the full table.",
+  "num_bon_selected_images": 7560,
+  "num_psp_selected_images": 2880,
+  "num_bon_groups": 63,
+  "num_psp_groups": 24
+}

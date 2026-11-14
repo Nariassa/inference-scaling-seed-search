@@ -1,0 +1,15 @@
+{
+  "experiment": "Final-candidate verifier ablation",
+  "candidate_pool": "32 images per prompt",
+  "image_reward_step": 64,
+  "N_values": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "selection_rule": "Partition 32 seeds into consecutive groups of N; select maximum verifier score independently.",
+  "note": "Final-candidate selection only; not an intermediate PSP pruning verifier experiment."
+}

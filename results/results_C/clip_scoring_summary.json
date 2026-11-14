@@ -1,0 +1,30 @@
+{
+    "experiment": "CLIP Scoring",
+    "project": "Inference-Time Scaling for Diffusion",
+    "model": "ViT-B-32-quickgelu",
+    "pretrained": "openai",
+    "metric": "Cosine similarity",
+    "device": "cuda",
+    "image_count": 3840,
+    "prompt_count": 120,
+    "images_per_prompt": 32,
+    "embedding_shape": [
+        3840,
+        512
+    ],
+    "embedding_dimension": 512,
+    "embedding_normalized": true,
+    "score_statistics": {
+        "count": 3840.0,
+        "mean": 0.3149494970139737,
+        "std": 0.029601002247542536,
+        "min": 0.1901639699935913,
+        "25%": 0.29363028705120087,
+        "50%": 0.3139706403017044,
+        "75%": 0.3343537822365761,
+        "max": 0.413398802280426
+    },
+    "completed_at": "2026-11-14T04:11:31.933787",
+    "score_file": "/content/drive/MyDrive/6132gp/inference-scaling-seed-search/results/results_C/clip_scores_quickgelu.csv",
+    "embedding_file": "/content/drive/MyDrive/6132gp/inference-scaling-seed-search/results/results_C/clip_image_embeddings.npy"
+}

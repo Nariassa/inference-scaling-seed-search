@@ -1,0 +1,18 @@
+{
+  "dataset": "GenEval-style prompt subset",
+  "num_prompts": 120,
+  "num_images": 3840,
+  "images_per_prompt": 32,
+  "num_tags": 6,
+  "prompts_per_tag": 20,
+  "tags": [
+    "color_attr",
+    "colors",
+    "counting",
+    "position",
+    "single_object",
+    "two_object"
+  ],
+  "duplicate_prompt_seed_pairs": 0,
+  "validation": "passed"
+}

@@ -1,0 +1,14 @@
+{
+    "project": "Inference-Time Scaling for Diffusion",
+    "component": "C - Evaluation and Analysis",
+    "created_at": "2026-11-14T02:43:09.795590",
+    "clip_model": "ViT-B-32-quickgelu",
+    "clip_pretrained": "openai",
+    "image_count": 3840,
+    "prompt_count": 120,
+    "images_per_prompt": 32,
+    "image_size": 512,
+    "gpu": "NVIDIA L4",
+    "sample_directory": "/content/drive/MyDrive/ai6132_its/cache/sd15_geneval_T64/samples",
+    "results_directory": "/content/drive/MyDrive/6132gp/inference-scaling-seed-search/results/results_C"
+}
